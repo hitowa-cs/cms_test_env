@@ -55,3 +55,60 @@ collections:
               - {name: embed, label: Embed video, hint: 'YouTube or Vimeo url'}
               - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
 
+backend:
+  name: git-gateway
+  branch: master
+media_folder: ".vuepress/public/"
+public_folder: "../../"
+display_url: lustrous-madeleine-671076.netlify.app
+collections:
+  - name: pages
+    label: Pages
+    folder: "/hitowa/"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: true
+
+    fields:
+      - {name: title, widget: string}
+      - {name: layout, widget: select, options: ['grid', 'full-width', 'about', 'contact']}
+      - {label: "categories", name: "categories", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
+
+      - name: sections
+        widget: list
+        types:
+          - name: text_section
+            label: Text
+            widget: object
+            fields: 
+              - {name: text, widget: markdown}
+
+          - name: image_section
+            label: Image
+            widget: object
+            fields: 
+              - {name: image, widget: image}
+              - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
+
+
+          - name: slider_section
+            label: Slider
+            widget: object
+            preview: true
+            fields:
+              - name: images  
+                widget: list
+                field: {label: Image, name: image, widget: image}
+              - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
+
+          - name: video_section
+            label: Video
+            widget: object
+            fields:
+              - {name: embed, label: Embed video, hint: 'YouTube or Vimeo url'}
+              - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
+
