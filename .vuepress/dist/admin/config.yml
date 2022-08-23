@@ -24,13 +24,46 @@ collections:
       - name: sections
         widget: list
         types:
- - name: text_section
-    label: Text
-    widget: object
-    folder: "/hitowa/"
-    create: true
-    editor:
-      preview: true
-  
-  fields: 
-    - {name: text, widget: markdown}
+          - name: text_section
+            label: Text
+            widget: object
+            folder: "/hitowa/"
+            slug: "{{slug}}"
+            create: true
+            fields: 
+              - {name: text, widget: markdown}
+
+          - name: image_section
+            label: Image
+            widget: object
+            folder: "/hitowa/"
+            slug: "{{slug}}"
+            create: true
+            fields: 
+              - {name: image, widget: image}
+              - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
+
+
+          - name: slider_section
+            label: Slider
+            widget: object
+            folder: "/hitowa/"
+            slug: "{{slug}}"
+            create: true
+            preview: true
+            fields:
+              - name: images  
+                widget: list
+                field: {label: Image, name: image, widget: image}
+              - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
+
+          - name: video_section
+            label: Video
+            widget: object
+            folder: "/hitowa/"
+            slug: "{{slug}}"
+            create: true
+            fields:
+              - {name: embed, label: Embed video, hint: 'YouTube or Vimeo url'}
+              - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
+
