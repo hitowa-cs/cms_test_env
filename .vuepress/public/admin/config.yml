@@ -27,6 +27,8 @@ collections:
           - name: text_section
             label: Text
             widget: object
+            folder: "/hitowa/"
+            slug: "{{slug}}"
             create: true
             fields: 
               - {name: text, widget: markdown}
