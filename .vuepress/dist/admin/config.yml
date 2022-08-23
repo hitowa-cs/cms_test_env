@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 media_folder: ".vuepress/public/"
-public_folder: "images"
+public_folder: "../../"
 display_url: lustrous-madeleine-671076.netlify.app
 collections:
   - name: pages
