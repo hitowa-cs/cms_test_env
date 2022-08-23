@@ -9,26 +9,9 @@ collections:
     label: Pages
     folder: "/hitowa/"
     create: true
-    slug: "{{slug}}"
-    editor:
-      preview: true
-
-    fields:
-      - {name: title, widget: string}
-      - {name: layout, widget: select, options: ['grid', 'full-width', 'about', 'contact']}
-      - {label: "categories", name: "categories", widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Featured Image", name: "image", widget: "image", required: false}
-      - {label: "Publish Date", name: "date", widget: "datetime", required: false}
-
-collections:
-  - name: pages
-    label: Pages
-    folder: data/pages/
-    create: true
     slug: '{{title}}'
     editor:
-      preview: false
+      preview: true
 
     fields:
       - {name: title, widget: string}
