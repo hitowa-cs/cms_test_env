@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/download.png
+heroImage: /images/new.png
 actionText: Get Started →
 actionLink: /categories/
 features:
