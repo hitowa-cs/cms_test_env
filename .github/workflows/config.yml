@@ -39,6 +39,7 @@ jobs:
         run: npm ci
       - name: Build with VuePress
         run: npm run build
+      - name: fix path
         run: bash bin/replace_path.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
