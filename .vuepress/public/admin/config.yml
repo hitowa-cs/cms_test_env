@@ -7,7 +7,6 @@ display_url: lustrous-madeleine-671076.netlify.app
 collections:
   - name: pages
     label: Pages
-    widget: list
     folder: "/hitowa/"
     create: true
     slug: "{{slug}}"
@@ -22,24 +21,31 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", required: false}
 
+collections:
+  - name: pages
+    label: Pages
+    folder: data/pages/
+    create: true
+    slug: '{{title}}'
+    editor:
+      preview: false
+
+    fields:
+      - {name: title, widget: string}
+      - {name: layout, widget: select, options: ['grid', 'full-width', 'about', 'contact']}
+
       - name: sections
         widget: list
         types:
           - name: text_section
             label: Text
             widget: object
-            folder: "/hitowa/"
-            slug: "{{slug}}"
-            create: true
             fields: 
-              - {label: "Body", name: "body", widget: "markdown"}
+              - {name: text, widget: markdown}
 
           - name: image_section
             label: Image
             widget: object
-            folder: "/hitowa/"
-            slug: "{{slug}}"
-            create: true
             fields: 
               - {name: image, widget: image}
               - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
@@ -48,10 +54,6 @@ collections:
           - name: slider_section
             label: Slider
             widget: object
-            folder: "/hitowa/"
-            slug: "{{slug}}"
-            create: true
-            preview: true
             fields:
               - name: images  
                 widget: list
@@ -61,10 +63,6 @@ collections:
           - name: video_section
             label: Video
             widget: object
-            folder: "/hitowa/"
-            slug: "{{slug}}"
-            create: true
             fields:
               - {name: embed, label: Embed video, hint: 'YouTube or Vimeo url'}
               - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
-
