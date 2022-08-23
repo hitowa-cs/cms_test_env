@@ -3,6 +3,7 @@ title: Testing post
 layout: grid
 categories:
   - TODAY
+image: images/unnamed.png
 date: 2022-08-23T04:49:34.255Z
 sections:
   - type: text_section
