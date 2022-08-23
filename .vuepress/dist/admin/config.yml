@@ -7,7 +7,7 @@ display_url: lustrous-madeleine-671076.netlify.app
 collections:
   - name: pages
     label: Pages
-    folder: "/hitowa/"
+    folder: "hitowa"
     create: true
     slug: "{{slug}}"
     editor:
@@ -27,7 +27,7 @@ collections:
           - name: text_section
             label: Text
             widget: object
-            folder: "/hitowa/"
+            folder: "hitowa"
             slug: "{{slug}}"
             create: true
             fields: 
@@ -36,7 +36,7 @@ collections:
           - name: image_section
             label: Image
             widget: object
-            folder: "/hitowa/"
+            folder: "hitowa"
             slug: "{{slug}}"
             create: true
             fields: 
@@ -47,7 +47,7 @@ collections:
           - name: slider_section
             label: Slider
             widget: object
-            folder: "/hitowa/"
+            folder: "hitowa"
             slug: "{{slug}}"
             create: true
             preview: true
@@ -60,7 +60,7 @@ collections:
           - name: video_section
             label: Video
             widget: object
-            folder: "/hitowa/"
+            folder: "hitowa"
             slug: "{{slug}}"
             create: true
             fields:
