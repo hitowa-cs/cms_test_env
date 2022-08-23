@@ -28,8 +28,10 @@ sections:
       fields:
 
       \- {label: "Body", name: "body", widget: "markdown"}
+    text: tyrtyrtyrtytryrtyhdfghdfh
   - type: image_section
     image: ../../unnamed.png
+    background-color: Medium
 ---
 \- name: sections
 
