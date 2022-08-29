@@ -3,6 +3,7 @@ title: Test Post 1
 layout: full-width
 categories:
   - NEW POST
+image: ../../download.png
 date: 2022-08-29T01:55:00.096Z
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p6h-rYSVX90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
