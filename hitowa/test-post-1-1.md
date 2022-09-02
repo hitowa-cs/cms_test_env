@@ -6,9 +6,11 @@ categories:
 image: ../../download.png
 date: 2022-08-29T01:55:00.096Z
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p6h-rYSVX90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-# **\#夏季賞与の支給について New!!**
+<span class="text-3xl text-red-500 font-bold">夏季賞与の支給について New!!</span>
+
+<br>
 
 2002年9月の上における当においては、このイリーゼアーチ上にアップした上とをす ことがでました。 「これはにおいて日々サービている。各部門が一丸となった、と思います。まずはの厳さんに をしたいと思います。いつもありがとうございます。
 
