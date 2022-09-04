@@ -3,6 +3,9 @@ module.exports = {
   description:'HITOWA GROUP MESSAGE',
   dest: 'dist',
   public: 'public',
+  themeConfig: {
+    navbar: false
+  },
   postcss: {
     plugins: [
       require("autoprefixer"),
