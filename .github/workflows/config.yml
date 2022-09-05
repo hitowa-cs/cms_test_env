@@ -36,6 +36,7 @@ jobs:
           node-version: "16"
           cache: npm
       - name: Install dependencies
+        run: yarn install --frozen-lockfile
       - run: yarn build
       - name: Release to S3
         env:  
