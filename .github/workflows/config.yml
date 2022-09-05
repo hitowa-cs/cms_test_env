@@ -23,6 +23,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+defaults:
+  run:
+    shell: bash
+    working-directory: ./cms_backend
+
 jobs:
   # Build job
   build:
@@ -34,7 +39,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16"
-          cache: npm
+          cache: yarn 
+          cache-dependency-path: ./cms_backend/yarn.lock
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - run: yarn build
