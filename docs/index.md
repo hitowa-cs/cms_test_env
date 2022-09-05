@@ -1,3 +1,10 @@
+---
+title: トップページ
+layout: full-width
+categories:
+  - test
+date: 2022-09-05T09:07:11.074Z
+---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 <span class="text-3xl text-red-500 font-bold">夏季賞与の支給について New!!</span>
