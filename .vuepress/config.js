@@ -6,6 +6,13 @@ module.exports = {
   themeConfig: {
     navbar: false
   },
+  patterns: [
+    'docs/*.md',
+    'docs/**/*.md',
+    '.vupress/**/*.vue',
+    '!amplify/**',
+    '!tools/**'
+  ],
   postcss: {
     plugins: [
       require("autoprefixer"),
