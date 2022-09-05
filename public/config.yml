@@ -3,7 +3,7 @@ backend:
   branch: develop
 media_folder: ".vuepress/public/"
 public_folder: "../../"
-display_url: lustrous-madeleine-671076.netlify.app
+display_url: https://harmonious-salmiakki-2b92fd.netlify.app
 collections:
   - name: pages
     label: Pages
