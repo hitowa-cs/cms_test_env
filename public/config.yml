@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: develop
+  branch: staging
 media_folder: ".vuepress/public/"
 public_folder: "../../"
 display_url: https://harmonious-salmiakki-2b92fd.netlify.app
