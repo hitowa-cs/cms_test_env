@@ -2,14 +2,37 @@
 title: test
 layout: full-width
 date: 2022-09-05T15:27:18.099Z
+sections:
+  - type: image_section
+    image: ../../istock-1328054997.jpg
+  - type: text_section
+    body: |-
+      　
+
+      (セクションによる追加テキストテスト)
 ---
 <h2><span class="text-yellow-400">Vol.7　夏季賞与の支給について</span>　 <span class="text-red-500">New‼</span></h2>
 
-<span class="font-bold">※更新しました!(画像付き)</span>
+<span class="font-bold">※更新しました!(画像付き3パターン)</span>
 
-<div class="bg-gray-200 p-10">
+".vuepress/public/istock-1329798894.jpg"のimgタグ
+
+<img src=".vuepress/public/istock-1329798894.jpg" />
+
+
+
+"istock-1329798894.jpg"のimgタグ\
+<img src="istock-1329798894.jpg" />
+
+
+
+テキストエディタによる画像挿入
 
 ![](../../istock-1329798894.jpg)
+
+
+
+<div class="bg-gray-200 p-10">
 
 ■初めに
 
