@@ -5,7 +5,7 @@ date: 2022-09-05T15:27:18.099Z
 ---
 <h2><span class="text-yellow-400">Vol.7　夏季賞与の支給について</span>　 <span class="text-red-500">New‼</span></h2>
 
-<span class="font-bold">※更新しました</span>
+<span class="font-bold">※更新しました!</span>
 
 <div class="bg-gray-200 p-10">
 
