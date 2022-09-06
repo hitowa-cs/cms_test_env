@@ -76,34 +76,59 @@ export class cdkStack extends Stack {
 		const publicKey = fs.readFileSync(".secret/public.pem", "utf8");
 
 		// Create a key group to use with CloudFront signed URLs and signed cookies.
-		const keyGroup = new KeyGroup(this, "trustedKeyGroup", {
+		const keyGroup = new KeyGroup(this, "trustedKeyGroup1", {
 			items: [
-				new PublicKey(this, 'trustedPublicKey', {
+				new PublicKey(this, 'trustedPublicKey1', {
 					encodedKey: publicKey, // contents of public_key.pem file
 					// comment: 'Key is expiring on ...',
 					}),
 			],
 			// comment: 'Key group containing public keys ...',
 		});
+
 		new CfnOutput(this, `PublicKey`, { value: publicKey });
 		new CfnOutput(this, `trustedKeyGroupId`, { value: keyGroup.keyGroupId });
+
+		const originRequestPolicy =	new OriginRequestPolicy(this, 'originRequestPolicy', {
+										cookieBehavior: OriginRequestCookieBehavior.all()
+									});
+		const cachePolicy =  new CachePolicy(this, 'CachePolicy', {
+										cookieBehavior: CacheCookieBehavior.all()
+									});
+		const originDocs =  new S3Origin(websiteBucket, {
+										originAccessIdentity: originAccessIdentityId,
+										originPath: '/docs'
+									});
 
 		const distribution = new Distribution( this, 'DistributionIris', {
 			defaultRootObject: 'index.html',
 			defaultBehavior: {
-				origin: new S3Origin(websiteBucket, {
-					originAccessIdentity: originAccessIdentityId
-				}),
+				origin: originDocs,
 				viewerProtocolPolicy: ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
-				originRequestPolicy: new OriginRequestPolicy(this, 'originRequestPolicy', {
-					cookieBehavior: OriginRequestCookieBehavior.all()
-				}),
-				cachePolicy: new CachePolicy(this, 'CachePolicy', {
-					cookieBehavior: CacheCookieBehavior.all()
-				}),
+				originRequestPolicy: originRequestPolicy,
+				cachePolicy: cachePolicy,
 				trustedKeyGroups: [ keyGroup ],
 			},
 		});
+		distribution.addBehavior('/assets*', 
+			new S3Origin(websiteBucket, {
+				originAccessIdentity: originAccessIdentityId,
+			}),
+			{
+				viewerProtocolPolicy: ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+				originRequestPolicy: originRequestPolicy,
+				cachePolicy: cachePolicy,
+				trustedKeyGroups: [ keyGroup ],
+			}
+		);
+		distribution.addBehavior('/*', originDocs,
+			{
+				viewerProtocolPolicy: ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+				originRequestPolicy: originRequestPolicy,
+				cachePolicy: cachePolicy,
+				trustedKeyGroups: [ keyGroup ],
+			}
+		);
 	}
 
 	private lookup(obj, path) {
