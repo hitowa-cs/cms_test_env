@@ -5,7 +5,7 @@ categories:
   - test
 date: 2022-09-05T09:07:11.074Z
 ---
-##  **<span class="**text-yellow-400">Vol.7　夏季賞与の支給について</span>　 **<span class="**text-red-500">New‼</span>
+  <span class="text-yellow-400">Vol.7　夏季賞与の支給について</span>　 <span class="text-red-500">New‼</span>
 
 
 
