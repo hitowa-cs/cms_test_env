@@ -99,6 +99,10 @@ export class cdkStack extends Stack {
 										originAccessIdentity: originAccessIdentityId,
 										originPath: '/docs'
 									});
+		const originDirect = new S3Origin(websiteBucket, {
+										originAccessIdentity: originAccessIdentityId,
+										originPath: '/'
+									});
 
 		const distribution = new Distribution( this, 'DistributionIris', {
 			defaultRootObject: 'index.html',
@@ -110,10 +114,15 @@ export class cdkStack extends Stack {
 				trustedKeyGroups: [ keyGroup ],
 			},
 		});
-		distribution.addBehavior('/assets*', 
-			new S3Origin(websiteBucket, {
-				originAccessIdentity: originAccessIdentityId,
-			}),
+		distribution.addBehavior('/assets*', originDirect,
+			{
+				viewerProtocolPolicy: ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+				originRequestPolicy: originRequestPolicy,
+				cachePolicy: cachePolicy,
+				trustedKeyGroups: [ keyGroup ],
+			}
+		);
+		distribution.addBehavior('/images*', originDirect,
 			{
 				viewerProtocolPolicy: ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
 				originRequestPolicy: originRequestPolicy,
