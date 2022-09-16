@@ -5,7 +5,7 @@ date: 2022-09-09T00:08:30.613Z
 ---
 <h2><span class="text-yellow-400">Vol.7　夏季賞与の支給について</span>　 <span class="text-red-500">New‼</span></h2>
 
-<span class="font-bold">※更新しました </span>9/16 12:48
+<span class="font-bold">※更新しました </span>9/16 13:16
 
 <div class="bg-gray-200 p-10">
 
@@ -20,4 +20,4 @@ date: 2022-09-09T00:08:30.613Z
 
 ※ここに任意の画像を追加(追加方法は、イリーゼアーチver3.0*CMSアクセス制限対応*仕様参考資料_20220906.pptxを参照)
 
-![](/images/new.png)
+![](/images/再インストール方法.png)
