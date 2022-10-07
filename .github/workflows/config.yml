@@ -40,7 +40,7 @@ jobs:
         with:
           node-version: "16"
           cache: yarn 
-          cache-dependency-path: ./cms_test_env/yarn.lock
+          cache-dependency-path: '**/yarn.lock'
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - run: yarn build
