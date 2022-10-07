@@ -2,6 +2,9 @@
 title: test
 layout: full-width
 date: 2022-09-09T00:08:30.613Z
+sections:
+  - type: text_section
+    body: h﻿it
 ---
 <h2><span class="text-yellow-400">Vol.7　夏季賞与の支給について</span>　 <span class="text-red-500">New‼</span></h2>
 
@@ -20,7 +23,8 @@ date: 2022-09-09T00:08:30.613Z
 
 ※ここに任意の画像を追加(追加方法は、イリーゼアーチver3.0*CMSアクセス制限対応*仕様参考資料_20220906.pptxを参照)
 
-
 <﻿img src="images/corgi-gaf458b48c_1920.jpg"/>
+
+h﻿iihi
 
 ![](/images/【掲示用】リスク事案抑止：浸透度アンケートポスター（第三回）v1.0.png)
