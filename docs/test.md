@@ -5,6 +5,8 @@ date: 2022-09-09T00:08:30.613Z
 sections:
   - type: text_section
     body: h﻿it
+  - type: video_section
+    embed: https://www.youtube.com/watch?v=rSZBQBDUOUk
 ---
 <h2><span class="text-yellow-400">Vol.7　夏季賞与の支給について</span>　 <span class="text-red-500">New‼</span></h2>
 
