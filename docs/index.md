@@ -4,11 +4,16 @@ layout: full-width
 categories:
   - test
 date: 2022-09-05T09:07:11.074Z
+sections:
+  - type: slider_section
+    images:
+      - /images/corgi-gaf458b48c_1920.jpg
+      - /images/【掲示用】リスク事案抑止：浸透度アンケートポスター（第三回）v1.0.png
 ---
 (トップページ) 
 
  <span class="text-yellow-400">Vol.7　夏季賞与の支給について</span>　 <span class="text-red-500">New‼</span>
-
+<﻿img src=""/>
 ■初めに
 
 　今期2022年9月期の上半期における当社の決算においては、この6月にイリーゼアーチ上にアップした上半期総括の映像で説明をした通り、売上予算、利益予算ともに達成をする成果を残すことができました。\
