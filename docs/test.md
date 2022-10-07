@@ -1,6 +1,7 @@
 ---
 title: test
 layout: full-width
+image: null
 date: 2022-09-09T00:08:30.613Z
 sections:
   - type: text_section
