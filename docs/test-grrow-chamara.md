@@ -7,8 +7,6 @@ date: 2022-10-11T01:47:08.648Z
 
 ![](images/img_5655.png)
 
-</div>
-
 <div class="w-full h-screen bg-no-repeat bg-center bg-contain"
 
 style = "background-image:url('images/new.png')"
