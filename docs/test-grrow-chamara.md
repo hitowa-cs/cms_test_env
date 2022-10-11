@@ -3,11 +3,9 @@ title: TEST - GRROW -chamara
 layout: full-width
 date: 2022-10-11T01:47:08.648Z
 ---
-
-
 ###### <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
-![](images/download.png)
+![](images/img_5655.png)
 
 </div>
 
