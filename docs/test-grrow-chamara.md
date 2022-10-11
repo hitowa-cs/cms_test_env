@@ -17,4 +17,4 @@ style = "background-image:url('images/new.png')"
 
 HITOWAケアサービスでは明るく輝く介護の未来を目指して、先進的な取り組みを進めています。2019年に**Care Innovation Team**を発足し、介護現場の課題解決をテーマに活動を行っています。 HITOWAケアサービスで誰もが輝くケアの未来を一緒に創っていきましょう！
 
-<div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full"> <h2 class="text-black-600 text-left text-base font-bold">1.社長通達</h2>
+<div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full"> <h2 class="text-black-600 text-left text-base font-bold">**[HITOWAが目指す未来のケアを「知る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "HITOWAが目指す未来のケアを知る！")**</h2>
