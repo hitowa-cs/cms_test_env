@@ -5,7 +5,13 @@ date: 2022-10-11T01:47:08.648Z
 ---
 ###### <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
-![](images/img_5655.png)
+
+
+
+
+![](?nf_resize=fit&h=300 images/new.png)
+
+?nf_resize=fit&w=100&h=100
 
 <div class="w-full h-screen bg-no-repeat bg-center bg-contain"
 
