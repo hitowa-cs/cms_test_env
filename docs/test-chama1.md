@@ -1,5 +1,5 @@
 ---
-title: Test Chama-1
+title: Test Chama
 layout: full-width
 categories:
   - new
