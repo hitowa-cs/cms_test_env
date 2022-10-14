@@ -14,11 +14,15 @@ date: 2022-10-13T09:25:33.616Z
 
 HITOWAケアサービスでは明るく輝く介護の未来を目指して、先進的な取り組みを進めています。2019年に**Care Innovation Team**を発足し、介護現場の課題解決をテーマに活動を行っています。 HITOWAケアサービスで誰もが輝くケアの未来を一緒に創っていきましょう！<br>
 
-
-
 <span class="text-3xl text-red-500 font-bold">HITOWAが目指す未来のケアを「知る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "HITOWAが目指す未来のケアを知る！</span>
 
 <!--StartFragment-->
+
+<!--StartFragment-->
+
+<span class="text-3xl text-red-500 bg-green font-bold">**[HITOWAが目指す未来のケアを「知る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "HITOWAが目指す未来のケアを知る！")**</span>
+
+<!--EndFragment-->
 
 **[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**
 
