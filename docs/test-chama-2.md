@@ -20,13 +20,13 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <!--EndFragment-->
 
-**[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**
+<span class="text-xl text-red-500 font-bold">**[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**</span>
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-**[Care Innovation Team Report を「読む」](https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/ "Care Innovation Team Report を読む！")**
+<span class="text-xl text-yellow-500 font-bold">**[Care Innovation Team Report を「読む」](https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/ "Care Innovation Team Report を読む！")**</span>
 
 <!--EndFragment-->
 
