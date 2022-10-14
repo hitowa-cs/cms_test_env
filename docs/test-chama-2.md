@@ -10,7 +10,7 @@ date: 2022-10-13T09:25:33.616Z
 
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
-![](images/hi1.png)
+![](/images/hi1.png)
 
 
 
@@ -31,3 +31,7 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 
 <div class="bg-green-400 bg-opacity-50 p-2 w-full h-full"> <span class="text-black-600 text-left text-base text-xl font-bold">Topics & News</sapn> <span class="text-red-600 text-base font-bold">　New!!</span> </div><br>
+
+
+
+![](/images/1589353709.png)
