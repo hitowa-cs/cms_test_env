@@ -6,13 +6,9 @@ categories:
 image: ""
 date: 2022-10-13T09:25:33.616Z
 ---
-
-
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
 ![](/images/hi1.png)
-
-
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。new
 
@@ -20,15 +16,7 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 
 
-
-
-
-
-<!--StartFragment-->
-
-<span class="text-3xl text-red-500 font-bold">**[HITOWAが目指す未来のケアを「知る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "HITOWAが目指す未来のケアを知る！")**</span>
-
-<!--EndFragment-->
+<span class="text-3xl text-red-500 font-bold">HITOWAが目指す未来のケアを「知る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "HITOWAが目指す未来のケアを知る！</span>
 
 <!--StartFragment-->
 
@@ -41,7 +29,5 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 **[Care Innovation Team Report を「読む」](https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/ "Care Innovation Team Report を読む！")**
 
 <!--EndFragment-->
-
-
 
 ![](/images/1589353709.png)
