@@ -18,7 +18,27 @@ date: 2022-10-13T09:25:33.616Z
 
 HITOWAケアサービスでは明るく輝く介護の未来を目指して、先進的な取り組みを進めています。2019年に**Care Innovation Team**を発足し、介護現場の課題解決をテーマに活動を行っています。 HITOWAケアサービスで誰もが輝くケアの未来を一緒に創っていきましょう！<br>
 
-<﻿button class="bg-blue-500 px-4 py-2 text-blue">**[HITOWAが目指す未来のケアを「知る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "HITOWAが目指す未来のケアを知る！")**</button>
+
+
+<!--StartFragment-->
+
+<!--StartFragment-->
+
+<img src=images/corgi-gaf458b48c_1920.jpg></img>
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
+
+
+
+
+<﻿div>
+
+<﻿button class="bg-blue-500 px-4 py-2 text-blue">**[HITOWAが目指す未来のケアを「知る](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "HITOWAが目指す未来のケアを知る！")**</button>
+
+<﻿/div>
 
 <!--EndFragment-->
 
@@ -41,6 +61,61 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 **[Topics & News](https://cms.e.jimdo.com/app/s96da70f606bae585/p17403f6c0a5e25fe/ "Topics&News")**
 
 <!--EndFragment-->
+
+
+
+
+
+
+
+
+
+Version:0.9
+    StartHTML:71
+    EndHTML:170
+    StartFragment:140
+    EndFragment:160
+    StartSelection:140
+    EndSelection:160
+    <!DOCTYPE>
+    <HTML>
+    <HEAD>
+    <TITLE> The HTML Clipboard</TITLE>
+    <BASE HREF="https://sample/specs">
+    </HEAD>
+    <BODY>
+    <UL>
+    <!--StartFragment -->
+    <LI> The Fragment </LI>
+    <!--EndFragment -->
+    </UL>
+
+<!--StartFragment-->
+
+<img src="img/new.png"></img>
+
+<!--EndFragment-->
+    </BODY>
+    </HTML>
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
