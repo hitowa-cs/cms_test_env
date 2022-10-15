@@ -16,6 +16,14 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <!--StartFragment-->
 
+<﻿span class="text-xl text-green-500 font-bold"><!--StartFragment-->
+
+https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/</span>
+
+<!--EndFragment-->
+
+<span style="color:blue text-xl text-yellow-500 font-bold ">**[ new](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "Care Innovation Team Report を読む！")**</span>
+
 <span class="text-xl text-green-500 font-bold">**[HITOWAが目指す未来のケアを「知る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p4cf07ce27fc3befe/ "HITOWAが目指す未来のケアを知る！")**</span>
 
 <!--EndFragment-->
