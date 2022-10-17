@@ -28,4 +28,12 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <!--EndFragment-->
 
+<﻿a href="https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/">Care Innovation Team Report を読む！</a>
+
+[https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4](https://cms.e.jimdo.com,) Care Innovation Team Report を読む！
+
+
+
+
+
 ![](/images/1589353709.png)
