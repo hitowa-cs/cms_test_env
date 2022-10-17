@@ -6,7 +6,7 @@ categories:
 image: ""
 date: 2022-10-13T09:25:33.616Z
 ---
-z<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
+<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
 ![](/images/hi1.png)
 
