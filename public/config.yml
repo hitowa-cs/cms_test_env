@@ -9,6 +9,8 @@ collections:
     folder: "docs"
     create: true
     slug: "{{slug}}"
+    autoFilename: true
+    defaultOperations: '/resize/800x600/'
     editor:
       preview: true
 
