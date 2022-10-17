@@ -12,7 +12,7 @@ date: 2022-10-13T09:25:33.616Z
 
 <img class="fit-picture"
      src="images/hi1.png"
-     alt="mages/hi1.png">
+     alt="hi1.png">
 
  <img src="hi1.png"
       alt="時計"
@@ -38,8 +38,16 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <!--EndFragment-->
 
+<﻿hr>
+
+<﻿a href="www.google.com">google</a>
+
+[﻿https://www.google.com](https://www.google.com)
 
 
-[https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4](https://cms.e.jimdo.com,/)  Care Innovation Team Report を読む！
+
+
+
+[﻿[https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4](https://cms.e.jimdo.com,/) Care Innovation Team Report を読む！
 
 ![](/images/1589353709.png)
