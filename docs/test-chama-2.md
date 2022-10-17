@@ -41,7 +41,14 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <﻿hr>
 
-<﻿a href="www.google.com">google</a>
+<!--StartFragment-->
+
+
+DATA<﻿a href="https://www.google.com">google</a>RESULT
+
+
+
+<!--EndFragment-->
 
 
 [﻿https://www.google.com](https://www.google.com)
