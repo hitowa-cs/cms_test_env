@@ -6,7 +6,7 @@ categories:
 image: ""
 date: 2022-10-13T09:25:33.616Z
 ---
-<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
+z<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
 ![](/images/hi1.png)
 
@@ -28,12 +28,6 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <!--EndFragment-->
 
-<﻿a href="https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/">Care Innovation Team Report を読む！</a>
-
-[https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4](https://cms.e.jimdo.com,) Care Innovation Team Report を読む！
-
-
-
-
+\[https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/](https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/)( Care Innovation Team Report を読む！)
 
 ![](/images/1589353709.png)
