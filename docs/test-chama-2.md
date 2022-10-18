@@ -6,7 +6,7 @@ categories:
 image: ""
 date: 2022-10-13T09:25:33.616Z
 ---
-<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
+[!\[](/images/1589353709.png) alt="drawing" width="200"/>](<![](/images/1589353709.png) alt="drawing" width="200"/>>)<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
 ![](/images/hi1.png)
 
@@ -56,12 +56,8 @@ DATA<﻿a href="https://www.google.com">google</a>RESULT
 
 [https://hcs.staff-app.net/home]([https://hcs.staff-app.net>**innovation)
 
-
-
 [﻿https://www.google.com](<﻿https://www.google.com>)
 
 
 
-
-
-![](/images/1589353709.png)
+[!\[](/images/1589353709.png) alt="drawing" width="200"/>](<![](/images/1589353709.png) alt="drawing" width="200"/>>)
