@@ -22,9 +22,9 @@ www.google.com
 <span style="font-size: 20px;"><b style="font-size: 22px;"><span class="sp" style="color: #2886eb;">【目次</span></b><b style="font-size: 22px;"><span class="sp" style="color: #2886eb;">】</span></b></span>
 </div>
 
-[<div><span class="text-xl text-red-500 font-bold">\*\*\[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")\*\*</span></div>](<<div><span class="text-xl text-red-500 font-bold">**[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**</span></div>>)
+[<span class="text-xl text-red-500 font-bold">\[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")</span>](<<div><span class="text-xl text-red-500 font-bold">**[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**</span></div>>)
 
-
+[<span class="text-xl text-red-500 font-bold">https://www.google.com</span>](<<span class="text-xl text-red-500 font-bold">https://www.google.com</span>>)
 
 
 
