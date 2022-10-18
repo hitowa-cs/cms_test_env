@@ -3,7 +3,7 @@ title: Test-chama-2
 layout: full-width
 categories:
   - new
-image: /images/1589353709.png
+image: ""
 date: 2022-10-13T09:25:33.616Z
 ---
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
@@ -34,3 +34,7 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 <span class="text-xl text-red-500 font-bold">[HITOWAが目指す未来のケアを「知る」](HITOWAが目指す未来のケアを「知る」)</span>
 
 <span class="text-xl text-green-500 font-bold"><https://www.google.com></span>
+
+
+
+![](/images/1589353709.png)
