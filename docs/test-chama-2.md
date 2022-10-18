@@ -6,9 +6,11 @@ categories:
 image: /images/1589353709.png
 date: 2022-10-13T09:25:33.616Z
 ---
-[images/hi1.png](images/hi1.png=100x20)
-
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
+
+
+
+[images/hi1.png](images/hi1.png)
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。new
 
