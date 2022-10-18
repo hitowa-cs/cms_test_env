@@ -32,3 +32,5 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 [﻿https://www.google.com](<﻿https://www.google.com>)
 
 <span class="text-xl text-red-500 font-bold">[HITOWAが目指す未来のケアを「知る」](<HITOWAが目指す未来のケアを「知る」>)</span>
+
+<span class="text-xl text-green-500 font-bold">[https://www.google.com](<https://www.google.com>)</span>
