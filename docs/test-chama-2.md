@@ -10,15 +10,19 @@ date: 2022-10-13T09:25:33.616Z
 
 ![](/images/hi1.png)
 
-<img class="fit-picture"
-     src="images/hi1.png"
-     alt="hi1.png">
+www.google.com
 
- <img src="hi1.png"
-      alt="時計"
-      srcset="hi1.png 200w,
-          hi1.png 400w"
-      sizes="(max-width: 600px) 200px, 50vw">
+[![](/images/hi1.png)](![](/images/hi1.png))
+
+[https://cms.e.jimdou.com](https://cms.e.jimdou.com/app/)
+
+<div id="目次" style="text-align: center; font-size: 22px;">
+<span style="font-size: 20px;"><b style="font-size: 22px;"><span class="sp" style="color: #2886eb;">【目次</span></b><b style="font-size: 22px;"><span class="sp" style="color: #2886eb;">】</span></b></span>
+</div>
+
+<https://pixabay.com/images/id-1072823/>
+
+https://pixabay.com/images/id-1072823/
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。new
 
@@ -34,30 +38,30 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <!--StartFragment-->
 
-<span class="text-xl text-yellow-500 font-bold">**[Care Innovation Team Report を「読む」](https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4/ "Care Innovation Team Report を読む！")**</span>
+<span class="text-xl text-yellow-500 font-bold">**Care Innovation Team Report を「読む」**</span>
 
 <!--EndFragment-->
-
 
 <﻿hr>
 
 <!--StartFragment-->
 
-
 DATA<﻿a href="https://www.google.com">google</a>RESULT
-
-
 
 <!--EndFragment-->
 
-
 [﻿https://www.google.com](https://www.google.com)
 
-
-
-
-
-
 [﻿[https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4](https://cms.e.jimdo.com,/) Care Innovation Team Report を読む！
+
+[https://hcs.staff-app.net/home]([https://hcs.staff-app.net>**innovation)
+
+
+
+[﻿https://www.google.com](<﻿https://www.google.com>)
+
+
+
+
 
 ![](/images/1589353709.png)
