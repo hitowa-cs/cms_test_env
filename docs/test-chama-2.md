@@ -12,11 +12,21 @@ www.google.com
 
 [![](/images/hi1.png)](![](/images/hi1.png))
 
+
+
+
+
 [https://cms.e.jimdou.com](https://cms.e.jimdou.com/app/)
 
 <div id="目次" style="text-align: center; font-size: 22px;">
 <span style="font-size: 20px;"><b style="font-size: 22px;"><span class="sp" style="color: #2886eb;">【目次</span></b><b style="font-size: 22px;"><span class="sp" style="color: #2886eb;">】</span></b></span>
 </div>
+
+[<div><span class="text-xl text-red-500 font-bold">\*\*\[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")\*\*</span></div>](<<div><span class="text-xl text-red-500 font-bold">**[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**</span></div>>)
+
+
+
+
 
 <https://pixabay.com/images/id-1072823/>
 
@@ -30,7 +40,7 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <!--EndFragment-->
 
-<span class="text-xl text-red-500 font-bold">**[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**</span>
+<span class="text-xl text-red-500 font-bold">**CARE × Technology の取り組みを「見る」**</span>
 
 <!--EndFragment-->
 
