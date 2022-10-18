@@ -6,11 +6,9 @@ categories:
 image: /images/1589353709.png
 date: 2022-10-13T09:25:33.616Z
 ---
+[images/hi1.png](images/hi1.png=100x20)
+
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
-
-[![](/images/hi1.png)](![](/images/hi1.png))
-
-https://cms.e.jimdou.com
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。new
 
@@ -31,6 +29,6 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 [﻿https://www.google.com](<﻿https://www.google.com>)
 
-<span class="text-xl text-red-500 font-bold">[HITOWAが目指す未来のケアを「知る」](<HITOWAが目指す未来のケアを「知る」>)</span>
+<span class="text-xl text-red-500 font-bold">[HITOWAが目指す未来のケアを「知る」](HITOWAが目指す未来のケアを「知る」)</span>
 
-<span class="text-xl text-green-500 font-bold">[https://www.google.com](<https://www.google.com>)</span>
+<span class="text-xl text-green-500 font-bold"><https://www.google.com></span>
