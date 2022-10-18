@@ -20,10 +20,11 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <!--EndFragment-->
 
-[<span class="text-xl text-red-500 font-bold">[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")</span>](<<div><span class="text-xl text-red-500 font-bold">**[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**</span></div>>)
+<div>
 
-[<span class="text-xl text-red-500 font-bold">](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")
-[﻿[https://cms.e.jimdo.com/app/s96da70f606bae585/p9fb64ab529885de4](https://cms.e.jimdo.com,/) Care Innovation Team Report を読む！
+<span class="text-xl text-red-500 font-bold">**[CARE × Technology の取り組みを「見る」](https://cms.e.jimdo.com/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/ "HITOWAの Care Innovation の取り組みを見る！")**</span>
+
+</div>
 
 [https://hcs.staff-app.net/home]([https://hcs.staff-app.net>**innovation)
 
@@ -31,6 +32,10 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <span class="text-xl text-red-500 font-bold">[HITOWAが目指す未来のケアを「知る」](HITOWAが目指す未来のケアを「知る」)</span>
 
-<div class="bg-green-400 bg-opacity-50 p-2 w-full h-full"> <span class="text-xl text-green-500 font-bold"><https://www.google.com></span></div>
+<div class="bg-green-400 bg-opacity-50 p-2 w-full h-full"> 
+
+<span class="text-xl text-green-500 font-bold"><https://www.google.com></span>
+
+</div>
 
 ![](/images/1589353709.png)
