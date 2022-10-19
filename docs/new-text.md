@@ -9,7 +9,7 @@ date: 2022-10-19T02:17:49.530Z
 
 ![](/images/hi1.png)
 
-<img src="/images/hi1.png" width="50" height="60"></img>
+
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。new
 
@@ -62,3 +62,9 @@ h﻿hhhhhhhhhh
 <img src="/images/hi1.png" width="500" height="600"></img>
 
 <img src="/images/hi1.png" width="200" height="100">NEW</img>
+
+<img src="/images/hi1.png" width="50" height="60"></img
+
+
+
+<div class="h-56 grid grid-cols-3 gap-4 content-center ..."> <div>01</div> <div>02</div> <div>03</div> <div>04</div> <div>05</div> </div>
