@@ -5,7 +5,7 @@ categories:
   - new
 date: 2022-10-19T02:17:49.530Z
 ---
-z﻿<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
+<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/19</h1>
 
 ![](/images/hi1.png)
 
@@ -39,18 +39,26 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <a href="https://www.google.com">google</a>
 
+
+
+
+
 <img src="/images/hi1.png" width="50" height="60"></img>
 
 <img class="w-96 h-96 rounded-full"  src="/images/hi1.png" alt="image description">
 
 <br>
 
-<img class="object-center  w-30 h-70" src="/images/corgi-gaf458b48c_1920.jpg">
+m﻿mmmmm
 
-<img class="object-none object-right bg-yellow-300 w-24 h-24 ..." src="/images/corgi-gaf458b48c_1920.jpg">
+<img class="object-center  w-300 h-700" src="/images/corgi-gaf458b48c_1920.jpg">
+
+
+
+h﻿hhhhhhhhhh
+
+<img class="object-center bg-yellow-300 w-240 h-240" src="/images/corgi-gaf458b48c_1920.jpg">
 
 <img src="/images/hi1.png" width="500" height="600"></img>
 
 <img src="/images/hi1.png" width="200" height="100">NEW</img>
-
-<img class="/images/corgi-gaf458b48c_1920.jpg" width="500" height="200"></img>
