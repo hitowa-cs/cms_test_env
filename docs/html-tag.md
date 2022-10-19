@@ -17,8 +17,37 @@ date: 2022-10-18T07:12:40.974Z
 
 
 
-<﻿div class="bg-green-400 bg-opacity-50 p-2 w-full h-full">
+<div class="bg-green-400 bg-opacity-50 p-2 w-full h-full">
 
-<﻿span class="text-xl text-green-500 font0-bold"><https://www.google.com></span>
+<span class="text-xl text-green-500 font0-bold"><https://www.google.com></span>
 
-<﻿/div>
+</div>
+
+<a href="https://www.google.com/?q=1111">koogle</a><br>
+
+
+
+<div class=" flex items-center justify-center" >
+<div class ="max-w-sm">
+<iframe  src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13"width="100%" frameborder="0" 
+allowfullscreen="allowfullscreen"></iframe><br>
+</div><br>
+
+<img src="img/14.png"></img>
+
+<body>
+
+<p>ベネフィットステーションは会員みなさまとその家族を応援する福利厚生サービスです。
+  レジャー・旅行・グルメ・ショッピングから自己啓発まで幅広いカテゴリで140万件以上の快適なサービスをご用意！</p>
+  </body>
+
+  <h1 class="text-black-600 text-left text-base">■ベネフィットステーション</h1>
+
+
+  <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full">
+    <h2 class="text-black-600 text-left text-base font-bold">1.社長通達</h2>
+  </div>
+
+<span class="text-black-600 text-left text-xs">※表示に時間がかかる場合がございます。</span>
+
+
