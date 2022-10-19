@@ -17,12 +17,26 @@ date: 2022-10-19T02:17:49.530Z
 
 </div><br>
 
-<img src="[images/hi1.png](images/hi1.png)"></img>
-
-<h2 class="text-black-600 text-600 text-left text-xs">chamara</h2>
 
 
+<div class="bg-yellow-400 bg-opacity-50 p-2 w-full h-full">
+
+<span class="text-xl text-green-500 font-bold"><https://www.google.com></span>
+
+</div><br>
+
+
+
+<div>
 
 <button>button</button>
 
 <button type="button" class="btn btn-primary">Primary</button>
+
+</div>
+
+
+
+<img src="[images/hi1.png](images/hi1.png)"></img>
+
+<h2 class="text-black-600 text-600 text-left text-xs">chamara</h2>
