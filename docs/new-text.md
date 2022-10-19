@@ -63,20 +63,6 @@ h﻿hhhhhhhhhh
   Centered using Tailwind Grid
 </div>
 
-
-
-<div class="w-full bg-center bg-cover h-96" style=" background-image: url(https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80); "</div>
-
-
-
-<div class="flex flex-wrap justify-center"> <div class="w-6/12 sm:w-4/12 px-4"> <img src="/images/hi1.png800x800.jpg" alt="..." class="shadow rounded max-w-full h-auto align-middle border-none" /> </div> </div>
-
-
-
-
-
-
-
 <div class="flex flex-wrap justify-center">
   <div class="w-6/12 sm:w-4/12 px-4">
     <img src="/images/hi1.png" alt="..." class="shadow-lg rounded max-w-full h-auto align-middle border-none" />
