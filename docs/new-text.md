@@ -47,4 +47,4 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <img class="object-center  w-30 h-70" src="/images/corgi-gaf458b48c_1920.jpg">
 
-<img class="object-none object-left bg-yellow-300 w-24 h-24 ..." src="/images/hi1.png">
+<img class="object-none object-right bg-yellow-300 w-24 h-24 ..." src="/images/hi1.png">
