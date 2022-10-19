@@ -53,21 +53,4 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <img src="/images/hi1.png" width="200" height="100">NEW</img>
 
-j﻿hjhjhjhjh
-
-<div class="w-full h-full bg-norepeat bg-cover" s﻿tyle="background-image:url('https://images.app.goo.gl/MJrzQhhHj8dmHLsx5');">
-
-</div>
-
-<img class="/images/corgi-gaf458b48c_1920.jpg" width="500" height="200">
-
-
-
-
-
-<p style="color: red;">Pick one</p> 
-
-  <div id="pictures">
-    <img src="//via.placeholder.com/200" width="200px" height="200px">
-    <img src="//via.placeholder.com/200" width="200px" height="200px">
-  </div>
+<img class="/images/corgi-gaf458b48c_1920.jpg" width="500" height="200"></img>
