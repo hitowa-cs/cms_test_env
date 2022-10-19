@@ -30,3 +30,7 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 <span class="text-xl text-green-500 font-bold"><https://www.google.com></span>
 
 </div><br>
+
+
+
+<img src="[images/10.png](images/10.png)"></img>
