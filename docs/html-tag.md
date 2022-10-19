@@ -7,8 +7,6 @@ date: 2022-10-18T07:12:40.974Z
 ---
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
-
-
 <img src="[images/hi1.png](images/hi1.png)"></img>
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。<br>
@@ -37,6 +35,8 @@ allowfullscreen="allowfullscreen"></iframe><br>
 
 <img src="images/hi1.png" alt="サンプル" width="20" height="50">
 
+
+
 <img src="images/hi1.png"></img>
 
 <body>
@@ -52,3 +52,13 @@ allowfullscreen="allowfullscreen"></iframe><br>
   </div>
 
 <span class="text-black-600 text-left text-xs">※表示に時間がかかる場合がございます。</span>
+
+
+
+<span class="text-red-600 text-left text-xs">NEW</span>
+
+<div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full">
+
+<h2 class="text-black-600 text-600 text-left text-xs">chamara</2>
+
+</div>
