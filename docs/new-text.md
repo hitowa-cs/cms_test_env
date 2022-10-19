@@ -39,19 +39,13 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <a href="https://www.google.com">google</a>
 
-
-
-
-
-<img src="/images/hi1.png" width="50" height="60"></img>
-
 <img class="w-96 h-96 rounded-full"  src="/images/hi1.png" alt="image description">
 
 <br>
 
 m﻿mmmmm
 
-<img class="object-center  w-300 h-700" src="/images/corgi-gaf458b48c_1920.jpg">
+<img class=" justify-center w-300 h-700" src="/images/corgi-gaf458b48c_1920.jpg">
 
 
 
