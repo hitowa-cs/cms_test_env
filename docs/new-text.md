@@ -5,13 +5,21 @@ categories:
   - new
 date: 2022-10-19T02:17:49.530Z
 ---
+
+
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
+
+
+
+
 
 ![](/images/hi1.png)
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。new
 
 HITOWAケアサービスでは明るく輝く介護の未来を目指して、先進的な取り組みを進めています。2019年に**Care Innovation Team**を発足し、介護現場の課題解決をテーマに活動を行っています。 HITOWAケアサービスで誰もが輝くケアの未来を一緒に創っていきましょう！<br>
+
+
 
 <div class="bg-green-400 bg-opacity-50 p-2 w-full h-full">
 
@@ -41,10 +49,12 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <img class="w-96 h-96 rounded-full"  src="/images/hi1.png" alt="image description">
 
-
-
 <br>
 
 <img class="object-center  w-30 h-70" src="/images/corgi-gaf458b48c_1920.jpg">
 
 <img class="object-none object-right bg-yellow-300 w-24 h-24 ..." src="/images/hi1.png">
+
+
+
+<img class="object-center  w-30 h-70" src="/download.jpg">
