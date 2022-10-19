@@ -8,8 +8,7 @@ date: 2022-10-19T02:17:49.530Z
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/11</h1>
 
 <div class=" flex items-center justify-center" >
-<div class ="max-w-sm">
-<iframe  src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13"width="100%" frameborder="0" 
+<iframe  src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13"width="50%" frameborder="0" 
 allowfullscreen="allowfullscreen"></iframe><br>
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。<br>
