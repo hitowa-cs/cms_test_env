@@ -34,7 +34,7 @@ allowfullscreen="allowfullscreen"></iframe><br>
 
 <img src="images/hi1.png" alt="サンプル" width="20" height="50">
 
-<img src="images/h1.png"></img>
+<img src="images/hi1.png"></img>
 
 <body>
 
