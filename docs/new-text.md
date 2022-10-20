@@ -59,12 +59,8 @@ h﻿hhhhhhhhhh
 
 <img src="/images/hi1.png" width="50" height="60"></img>
 
-<div class="grid place-items-center h-screen">
-  Centered using Tailwind Grid
-</div>
-
 <div class="flex flex-wrap justify-center">
-  <div class="w-6/12 sm:w-4/12 px-200">
+  <div class="w-6/12 sm:w-4/12 px-4">
     <img src="/images/hi1.png" alt="..." class="shadow-lg rounded max-w-full h-auto align-middle border-none" />
   </div>
 </div>
