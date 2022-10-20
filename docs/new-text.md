@@ -64,7 +64,7 @@ h﻿hhhhhhhhhh
 </div>
 
 <div class="flex flex-wrap justify-center">
-  <div class="w-6/12 sm:w-4/12 px-4">
+  <div class="w-6/12 sm:w-4/12 px-200">
     <img src="/images/hi1.png" alt="..." class="shadow-lg rounded max-w-full h-auto align-middle border-none" />
   </div>
 </div>
