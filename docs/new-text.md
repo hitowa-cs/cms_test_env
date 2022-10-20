@@ -16,15 +16,15 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <div class="bg-blue-400 bg-opacity-50 p-2 w-full h-full">
 
-<span class="text-#fde047-600 text-base font-bold">[](https://www.google.com)HITOWA目指す未来のケアを<a href="https://www.google.com">「知る」</a>[](https://www.google.com)</span><br>
+<span class="text-#fde047-600 text-base font-bold">[](https://www.google.com)HITOWA目指す未来のケアを<a href="https://www.google.com">「知る」</a>[](https://www.google.com)</span></div><br>
 
 <div class="bg-blue-400 bg-opacity-50 p-2 w-full h-full">
 
-<span class="text-yellow[](https://www.google.com)-600 text-base font-bold">“Seeking”CARExTechnology の取り組みを<a href="https://www.google.com">「見る」</a>[](https://www.google.com)</span><br>
+<span class="text-yellow[](https://www.google.com)-600 text-base font-bold">“Seeking”CARExTechnology の取り組みを<a href="https://www.google.com">「見る」</a>[](https://www.google.com)</span></div><br>
 
 <div class="bg-blue-400 bg-opacity-50 p-2 w-full h-full">
 
-<span class="text-#fde047-600 text-base font-bold">[](https://www.google.com)Care Innovation Team Report を<a href="https://www.google.com">「読む」</a>[](https://www.google.com)</span><br>
+<span class="text-#fde047-600 text-base font-bold">[](https://www.google.com)Care Innovation Team Report を<a href="https://www.google.com">「読む」</a>[](https://www.google.com)</span></div><br>
 
 
 
