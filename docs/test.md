@@ -26,7 +26,7 @@ sections:
 
 ※ここに任意の画像を追加(追加方法は、イリーゼアーチver3.0*CMSアクセス制限対応*仕様参考資料_20220906.pptxを参照)
 
-<﻿img src="images/corgi-gaf458b48c_1920.jpg"/>
+<img src="/images/corgi-gaf458b48c_1920.jpg"/></img>
 
 h﻿iihi
 
