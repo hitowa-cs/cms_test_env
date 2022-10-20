@@ -18,11 +18,15 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <div class=" bg-blue-800 bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xl text-white  font-bold">HITOWA目指す未来のケアを<a href="https://www.google.com">「知る」</a>[](https://www.google.com)</span></div><br>
+<span class="text-xl text-white  font-bold">HITOWA目指す未来のケアを[「知る」](「知る」)</span></div><br>
+
+
 
 <div class="bg-blue-800 bg-opacity-100 p-2 w-full h-full">
 
 <span class="text-yellow-600 text-base font-bold">“Seeking”CARExTechnology の取り組みを<a href="https://www.google.com">「見る」</a>[](https://www.google.com)</span></div><br>
+
+
 
 <div class="bg-blue-800 bg-opacity-100 p-2 w-full h-full">
 
@@ -32,7 +36,7 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <div class="bg-blue-800 bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xl text-white  text-base font-bold">[](https://www.google.com)[Topics & News](<Topics & News>)</span></div><br>
+<span class="text-xl text-white  text-base font-bold">[Topics & News](<Topics & News>)</span></div><br>
 
 
 
