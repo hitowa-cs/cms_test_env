@@ -12,15 +12,13 @@ sections: []
 
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです
 
-HITOWAケアサービスでは明るく輝く介護の未来を目指して、先進的な取り組みを進めています。2019年に**Care Innovation Team**を発足し、介護現場の課題解決をテーマに活動を行っています。 HITOWAケアサービスで誰もが輝くケアの未来を一緒に創っていきましょう！<br>
+HITOWAケアサービスでは明るく輝く介護の未来を目指して、先進的な取り組みを進めています。2019年に**Care Innovation Team**を発足し、介護現場の課題解決をテーマに活動を行っています。 HITOWAケアサービスで誰もが輝くケアの未来を一緒に創っていきましょう！
 
-
-
-
+<br>
 
 <div class=" bg-blue-800 bg-opacity-100 p-2 w-full h-full">
 
-<span class="align-center [](https://www.google.com)text-white   font-bold">HITOWA目指す未来のケアを<a href="https://www.google.com">「知る」</a>[](https://www.google.com)</span></div><br>
+<span class="[](https://www.google.com)text-white align-center font-bold">HITOWA目指す未来のケアを<a href="https://www.google.com">「知る」</a>[](https://www.google.com)</span></div><br>
 
 
 
