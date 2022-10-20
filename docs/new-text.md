@@ -9,8 +9,6 @@ date: 2022-10-19T02:17:49.530Z
 
 ![](/images/hi1.png)
 
-
-
 介護業界は超高齢化時代を迎え、様々な課題に直面しています。このままでは介護は光を失ってしまうかもしれません。そのような中で私たちはどのようなケアの道を歩んでいくべきなのでしょうか・・・・まさに今、私たちはターニングポイントを迎えているのです。new
 
 HITOWAケアサービスでは明るく輝く介護の未来を目指して、先進的な取り組みを進めています。2019年に**Care Innovation Team**を発足し、介護現場の課題解決をテーマに活動を行っています。 HITOWAケアサービスで誰もが輝くケアの未来を一緒に創っていきましょう！<br>
@@ -33,6 +31,20 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 </div><br>
 
+
+
+N﻿EW DIV TAG
+
+<div class="bg-red-400 bg-opacity-50 p-2 w-full h-full">
+
+<span class="text-xl text-green-500 font-bold"><https://www.google.com></span>
+
+</div>
+
+
+
+
+
 <div class="bg-red-400 bg-opacity-50 p-2 w-full h-full">
 <a href="https://www.google.com">google</a>
 </div>
@@ -46,8 +58,6 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 m﻿mmmmm
 
 <img class=" justify-center w-300 h-700" src="/images/corgi-gaf458b48c_1920.jpg">
-
-
 
 h﻿hhhhhhhhhh
 
