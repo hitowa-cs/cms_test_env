@@ -1,22 +1,50 @@
 ---
-title: HTML TAG
+title: HTML TAG - Testing
 layout: full-width
 categories:
   - NEW
 date: 2022-10-20T02:17:22.711Z
 ---
-h﻿ow to use html tag in content page
+1. ## *H﻿ow to use html tag in content page*
 
-i﻿mage tag
+## Netlifycms コンテストページでHtml tagの使い方
 
-<﻿img src ="images/2.png"></img>
 
-i﻿ts has problem
 
-h﻿ow to resolve this problem
+### (1)i﻿mg tag
 
-w﻿hen you coding html
+<﻿img src="images/2.png"></img>
 
-<﻿press delete one time
+##### 直接書くとエラーが発生します。
 
-<img src="/images/2.png"></img>
+## h﻿ow to resolve this problem
+
+##### この問題を解決する方法
+
+
+
+### w﻿hen you coding html
+
+### Htmlタグを書くとき
+
+<img src="/images/3.png"></img>
+
+
+
+##### < ﻿press delete one time 
+
+##### < このやまカッコの後ろの方にentityが入ります。 
+
+
+
+#### < このカッコ書いたあとそこにあるエンテテが消して欲しいです。  
+
+#### <§- 画面で見えないと思いますので一回delete button押せば消せます。  
+
+### その後html tag書けるようになります。
+
+
+
+## Example
+
+<img src="/images/3.png"></img>
