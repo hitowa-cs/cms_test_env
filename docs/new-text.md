@@ -26,7 +26,7 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <div class="bg-blue-800 bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xl text-white  text-base font-bold">[](https://www.google.com)Care Innovation Team Report を<a href="https://www.google.com">「読む」</a>[](https://www.google.com)</span></div><br>
+<span class="text-xl text-white  text-base font-bold">Care Innovation Team Report を<a href="https://www.google.com">「読む」</a>[](https://www.google.com)</span></div><br>
 
 
 
