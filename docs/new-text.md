@@ -28,12 +28,8 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <span class="text-xl text-white  text-base font-bold">Care Innovation Team Report を<a href="https://www.google.com">「読む」</a>[](https://www.google.com)</span></div><br>
 
-
-
 <div class="bg-blue-800 bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xl text-white  text-base font-bold"></span>[Topics & News](<Topics & News>)</div><br>
-
-
+<span class="text-xl text-white  text-base font-bold">[Topics & News](<Topics & News>)</span>[](<Topics & News>)</div><br>
 
 <img src="/images/1589353709.png"></img>
