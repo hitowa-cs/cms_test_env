@@ -1,5 +1,5 @@
 ---
-title: Innovation- Page
+title: Innovation Page
 layout: full-width
 categories:
   - new
