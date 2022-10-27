@@ -9,8 +9,6 @@ date: 2022-10-27T01:14:31.412Z
 
 <div class="max-w-2xl mx-auto bg-white p-16 rounded">
 
-
-
 <div id="accordion-collapse" data-accordion="collapse">
 
 <h2 id="accordion-collapse-heading-1">
@@ -125,9 +123,7 @@ class="text-blue-600 dark:text-blue-500 hover:underline">Tailwind UI</a></li>
 
 </div>
 
-
-
-<p class="mt-5">This accordion component is part of a larger, open-source library of Tailwind CSS components. Learn
+<p class="mt-5">This accordion  is part of a larger, open-source library of Tailwind CSS components. Learn
 
 more
 
