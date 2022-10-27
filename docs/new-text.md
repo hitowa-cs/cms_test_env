@@ -2,7 +2,7 @@
 title: Innovation Page
 layout: full-width
 categories:
-  - new
+  - newadd
 date: 2022-10-19T02:17:49.530Z
 sections: []
 ---
