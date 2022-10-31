@@ -47,9 +47,35 @@ date: 2022-10-31T04:30:04.757Z
 
     <div style="background: #c6e6f5; padding: 10px;" data-mce-style="background: #c6e6f5; padding: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>今月のニュース</strong></span></div><!--吹き出しはじまり--><br>
 
-<div class="mx-auto overflow-hidden"><div class="md:flex"><div class="md:shrink-0"><figure class="p-8 h-32 w-32"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/if1f118f923f4dcea/version/1556099238/image.jpg" class="rounded-full" /><figcaption class="text-center">金子年長</figcaption></figure></div><div class=""><div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black"><p class="text-lg"> スマート介護士という資格をご存じですか？少ない人員で効率的な業務遂行がもとめられるなか、DX化を図り介護の質の向上と効率化を実行できる介護士が「スマート介護士」です。興味があれば事業企画室までお問合わせ下さい。</p> </div></div></div></div>
+<!--StartFragment-->
 
-<div style="background: #c6e6f5; padding: 10px;" data-mce-style="background: #c6e6f5; padding: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>お問い合わせ</strong></span></div><!--吹き出しはじまり--><br>
+    <div class="mx-auto overflow-hidden">
+
+        <div class="flex flex-row flex-nowrap">
+
+          <div class="md:shrink-0">
+
+            <figure class="p-8 h-32 w-32"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/if1f118f923f4dcea/version/1556099238/image.jpg" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+
+        </div>
+
+        <div class="">
+
+          <div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
+
+            <p class="text-lg"> スマート介護士という資格をご存じですか？少ない人員で効率的な業務遂行がもとめられるなか、DX化を図り介護の質の向上と効率化を実行できる介護士が「スマート介護士」です。興味があれば事業企画室までお問合わせ下さい。</p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+<!--EndFragment--><div style="background: #c6e6f5; padding: 10px;" data-mce-style="background: #c6e6f5; padding: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>お問い合わせ</strong></span></div><!--吹き出しはじまり--><br>
 
     <div class="balloon5"><div class="faceicon"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s96da70f606bae585/image/i5556d65a7fddf0af/version/1559547102/image.jpg" alt="丸山さん" data-mce-src="https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s96da70f606bae585/image/i5556d65a7fddf0af/version/1559547102/image.jpg"><br> <span style="font-size: 14px; text-align: center; vertical-align: text-bottom;" data-mce-style="font-size: 14px; text-align: center; vertical-align: text-bottom;">Test次長</span></div><div class="chatting"><div class="says">こんなことに困ったらお問い合わせください！</div></div></div><!--吹き出し終わり--><!--<div style="background: #c6e6f5; padding: 10px;"><span style="font-size: 18px;"><strong>こんなことに困ったらお問い合わせください！</strong></span></div>
 
