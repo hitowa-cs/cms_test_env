@@ -32,8 +32,6 @@ date: 2022-10-31T05:43:21.471Z
 
 <h3 style="text-align: left;" data-mce-style="text-align: left;"><a id="第7回イリーゼ事例発表全国大会" span="" style="font-size: 18px;" name="第7回イリーゼ事例発表全国大会" data-mce-style="font-size: 18px;" class="mce-item-anchor"></a><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>第7回イリーゼ事例発表全国大会</strong></span></h3>
 
-<img src="/images/irp2.png" width="650" height="400"></img>
+<img src="/images/irp2.png" width="600" height="300"></img>
 
-
-
-<strong><span style="color: #000000;" data-mce-style="color: #000000;">⭐事例内容のご紹介</span>‼⭐</strong><div class="cc<iframe src="https://player.vimeo.com/video/644709184" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<strong><span style="color: #000000;" data-mce-style="color: #000000;">⭐事例内容のご紹介</span>‼⭐</strong><iframe src="https://player.vimeo.com/video/644709184" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
