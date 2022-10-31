@@ -18,11 +18,11 @@ date: 2022-10-31T05:43:21.471Z
 
 </div><br>
 
-<!--StartFragment-->
+
 
 <div class="flex items-center justify-center" > <div class ="max-w-sm"> <iframe src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13"width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br>
 
-<!--EndFragment--><br>
+
 
 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12319136160" contenteditable="true" style="position: relative;"><h3 style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>目次</strong></span></h3></div><div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12319136160" data-action="content" ng-non-bindable=""><br>
 
