@@ -15,7 +15,11 @@ date: 2022-10-31T05:43:21.471Z
 
 <b><a id="第6回事例発表全国大会" span="" style="font-size: 18px;" name="第6回事例発表全国大会" data-mce-style="font-size: 18px;" class="mce-item-anchor"></a>IRISE PRIDE ONLINE2021　アーカイブ映像</b>
 
-<iframe src="https://player.vimeo.com/video/644706667" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div>
+
+<iframe src="https://player.vimeo.com/video/644706667" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe
+
+</div>
 
 <!--StartFragment-->
 
