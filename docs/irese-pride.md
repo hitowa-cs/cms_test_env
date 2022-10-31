@@ -13,13 +13,13 @@ date: 2022-10-31T05:43:21.471Z
 <div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12314154460" data-action="content" ng-non-bindable="">
                 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12314154460" contenteditable="true" style="position: relative;"><p><span style="font-size: 14px;" data-mce-style="font-size: 14px;">先日、11月8日のHITOWAの日に合わせてのRISE PRIDE ONLINE&nbsp; 2021 に</span>ご参加いただき誠にありがとうございました。</p><p>下記アンケートフォームより参加者アンケートへのご協力をお願い致します。</p><p><span style="color: #ff0000;" data-mce-style="color: #ff0000;"><s><strong>回答期限：11月25日（木）</strong></s></span></p><p><span style="color: #ff0000;" data-mce-style="color: #ff0000;"><strong>受付を終了致しました。ご協力いただき誠にありがとうございました。</strong></span><br> 今後の本会の方針や開催方法等の検討に活用させていただきます。</p><p>よろしくお願い致します。</p></div></div>
 
-<b><a id="第6回事例発表全国大会" span="" style="font-size: 18px;" name="第6回事例発表全国大会" data-mce-style="font-size: 18px;" class="mce-item-anchor"></a>IRISE PRIDE ONLINE2021　アーカイブ映像</b>
+<b><a id="第6回事例発表全国大会" span="" style="font-size: 18px;" name="第6回事例発表全国大会" data-mce-style="font-size: 18px;" class="mce-item-anchor"></a>IRISE PRIDE ONLINE2021　アーカイブ映像</b><br>
 
 <div>
 
 <iframe src="https://player.vimeo.com/video/644706667" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe
 
-</div>
+</div><br>
 
 <!--StartFragment-->
 
