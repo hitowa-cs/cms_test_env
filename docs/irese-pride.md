@@ -32,14 +32,8 @@ date: 2022-10-31T05:43:21.471Z
 
 <h3 style="text-align: left;" data-mce-style="text-align: left;"><a id="第7回イリーゼ事例発表全国大会" span="" style="font-size: 18px;" name="第7回イリーゼ事例発表全国大会" data-mce-style="font-size: 18px;" class="mce-item-anchor"></a><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>第7回イリーゼ事例発表全国大会</strong></span></h3>
 
-<li aria-hidden="true" style="float: left; list-style: none; position: relative; width: 886px; margin-right: 2px;"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i8741c41cf88fdb5b/version/1639985624/image.png" data-orig-width="500" data-orig-height="300" alt="" style="height: 498.6px;"></li>
+<li aria-hidden="true" style="float: left; list-style: none; position: relative; width: 886px; margin-right: 2px;"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i8741c41cf88fdb5b/version/1639985624/image.png" data-orig-width="1280" data-orig-height="720" alt="" style="height: 498.6px;"></li>
+
+
 
 <strong><span style="color: #000000;" data-mce-style="color: #000000;">⭐事例内容のご紹介</span>‼⭐</strong><div class="cc<iframe src="https://player.vimeo.com/video/644709184" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-
-
-
-
-<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/dOiakOXkfA8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
- <div style="background: #c6e6f5; padding: 10px;" data-mce-style="background: #c6e6f5; padding: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;">
