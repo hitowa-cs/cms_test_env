@@ -22,13 +22,11 @@ date: 2022-10-31T05:43:21.471Z
 
 <div class="flex items-center justify-center" > <div class ="max-w-sm"> <iframe src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13"width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br>
 
-<!--EndFragment--><br>
-
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12319136160" contenteditable="true" style="position: relative;"><h3 style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>目次</strong></span></h3></div><div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12319136160" data-action="content" ng-non-bindable=""><br>
+<!--EndFragment-->
 
  <div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12319144260" data-action="content" ng-non-bindable="">
 
-
+<li aria-hidden="true" style="float: left; list-style: none; position: relative; width: 886px; margin-right: 2px;"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i8741c41cf88fdb5b/version/1639985624/image.png" data-orig-width="1280" data-orig-height="720" alt="" style="height: 498.6px;"></li>
 
 <strong><span style="color: #000000;" data-mce-style="color: #000000;">⭐事例内容のご紹介</span>‼⭐</strong><div class="cc<iframe src="https://player.vimeo.com/video/644709184" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
