@@ -36,5 +36,4 @@ date: 2022-10-31T05:43:21.471Z
 
 
 
-<strong><span style="color: #000000;" data-mce-style="color: #000000;">⭐事例内容のご紹介</span>‼⭐</strong><div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12314283560" data-action="content" ng-non-bindable="">
-                <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12314283560" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000;" data-mce-style="color: #000000;">■グランプリ🥇</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000;" data-mce-style="color: #000000;">セントベル諏訪湖「誤嚥性肺炎ゼロに向けてへの取り組み」</span></p></div>            </div>
+<strong><span style="color: #000000;" data-mce-style="color: #000000;">⭐事例内容のご紹介</span>‼⭐</strong><div class="cc<iframe src="https://player.vimeo.com/video/644709184" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
