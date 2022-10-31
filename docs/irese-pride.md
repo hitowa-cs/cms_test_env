@@ -34,14 +34,6 @@ date: 2022-10-31T05:43:21.471Z
 
 <li aria-hidden="true" style="float: left; list-style: none; position: relative; width: 886px; margin-right: 2px;"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i8741c41cf88fdb5b/version/1639985624/image.png" data-orig-width="1280" data-orig-height="720" alt="" style="height: 498.6px;"></li>
 
-
+![](/images/irp2.png)
 
 <strong><span style="color: #000000;" data-mce-style="color: #000000;">⭐事例内容のご紹介</span>‼⭐</strong><div class="cc<iframe src="https://player.vimeo.com/video/644709184" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-
-
-
-
-
-
-![](/images/irp2.png)
