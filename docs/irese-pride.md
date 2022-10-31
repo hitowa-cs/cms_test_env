@@ -109,7 +109,7 @@ date: 2022-10-31T05:43:21.471Z
 </button><button type="button" data-action="unlink" data-params="7815118560" class="btn btn-sm" disabled="disabled" data-original-title="リンクを削除">
     <span class="icon icon-unlink"></span>
 
-</button></div>                </span>
+</button></div>           </span>
             </div>
             <label class="cc-m-fullwidth gallerycaption">
                 <div class="cc-m-input-wrapper">
