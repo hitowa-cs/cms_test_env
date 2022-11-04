@@ -18,15 +18,15 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <div class=" bg-blue-800 text-center bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xs text-center text-white   font-bold ">HITOWA目指す未来のケアを</span><span class="text-yellow-300 text-base font-bold">[「知る」](「知る」)</span></div><br>
+<span class="text-xs text-center text-white   font-bold ">HITOWA目指す未来のケアを</span><span class="text-xs text-yellow-300 text-base font-bold">[「知る」](「知る」)</span></div><br>
 
-<div class="bg-blue-800 bg-opacity-100 p-2 w-full h-full">
+<div class="bg-blue-800 text-center bg-opacity-100 p-2 w-full h-full">
 
 <span class="text-xl text-white  text-base font-bold">“Seeking”CARExTechnology の取り組みを<span class="text-yellow-300 text-base font-bold">[「見る」](「見る」)</span></div><br>
 
-<div class="bg-blue-800 bg-opacity-100 p-2 w-full h-full">
+<div class="bg-blue-800 text-center bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xl text-white  text-base font-bold">Care Innovation Team Report を<a href="https://www.google.com">「読む」</a>[](https://www.google.com)</span></div><br>
+<span class="text-xl text-white text-center text-base font-bold">Care Innovation Team Report を<a href="https://www.google.com">「読む」</a>[](https://www.google.com)</span></div><br>
 
 <div class="bg-blue-400 bg-opacity-100 p-2 w-full h-full">
 
