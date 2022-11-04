@@ -25,167 +25,103 @@ date: 2022-11-04T07:52:18.645Z
 
 <script defer src="https://unpkg.com/alpinejs@3.2.3/dist/cdn.min.js"></script>
 
+<article x-data="slider" class="relative w-full flex flex-shrink-0 overflow-hidden shadow-2xl">
 
+<div class="rounded-full bg-gray-600 text-white absolute top-5 right-5 text-sm px-2 text-center z-10">
 
-<main class="grid min-h-screen w-full place-content-center bg-gray-900">
+<span x-text="currentIndex"></span>/
 
-<div
-
-x-data="imageSlider"
-
-class="relative mx-auto max-w-2xl overflow-hidden rounded-md bg-gray-100 p-2 sm:p-4"
-
-\>
-
-<div
-
-class="absolute top-5 right-5 z-10 rounded-full bg-gray-600 px-2 text-center text-sm text-white"
-
-\>
-
-<span x-text="currentIndex"></span>/<span x-text="images.length"></span>
+<span x-text="images.length"></span>
 
 </div>
 
 
-
-<button
-
-@click="previous()"
-
-class="absolute left-5 top-1/2 z-10 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-gray-100 shadow-md"
-
-\>
-
-<svg
-
-class="h-8 w-8 font-bold text-gray-500"
-
-fill="none"
-
-stroke="currentColor"
-
-viewBox="0 0 24 24"
-
-xmlns="http://www.w3.org/2000/svg"
-
-\>
-
-<path
-
-stroke-linecap="round"
-
-stroke-linejoin="round"
-
-stroke-width="2.5"
-
-d="M15 19l-7-7 7-7"
-
-\></path>
-
-</svg>
-
-</button>
-
-
-
-<button
-
-@click="forward()"
-
-class="absolute right-5 top-1/2 z-10 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-gray-100 shadow-md"
-
-\>
-
-<svg
-
-class="h-8 w-8 font-bold text-gray-500"
-
-fill="none"
-
-stroke="currentColor"
-
-viewBox="0 0 24 24"
-
-xmlns="http://www.w3.org/2000/svg"
-
-\>
-
-<path
-
-stroke-linecap="round"
-
-stroke-linejoin="round"
-
-stroke-width="2.5"
-
-d="M9 5l7 7-7 7"
-
-\></path>
-
-</svg>
-
-</button>
-
-
-
-<div class="relative h-80" style="width: 30rem">
 
 <template x-for="(image, index) in images">
 
-<div
+<figure class="h-96" x-show="currentIndex == index + 1" x-transition:enter="transition transform duration-300"
 
-x-show="currentIndex == index + 1"
+x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100"
 
-x-transition:enter="transition transform duration-300"
+x-transition:leave="transition transform duration-300" x-transition:leave-start="opacity-100"
 
-x-transition:enter-start="opacity-0"
+x-transition:leave-end="opacity-0">
 
-x-transition:enter-end="opacity-100"
+<img :src="image" alt="Image" class="absolute inset-0 z-10 h-full w-full object-cover opacity-70" />
 
-x-transition:leave="transition transform duration-300"
+<figcaption class="absolute inset-x-0 bottom-1 z-20 w-96 mx-auto p-4 font-light text-sm text-center tracking-widest leading-snug bg-gray-300 bg-opacity-25">
 
-x-transition:leave-start="opacity-100"
+Any kind of content here!
 
-x-transition:leave-end="opacity-0"
+Primum in nostrane potestate est, quid meminerimus? Nulla erit controversia. Vestri haec verecundius, illi fortasse constantius.
 
-class="absolute top-0"
+</figcaption>
 
-\>
-
-<img :src="image" alt="image" class="rounded-sm" />
-
-</div>
+</figure>
 
 </template>
 
-</div>
 
-</div>
 
-</main>
+<button @click="back()"
+
+class="absolute left-14 top-1/2 -translate-y-1/2 w-11 h-11 flex justify-center items-center rounded-full shadow-md z-10 bg-gray-100 hover:bg-gray-200">
+
+<svg class=" w-8 h-8 font-bold transition duration-500 ease-in-out transform motion-reduce:transform-none text-gray-500 hover:text-gray-600 hover:-translate-x-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+
+xmlns="http://www.w3.org/2000/svg">
+
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7">
+
+</path>
+
+</svg>
+
+</button>
+
+
+
+<button @click="next()"
+
+class="absolute right-14 top-1/2 translate-y-1/2 w-11 h-11 flex justify-center items-center rounded-full shadow-md z-10 bg-gray-100 hover:bg-gray-200">
+
+<svg class=" w-8 h-8 font-bold transition duration-500 ease-in-out transform motion-reduce:transform-none text-gray-500 hover:text-gray-600 hover:translate-x-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+
+xmlns="http://www.w3.org/2000/svg">
+
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"></path>
+
+</svg>
+
+</button>
+
+</article>
 
 
 
 <script>
 
-document.addEventListener("alpine:init", () => {
+document.addEventListener('alpine:init', () => {
 
-Alpine.data("imageSlider", () => ({
+Alpine.data('slider', () => ({
 
 currentIndex: 1,
 
 images: [
 
-"https://unsplash.it/640/425?image=30",
+'https://source.unsplash.com/1600x900/?beach',
 
-"https://unsplash.it/640/425?image=40",
+'https://source.unsplash.com/1600x900/?cat',
 
-"https://unsplash.it/640/425?image=50",
+'https://source.unsplash.com/1600x900/?dog',
+
+'https://source.unsplash.com/1600x900/?lego',
+
+'https://source.unsplash.com/1600x900/?textures&patterns'
 
 ],
 
-previous() {
+back() {
 
 if (this.currentIndex > 1) {
 
@@ -195,19 +131,23 @@ this.currentIndex = this.currentIndex - 1;
 
 },
 
-forward() {
+next() {
 
 if (this.currentIndex < this.images.length) {
 
 this.currentIndex = this.currentIndex + 1;
 
+} else if (this.currentIndex <= this.images.length){
+
+this.currentIndex = this.images.length - this.currentIndex + 1
+
 }
 
 },
 
-}));
+}))
 
-});
+})
 
 </script>
 
