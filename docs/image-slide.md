@@ -5,4 +5,212 @@ categories:
   - new
 date: 2022-11-04T07:52:18.645Z
 ---
-<!doctype html> <html> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <meta http-equiv="X-UA-Compatible" content="ie=edge"> <script src="https://cdn.tailwindcss.com"></script> <title>KindaCode.com</title> </head> <body> <h1 class="my-4 text-center text-4xl">KindaCode.com</h1> <h2 class="mb-10 text-center text-xl">Carousel Example</h2> <!-- Implement the carousel --> <div class="relative w-[600px] mx-auto"> <div class="slide relative"> <img class="w-full h-[300px] object-cover" src="https://www.kindacode.com/wp-content/uploads/2022/07/flower-1.jpeg"> <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower One Caption</div> </div> <div class="slide relative"> <img class="w-full h-[300px] object-cover" src="https://www.kindacode.com/wp-content/uploads/2022/07/flower-2.jpeg"> <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Two Caption</div> </div> <div class="slide relative"> <img class="w-full h-[300px] object-cover" src="https://www.kindacode.com/wp-content/uploads/2022/07/flower-3.jpeg"> <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Three Caption </div> </div> <!-- The previous button --> <a class="absolute left-0 top-1/2 p-4 -translate-y-1/2 bg-black/30 hover:bg-black/50 text-white hover:text-amber-500 cursor-pointer" onclick="moveSlide(-1)">❮</a> <!-- The next button --> <a class="absolute right-0 top-1/2 p-4 -translate-y-1/2 bg-black/30 hover:bg-black/50 text-white hover:text-amber-500 cursor-pointer" onclick="moveSlide(1)">❯</a> </div> <br> <!-- The dots --> <div class="flex justify-center items-center space-x-5"> <div class="dot w-4 h-4 rounded-full cursor-pointer" onclick="currentSlide(1)"></div> <div class="dot w-4 h-4 rounded-full cursor-pointer" onclick="currentSlide(2)"></div> <div class="dot w-4 h-4 rounded-full cursor-pointer" onclick="currentSlide(3)"></div> </div> <!-- Javascript code --> <script> // set the default active slide to the first one let slideIndex = 1; showSlide(slideIndex); // change slide with the prev/next button function moveSlide(moveStep) { showSlide(slideIndex += moveStep); } // change slide with the dots function currentSlide(n) { showSlide(slideIndex = n); } function showSlide(n) { let i; const slides = document.getElementsByClassName("slide"); const dots = document.getElementsByClassName('dot'); if (n > slides.length) { slideIndex = 1 } if (n < 1) { slideIndex = slides.length } // hide all slides for (i = 0; i < slides.length; i++) { slides[i].classList.add('hidden'); } // remove active status from all dots for (i = 0; i < dots.length; i++) { dots[i].classList.remove('bg-yellow-500'); dots[i].classList.add('bg-green-600'); } // show the active slide slides[slideIndex - 1].classList.remove('hidden'); // highlight the active dot dots[slideIndex - 1].classList.remove('bg-green-600'); dots[slideIndex - 1].classList.add('bg-yellow-500'); } </script> </body> </html>
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="https://cdn.tailwindcss.com" rel="stylesheet">
+
+</head>
+
+<body class="h-screen overflow-hidden flex items-center justify-center" style="background: #edf2f7;">
+
+<script defer src="https://unpkg.com/alpinejs@3.2.3/dist/cdn.min.js"></script>
+
+
+
+<main class="grid min-h-screen w-full place-content-center bg-gray-900">
+
+<div
+
+x-data="imageSlider"
+
+class="relative mx-auto max-w-2xl overflow-hidden rounded-md bg-gray-100 p-2 sm:p-4"
+
+\>
+
+<div
+
+class="absolute top-5 right-5 z-10 rounded-full bg-gray-600 px-2 text-center text-sm text-white"
+
+\>
+
+<span x-text="currentIndex"></span>/<span x-text="images.length"></span>
+
+</div>
+
+
+
+<button
+
+@click="previous()"
+
+class="absolute left-5 top-1/2 z-10 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-gray-100 shadow-md"
+
+\>
+
+<svg
+
+class="h-8 w-8 font-bold text-gray-500"
+
+fill="none"
+
+stroke="currentColor"
+
+viewBox="0 0 24 24"
+
+xmlns="http://www.w3.org/2000/svg"
+
+\>
+
+<path
+
+stroke-linecap="round"
+
+stroke-linejoin="round"
+
+stroke-width="2.5"
+
+d="M15 19l-7-7 7-7"
+
+\></path>
+
+</svg>
+
+</button>
+
+
+
+<button
+
+@click="forward()"
+
+class="absolute right-5 top-1/2 z-10 flex h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-gray-100 shadow-md"
+
+\>
+
+<svg
+
+class="h-8 w-8 font-bold text-gray-500"
+
+fill="none"
+
+stroke="currentColor"
+
+viewBox="0 0 24 24"
+
+xmlns="http://www.w3.org/2000/svg"
+
+\>
+
+<path
+
+stroke-linecap="round"
+
+stroke-linejoin="round"
+
+stroke-width="2.5"
+
+d="M9 5l7 7-7 7"
+
+\></path>
+
+</svg>
+
+</button>
+
+
+
+<div class="relative h-80" style="width: 30rem">
+
+<template x-for="(image, index) in images">
+
+<div
+
+x-show="currentIndex == index + 1"
+
+x-transition:enter="transition transform duration-300"
+
+x-transition:enter-start="opacity-0"
+
+x-transition:enter-end="opacity-100"
+
+x-transition:leave="transition transform duration-300"
+
+x-transition:leave-start="opacity-100"
+
+x-transition:leave-end="opacity-0"
+
+class="absolute top-0"
+
+\>
+
+<img :src="image" alt="image" class="rounded-sm" />
+
+</div>
+
+</template>
+
+</div>
+
+</div>
+
+</main>
+
+
+
+<script>
+
+document.addEventListener("alpine:init", () => {
+
+Alpine.data("imageSlider", () => ({
+
+currentIndex: 1,
+
+images: [
+
+"https://unsplash.it/640/425?image=30",
+
+"https://unsplash.it/640/425?image=40",
+
+"https://unsplash.it/640/425?image=50",
+
+],
+
+previous() {
+
+if (this.currentIndex > 1) {
+
+this.currentIndex = this.currentIndex - 1;
+
+}
+
+},
+
+forward() {
+
+if (this.currentIndex < this.images.length) {
+
+this.currentIndex = this.currentIndex + 1;
+
+}
+
+},
+
+}));
+
+});
+
+</script>
+
+</body>
+
+</html>
