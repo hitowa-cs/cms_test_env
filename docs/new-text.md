@@ -16,9 +16,9 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <br>
 
-<div class=" bg-blue-800 bg-opacity-100 p-2 w-full h-full">
+<div class=" bg-blue-800  bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xl justify-[](「知る」)center text-white   font-bold ">HITOWA目指す未来のケアを</span><span class="text-yellow-300 text-base font-bold">[「知る」](「知る」)</span></div><br>
+<span class="text-xs text-center text-white   font-bold ">HITOWA目指す未来のケアを</span><span class="text-yellow-300 text-base font-bold">[「知る」](「知る」)</span></div><br>
 
 <div class="bg-blue-800 bg-opacity-100 p-2 w-full h-full">
 
