@@ -17,7 +17,7 @@ date: 2022-10-27T01:33:18.922Z
 
 </head> <body class="font-sans container"> 
 
-<div class="w-full  mx-auto p-8"> 
+<div class=""> 
 
 <div class="shadow-md">
 
