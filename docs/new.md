@@ -5,7 +5,7 @@ categories:
   - new
 date: 2022-10-27T01:33:18.922Z
 ---
-<!DOCTYPE html> 
+
 
 <html> 
 
@@ -17,9 +17,7 @@ date: 2022-10-27T01:33:18.922Z
 
 </head> <body class="font-sans container"> 
 
-<div class="w-full md:w-3/5 mx-auto p-8"> 
-
-<p>Open <strong>multiple</strong></p> 
+<div class="w-full  mx-auto p-8"> 
 
 <div class="shadow-md">
 
@@ -35,8 +33,4 @@ date: 2022-10-27T01:33:18.922Z
 
 </div></div><div class="rounded-md bg-blue-300  bg-opacity-50 p-2 w-full h-full">スマート介護士という資格をご存じですか？少ない人員で効率的な業務遂行がもとめられるなか、DX化を図り介護の質の向上と効率化を実行できる介護士が「スマート介護士」です。興味があれば事業企画室までお問合わせ下さい。</div><br>
 
-
-
- </div> 
-
-</div> <div class="tab w-full overflow-hidden border-t"> <input class="absolute opacity-0" id="tab-multi-two" type="checkbox" name="tabs"> <label class="block p-5 leading-normal cursor-pointer" for="tab-multi-two">Label Two</label> <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal"> <p class="p-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p> </div> </div> <div class="tab w-full overflow-hidden border-t"> <input class="absolute opacity-0" id="tab-multi-three" type="checkbox" name="tabs"> <label class="block p-5 leading-normal cursor-pointer" for="tab-multi-three">Label Three</label> <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal"> <p class="p-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p> </div> </div> </div> </div> <div class="w-full md:w-3/5 mx-auto p-8"> <p>Open <strong>one</strong></p> <div class="shadow-md"> <div class="tab w-full overflow-hidden border-t"> <input class="absolute opacity-0" id="tab-single-one" type="radio" name="tabs2"> <label class="block p-5 leading-normal cursor-pointer" for="tab-single-one">Label One</label> <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal"> <p class="p-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p> </div> </div> <div class="tab w-full overflow-hidden border-t"> <input class="absolute opacity-0" id="tab-single-two" type="radio" name="tabs2"> <label class="block p-5 leading-normal cursor-pointer" for="tab-single-two">Label Two</label> <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal"> <p class="p-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p> </div> </div> <div class="tab w-full overflow-hidden border-t"> <input class="absolute opacity-0" id="tab-single-three" type="radio" name="tabs2"> <label class="block p-5 leading-normal cursor-pointer" for="tab-single-three">Label Three</label> <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal"> <p class="p-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, architecto, explicabo perferendis nostrum, maxime impedit atque odit sunt pariatur illo obcaecati soluta molestias iure facere dolorum adipisci eum? Saepe, itaque.</p> </div> </div> </div> </div> </body> <script> /* Optional Javascript to close the radio button version by clicking it again */ var myRadios = document.getElementsByName('tabs2'); var setCheck; var x = 0; for(x = 0; x < myRadios.length; x++){ myRadios[x].onclick = function(){ if(setCheck != this){ setCheck = this; }else{ this.checked = false; setCheck = null; } }; } </script> </html>
+ </div>
