@@ -34,4 +34,4 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <div class="bg-blue-400 text-center bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xs  text-center font-medium text-white  text-base font-bold"><a href="https://www.google.com">Topics & News</a></span></div><br>
+<span class="text-xs  text-center font-bold text-white  text-base font-bold"><a href="https://www.google.com">Topics & News</a></span></div><br>
