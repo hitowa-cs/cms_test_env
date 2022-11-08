@@ -34,6 +34,9 @@ date: 2022-11-08T03:34:03.062Z
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i201bfd0d1ae0d747/version/1573109183/image.png" data-orig-width="508" data-orig-height="386" alt="" style="height: 528.943px;">
 
 <div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12069877260" data-action="content" ng-non-bindable="">
+
+<div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12069877160" data-action="content" ng-non-bindable="">
+                <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069877160" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">【介護現場での活用】</span></p></div>            </div>
                 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069877260" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">センサーが24時間お客様の状態をセンシングすることで、通常ケアスタッフが訪室して行っている安否確認をシステムで行うことができます。また実証の結果、これまで1フロアで約21分かかっていた巡視は12分まで削減、一部訪室が必要なお客様を除き、見守りシステムを活用した安否確認を実施することができました。それによりスタッフはこれまで定時の巡視にあてていた時間を本当にサポートが必要な方のケアに使うことができたり、より負担なく夜間業務に従事することができます。</span></p></div>            </div>
 
 ![](/images/image-3-.png)
