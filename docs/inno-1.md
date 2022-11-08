@@ -5,9 +5,7 @@ categories:
   - new
 date: 2022-11-08T01:24:34.894Z
 ---
-<span itemprop="name">Care　Innovation</span>   <span itemprop="name">HITOWAが目指す未来のケアを知る！</span>  
-
-
+<div data-action="button">        <div id="navi_user_1:2:3_breadcrumb_flat" data-navi-level="1:2:3" data-navi-expand="false" data-navi-variant="breadcrumb" class="j-nav-variant-breadcrumb"><ol itemscope="true" itemtype="http://schema.org/BreadcrumbList"><li itemscope="true" itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="cc-invisible"><a href="/app/s96da70f606bae585/p7639f2974a1345c6/" data-link-title="Care　Innovation" itemprop="item"><span itemprop="name">Care　Innovation</span></a><meta itemprop="position" content="1"></li><li itemscope="true" itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="cc-invisible cc-nav-current j-nav-current"><a href="/app/s96da70f606bae585/p4cf07ce27fc3befe/" data-link-title="HITOWAが目指す未来のケアを知る！" itemprop="item" class="cc-nav-current j-nav-current"><span itemprop="name">HITOWAが目指す未来のケアを知る！</span></a><meta itemprop="position" content="2"></li></ol>            <div class="cc-clear"></div>        </div></div>
 
 <div style="background: #00008B; padding: 10px; text-align: center;" data-mce-style="background: #00008B; padding: 10px; text-align: center;"><span style="background-color: rgba(0, 0, 0, 0); font-size: 16px; color: #ffffff;" data-mce-style="background-color: rgba(0, 0, 0, 0); font-size: 16px; color: #ffffff;"><span color="#000000"><b>HITOWAが目指す未来のケアを<span style="color: #ffff00;" data-mce-style="color: #ffff00;">「知る」</span></b></span></span></div>
 
@@ -35,8 +33,6 @@ date: 2022-11-08T01:24:34.894Z
 
 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069215860" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #3782c8;" data-mce-style="color: #3782c8;"><strong><span style="font-size: 16px;" data-mce-style="font-size: 16px;">介護ロボットでより正確なお客様の情報（データ）を得る！</span></strong></span></p></div>
 
-
-
 ![](/images/1574303820.png)
 
 ![](/images/1574303866.png)
@@ -47,14 +43,8 @@ date: 2022-11-08T01:24:34.894Z
 
 ![](/images/1574312367.png)
 
-
-
 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069844460" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">➀起床時間がわかることで、<strong><span style="color: #ff0000;" data-mce-style="color: #ff0000;">それぞれのお客様に合わせた起床介助の提供計画が可能</span></strong>になります。</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">②睡眠リズムを通して薬剤の効果を測定することでより適切な処方の提案に繋げることができます。</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">③睡眠レポートを活用することで、健康状態・認知症の兆候、生活リズムの把握などに役立ちます。</span></p></div>
 
 ![](/images/1574312593.png)
-
-
-
-
 
 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069849560" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">➀膀胱内の尿量を把握し、排泄のタイミングを予測することで尿失禁を防ぎ、脱オムツケアへの提案に繋げることができます。</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">②失禁に対する先回りのケアができれば、お客様の尊厳や自尊心が守られ、外出レク等にも安心して参加いただくなど、QOLの向上に寄与できるようになります。</span></p></div>
