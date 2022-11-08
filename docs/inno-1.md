@@ -5,9 +5,13 @@ categories:
   - new
 date: 2022-11-08T01:24:34.894Z
 ---
-<div data-action="button">        <div id="navi_user_1:2:3_breadcrumb_flat" data-navi-level="1:2:3" data-navi-expand="false" data-navi-variant="breadcrumb" class="j-nav-variant-breadcrumb"><ol itemscope="true" itemtype="http://schema.org/BreadcrumbList"><li itemscope="true" itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="cc-invisible"><a href="/app/s96da70f606bae585/p7639f2974a1345c6/" data-link-title="Care　Innovation" itemprop="item"><span itemprop="name">Care　Innovation</span></a><meta itemprop="position" content="1"></li><li itemscope="true" itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="cc-invisible cc-nav-current j-nav-current"><a href="/app/s96da70f606bae585/p4cf07ce27fc3befe/" data-link-title="HITOWAが目指す未来のケアを知る！" itemprop="item" class="cc-nav-current j-nav-current"><span itemprop="name">HITOWAが目指す未来のケアを知る！</span></a><meta itemprop="position" content="2"></li></ol>            <div class="cc-clear"></div>        </div></div>
+
 
 <div style="background: #00008B; padding: 10px; text-align: center;" data-mce-style="background: #00008B; padding: 10px; text-align: center;"><span style="background-color: rgba(0, 0, 0, 0); font-size: 16px; color: #ffffff;" data-mce-style="background-color: rgba(0, 0, 0, 0); font-size: 16px; color: #ffffff;"><span color="#000000"><b>HITOWAが目指す未来のケアを<span style="color: #ffff00;" data-mce-style="color: #ffff00;">「知る」</span></b></span></span></div>
+
+
+
+
 
 <span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">ここではHITOWAの考える、<span style="color: #3782c8;" data-mce-style="color: #3782c8;"><strong>テクノロジーを活用した未来のケア</strong></span>についてご紹介いたします。</span>
 
