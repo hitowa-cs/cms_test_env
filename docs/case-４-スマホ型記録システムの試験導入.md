@@ -5,15 +5,13 @@ categories:
   - new
 date: 2022-11-08T09:08:30.828Z
 ---
-
-
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 16px;" data-mce-style="font-size: 16px;"><strong><span style="color: #000000;" data-mce-style="color: #000000;">Case.４ スマホ型記録システムの試験導入</span></strong></span></p>
 
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12237567560" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">イリーゼ西大宮にて、2019.08より、記録システム「Notice」の試験導入を行っています。<br> スマホ型の記録システムで、その場で記録をする、確認することが特徴となっています。<br> 約10カ月の運用を経て、効果測定やスタッフアンケートを実施いたしました。</span></p></div>
+<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12237567560" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">イリーゼ西大宮にて、2019.08より、記録システム「Notice」の試験導入を行っています。<br> スマホ型の記録システムで、その場で記録をする、確認することが特徴となっています。<br> 約10カ月の運用を経て、効果測定やスタッフアンケートを実施いたしました。</span></p></div><div>
 
 ![](/images/1599539813.png)
 
-<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">＜試験導入概要＞</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">施設：イリーゼ西大宮</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">期間：2019年8月～</span></div>
+<div/><div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">＜試験導入概要＞</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">施設：イリーゼ西大宮</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">期間：2019年8月～</span></div>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i96d3b990634ff050/version/1599539957/image.png" data-orig-width="583" data-orig-height="386" alt="" style="height: 527.026px;">
 
