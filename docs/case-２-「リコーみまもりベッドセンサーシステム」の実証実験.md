@@ -9,7 +9,9 @@ date: 2022-11-08T07:11:32.322Z
 
 ![](/images/image.jpg)
 
-<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">＜実証実験概要＞</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">施設：イリーゼ東久留米</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">期間：2019年5月13日－8月29日</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">対象：１階フロアの全室（20室）</span></div><br>
+
+
+<br><div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">＜実証実験概要＞</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">施設：イリーゼ東久留米</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">期間：2019年5月13日－8月29日</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">対象：１階フロアの全室（20室）</span></div>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i44135782bc476373/version/1573110229/image.png" data-orig-width="652" data-orig-height="310" alt="" style="height: 356.069px;">
 
@@ -20,8 +22,6 @@ date: 2022-11-08T07:11:32.322Z
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">＜アンケート＞</span></p>
 
 <span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">実際にシステムを使っていただき、ケアスタッフの方にアンケートを実施しました。</span><div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><strong><span style="font-size: 16px; color: #000000;" data-mce-style="font-size: 16px; color: #000000;">Q：システムで把握できるこれらの項目は、お客様やスタッフにとってより良い ケアに活かすことができると思いますか？</span></strong><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">（10:つながる→5:どちらともいえない→1:変わらない）</span></div>
-
-
 
 ![](/images/image-4-.png)
 
