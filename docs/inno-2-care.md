@@ -17,19 +17,13 @@ date: 2022-11-08T01:52:46.322Z
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.1 導入事例</span></p>
                 <p style="text-align: left;" data-mce-style="text-align: left;"><a href="/app/s96da70f606bae585/pb83be447416d66df/" title="Case.1 「みまもり安心サービス」の導入" data-mce-href="/app/s96da70f606bae585/pb83be447416d66df/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>パナソニック「みまもり安心サービスの導入」<br></u></span></a></p>
 
-
-
 <span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.2　実証実験</span>
 
 <a href="/app/s96da70f606bae585/pa295293559855ae1/" title="Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験" data-mce-href="/app/s96da70f606bae585/pa295293559855ae1/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>リコー「リコーみまもりベッドセンサーシステムの実証」<br></u></span></a>
 
-
-
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.3　開発協力</span></p>
 
 <a href="/app/s96da70f606bae585/p4acf6d2cefe333ec/" title="Case.3 システム開発協力" data-mce-href="/app/s96da70f606bae585/p4acf6d2cefe333ec/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>パナソニック「見守りシステム新バージョンの開発協力」<br></u></span></a>
-
-
 
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.4　試験導入</span></p>
 
@@ -43,51 +37,6 @@ date: 2022-11-08T01:52:46.322Z
 
 <p style="text-align: left;" data-mce-style="text-align: left;"><a href="/app/s96da70f606bae585/p31111e6166336d79/" title="Case.6服薬業務支援システム「服やっくん」の導入" data-mce-href="/app/s96da70f606bae585/p31111e6166336d79/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>ノアコンツェル 服薬支援システム「服やっくん」</u></span></a></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12069869660" data-action="content" ng-non-bindable="">
-                <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069869660" contenteditable="true" style="position: relative;"><div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">【On Going】</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">●トワレセンサー（排泄検知）の実証実験（パナソニック）</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">●サービスロボットの実証実験に向けて<br> ●受付システムの実証実験に向けて<br></span></div></div>            </div>
+
+<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">【On Going】</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">●トワレセンサー（排泄検知）の実証実験（パナソニック）</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">●サービスロボットの実証実験に向けて<br> ●受付システムの実証実験に向けて<br></span></div>
