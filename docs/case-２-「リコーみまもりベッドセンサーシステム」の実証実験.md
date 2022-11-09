@@ -5,11 +5,11 @@ categories:
   - new
 date: 2022-11-08T07:11:32.322Z
 ---
-<span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">イリーゼ東久留米にてRICOH社の「リコーみまもりベッドセンサーシステム」の実証実験を約3か月間実施致しました。機器性能の評価、介護業務の運用にどのような効果があるかの検証を行いました。</span>
+<p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 16px;" data-mce-style="font-size: 16px;"><strong><span style="color: #000000;" data-mce-style="color: #000000;">Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験</span></strong></span></p>
+
+<div class="cc-m-all-content j-module j-hr" id="cc-m-all-content-12069877760" data-action="content" ng-non-bindable=""><hr></div>
 
 ![](/images/image.jpg)
-
-
 
 <br><div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">＜実証実験概要＞</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">施設：イリーゼ東久留米</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">期間：2019年5月13日－8月29日</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">対象：１階フロアの全室（20室）</span></div>
 
