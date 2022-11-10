@@ -5,15 +5,13 @@ categories:
   - new
 date: 2022-11-08T07:36:47.678Z
 ---
-
-
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 16px;" data-mce-style="font-size: 16px;"><strong><span style="color: #000000;" data-mce-style="color: #000000;">Case.3 システム開発協力</span></strong></span></p>
 
 <div class="cc-m-all-content j-module j-hr" id="cc-m-all-content-12069883260" data-action="content" ng-non-bindable="">
                     <hr>
             </div>
 
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069883360" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">Care Innovation Team は、より現場で活用できるシステムの構築のために、企業と連携し開発協力を行っています。 2019年においては、パナソニックの「みまもり安心サービス」の機能向上に向けて開発協力に取り組んできました。そのプロセスをこちらでご説明致します。</span></span></p></div>
+<p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">Care Innovation Team は、より現場で活用できるシステムの構築のために、企業と連携し開発協力を行っています。 2019年においては、パナソニックの「みまもり安心サービス」の機能向上に向けて開発協力に取り組んできました。そのプロセスをこちらでご説明致します。</span></span></p></div>
 
 ![](/images/1574315118.png)
 
