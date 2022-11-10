@@ -5,7 +5,11 @@ categories:
   - new
 date: 2022-11-08T01:24:34.894Z
 ---
-<div style="background: #00008B; padding: 10px; text-align: center;" data-mce-style="background: #00008B; padding: 10px; text-align: center;"><span style="background-color: rgba(0, 0, 0, 0); font-size: 16px; color: #ffffff;" data-mce-style="background-color: rgba(0, 0, 0, 0); font-size: 16px; color: #ffffff;"><span color="#000000"><b>HITOWAが目指す未来のケアを<span style="color: #ffff00;" data-mce-style="color: #ffff00;">「知る」</span></b></span></span></div>
+<div class=" bg-blue-800 text-center font-bold bg-opacity-100 p-2 w-full h-full">
+
+<span class="text-xs font-bold text-center text-white  "><a href="https://www.google.com">HITOWA目指す未来のケアを</span><a href="https://www.google.com"><span class="text-xs text-yellow-300 text-base font-bold">「知る」</span></div><br>
+
+<span class="text-xs underline">ここではHITOWAの考える、</span><span class="text blue-300 underline">テクノロジーを活用した未来のケア</span>についてご紹介いたします。</span>
 
 <span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">ここではHITOWAの考える、<span style="color: #3782c8;" data-mce-style="color: #3782c8;"><strong>テクノロジーを活用した未来のケア</strong></span>についてご紹介いたします。</span>
 
@@ -32,8 +36,6 @@ date: 2022-11-08T01:24:34.894Z
 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069215860" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #3782c8;" data-mce-style="color: #3782c8;"><strong><span style="font-size: 16px;" data-mce-style="font-size: 16px;">介護ロボットでより正確なお客様の情報（データ）を得る！</span></strong></span></p></div>
 
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">これまで介護の現場では人の目、気づきによって情報収集がなされてきました。しかし人のできることには限界があり、お客様の状態を十分に把握しているとは言えないことも多いのではないでしょうか。しかしこれからは介護ロボットを活用し、これまで見えなかった情報が可視化、情報収集されることでサービス品質の向上を目指しています。</span></p>
-
-
 
 ![](/images/1574303820.png)
 
