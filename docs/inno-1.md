@@ -63,4 +63,8 @@ t﻿ext-black
 
 ![](/images/1574312593.png)
 
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069849560" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">➀膀胱内の尿量を把握し、排泄のタイミングを予測することで尿失禁を防ぎ、脱オムツケアへの提案に繋げることができます。</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">②失禁に対する先回りのケアができれば、お客様の尊厳や自尊心が守られ、外出レク等にも安心して参加いただくなど、QOLの向上に寄与できるようになります。</span></p></div>
+
+
+<span class="text-xs text-black">➀膀胱内の尿量を把握し、排泄のタイミングを予測することで尿失禁を防ぎ、脱オムツケアへの提案に繋げることができます。</span><br>
+
+<span class="text-xs text-black">②失禁に対する先回りのケアができれば、お客様の尊厳や自尊心が守られ、外出レク等にも安心して参加いただくなど、QOLの向上に寄与できるようになります。</span>
