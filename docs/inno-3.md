@@ -23,7 +23,7 @@ date: 2022-11-08T02:19:11.990Z
 
 <div class="bg-blue-300 text-center font-bold　bg-opacity-50 p-2 w-full h-full">
 
-<span class="text-xm text-center  text-white font-bold">バックナンバーはこちら</span></div>
+<span class="text-xm text-center  text-black font-bold">バックナンバーはこちら</span></div>
 
 <span class="text-xs text-blue-600 font-bold underline">Care Innovation Team　Report Vol.6　202003 </span><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol.5/CIT-report Vol.5-2.pdf"></span>
 
