@@ -49,11 +49,9 @@ t﻿ext-black
 
 
 
-<span class="text-xm text-blue-
+<span class="text-xm text-blue-600 font-bold">情報（データ）を活用したケア【科学的介護】</span><br>
 
-情報（データ）を活用したケア【科学的介護】</span></strong></span></p></div>
-
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">センサーから得た情報を、ただ「見る・知る」だけでは介護ロボットの活用とは言えません。新しく見える化された情報や各職種で把握しているお客様情報を共有・融合させることで新たなケアの提案や提供に繋げていくことを目指しています。</span></p>
+<span class="text-xs text-black">センサーから得た情報を、ただ「見る・知る」だけでは介護ロボットの活用とは言えません。新しく見える化された情報や各職種で把握しているお客様情報を共有・融合させることで新たなケアの提案や提供に繋げていくことを目指しています。</span><br>
 
 ![](/images/1574312367.png)
 
