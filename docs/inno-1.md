@@ -33,7 +33,7 @@ t﻿ext-black
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/ibd36f1bffe415f3c/version/1574303531/image.png" data-orig-width="134" data-orig-height="133" alt="コミュニケーションロボット" style="height: 378.344px;"><br>
 
-<span class="text-xm text-blue-600 f﻿ont-bold">介護ロボットでより正確なお客様の情報（データ）を得る！</span>
+<span class="text-xm text-blue-600 font-bold">介護ロボットでより正確なお客様の情報（データ）を得る！</span>
 
 <span class="text-xs">これまで介護の現場では人の目、気づきによって情報収集がなされてきました。しかし人のできることには限界があり、お客様の状態を十分に把握しているとは言えないことも多いのではないでしょうか。しかしこれからは介護ロボットを活用し、これまで見えなかった情報が可視化、情報収集されることでサービス品質の向上を目指しています。</span>
 
@@ -45,8 +45,6 @@ t﻿ext-black
 
 ![](/images/1574303866.png)
 
-<span style="font-size: 16px;" data-mce-style="font-size: 16px;">
-
 
 
 <span class="text-xm text-blue-600 font-bold">情報（データ）を活用したケア【科学的介護】</span><br>
@@ -54,6 +52,12 @@ t﻿ext-black
 <span class="text-xs text-black">センサーから得た情報を、ただ「見る・知る」だけでは介護ロボットの活用とは言えません。新しく見える化された情報や各職種で把握しているお客様情報を共有・融合させることで新たなケアの提案や提供に繋げていくことを目指しています。</span><br>
 
 ![](/images/1574312367.png)
+
+
+
+<span class="text-xs 
+
+
 
 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069844460" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">➀起床時間がわかることで、<strong><span style="color: #ff0000;" data-mce-style="color: #ff0000;">それぞれのお客様に合わせた起床介助の提供計画が可能</span></strong>になります。</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">②睡眠リズムを通して薬剤の効果を測定することでより適切な処方の提案に繋げることができます。</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">③睡眠レポートを活用することで、健康状態・認知症の兆候、生活リズムの把握などに役立ちます。</span></p></div>
 
