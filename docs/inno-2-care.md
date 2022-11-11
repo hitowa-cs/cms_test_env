@@ -39,12 +39,4 @@ date: 2022-11-08T01:52:46.322Z
 
 
 
-
-
-
-
-
-
-<div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12069869660" data-action="content" ng-non-bindable="">
-
-<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">【On Going】</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">●トワレセンサー（排泄検知）の実証実験（パナソニック）</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">●サービスロボットの実証実験に向けて<br> ●受付システムの実証実験に向けて<br></span></div>
+<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><span class="text-xm text-black text-left">【On Going】</span><ul class="list-disc list-inside "> <li>トワレセンサー（排泄検知）の実証実験（パナソニック）</li> <li>サービスロボットの実証実験に向</li> <li>受付システムの実証実験に向けて</li> </ul><br></div></input><br>
