@@ -11,15 +11,9 @@ date: 2022-11-08T01:24:34.894Z
 
 <span class="text-xm font-bold underline">ここではHITOWAの考える、</span><span class="text-blue-300 text-xm font-bold  underline">テクノロジーを活用した未来のケア</span><span class="text-xm font-bold underline">についてご紹介いたします。</span>
 
-
-
 ![](/images/1574302767.png)
 
-
-
 <span class="text-xm">HITOWAは、「人」と「テクノロジー」で役割分担を行い、「人」は人の価値を最大限に生かしたサービスを提供し、「テクノロジー」は人の苦手な部分をサポートすることで、誰もが輝けるケアの現場を実現させていきたいと考えています。</span><br>
-
-
 
 ![](/images/image.png)
 
@@ -31,15 +25,19 @@ date: 2022-11-08T01:24:34.894Z
 
 ![](/images/1574302876.png)
 
-<span class="text-black-600 text-xm">介護ロボットとは、ケアをする人・受ける人をサポートする目的で使用する先進機器やシステムの総称です。現在、厚生労働省と経済産業省が介護分野での活用を推進しています。私たちは導入にあたり、どの業務にどのように活用すべきか、運用の方法を検討する必要があります。</span>
+<span class="text-black-600 text-xm">介護ロボットとは、ケアをする人・受ける人をサポートする目的で使用する先進機器やシステムの総称です。現在、厚生労働省と経済産業省が介護分野での活用を推進しています。私たちは導入にあたり、どの業務にどのように活用すべきか、運用の方法を検討する必要があります。</span><br>
+
+<﻿slideshow><br>
+
+<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/ibd36f1bffe415f3c/version/1574303531/image.png" data-orig-width="134" data-orig-height="133" alt="コミュニケーションロボット" style="height: 378.344px;"><br>
+
+<span class="text-xm text-blue-300">介護ロボットでより正確なお客様の情報（データ）を得る！</span>
+
+<p >これまで介護の現場では人の目、気づきによって情報収集がなされてきました。しかし人のできることには限界があり、お客様の状態を十分に把握しているとは言えないことも多いのではないでしょうか。しかしこれからは介護ロボットを活用し、これまで見えなかった情報が可視化、情報収集されることでサービス品質の向上を目指しています。</p>
 
 
 
-<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/ibd36f1bffe415f3c/version/1574303531/image.png" data-orig-width="134" data-orig-height="133" alt="コミュニケーションロボット" style="height: 378.344px;">
 
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069215860" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #3782c8;" data-mce-style="color: #3782c8;"><strong><span style="font-size: 16px;" data-mce-style="font-size: 16px;">介護ロボットでより正確なお客様の情報（データ）を得る！</span></strong></span></p></div>
-
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">これまで介護の現場では人の目、気づきによって情報収集がなされてきました。しかし人のできることには限界があり、お客様の状態を十分に把握しているとは言えないことも多いのではないでしょうか。しかしこれからは介護ロボットを活用し、これまで見えなかった情報が可視化、情報収集されることでサービス品質の向上を目指しています。</span></p>
 
 ![](/images/1574303820.png)
 
