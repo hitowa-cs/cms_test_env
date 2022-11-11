@@ -35,7 +35,7 @@ t﻿ext-black
 
 <span class="text-xm text-blue-600 f﻿ont-bold">介護ロボットでより正確なお客様の情報（データ）を得る！</span>
 
-<p >これまで介護の現場では人の目、気づきによって情報収集がなされてきました。しかし人のできることには限界があり、お客様の状態を十分に把握しているとは言えないことも多いのではないでしょうか。しかしこれからは介護ロボットを活用し、これまで見えなかった情報が可視化、情報収集されることでサービス品質の向上を目指しています。</p>
+<span class="text-xs">これまで介護の現場では人の目、気づきによって情報収集がなされてきました。しかし人のできることには限界があり、お客様の状態を十分に把握しているとは言えないことも多いのではないでしょうか。しかしこれからは介護ロボットを活用し、これまで見えなかった情報が可視化、情報収集されることでサービス品質の向上を目指しています。</span>
 
 
 
@@ -45,7 +45,13 @@ t﻿ext-black
 
 ![](/images/1574303866.png)
 
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12080470260" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #3782c8;" data-mce-style="color: #3782c8;"><strong><span style="font-size: 16px;" data-mce-style="font-size: 16px;">情報（データ）を活用したケア【科学的介護】</span></strong></span></p></div>
+<span style="font-size: 16px;" data-mce-style="font-size: 16px;">
+
+
+
+<span class="text-xm text-blue-
+
+情報（データ）を活用したケア【科学的介護】</span></strong></span></p></div>
 
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">センサーから得た情報を、ただ「見る・知る」だけでは介護ロボットの活用とは言えません。新しく見える化された情報や各職種で把握しているお客様情報を共有・融合させることで新たなケアの提案や提供に繋げていくことを目指しています。</span></p>
 
