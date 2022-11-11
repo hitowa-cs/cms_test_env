@@ -7,7 +7,7 @@ date: 2022-11-08T01:24:34.894Z
 ---
 <div class=" bg-blue-800 text-center font-bold bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xs font-bold text-center text-white  "><a href="https://www.google.com">HITOWA目指す未来のケアを</span><a href="https://www.google.com"><span class="text-xs text-yellow-300 text-base font-bold">「知る」</span></div><br>
+<span class="text-xm font-bold text-center text-white  "><a href="https://www.google.com">HITOWA目指す未来のケアを</span><a href="https://www.google.com"><span class="text-xs text-yellow-300 text-base font-bold">「知る」</span></div><br>
 
 <span class="text-xm font-bold underline">ここではHITOWAの考える、</span><span class="text-blue-300 text-xm font-bold  underline">テクノロジーを活用した未来のケア</span><span class="text-xm font-bold underline">についてご紹介いたします。</span>
 
@@ -17,11 +17,9 @@ date: 2022-11-08T01:24:34.894Z
 
 
 
+<span class="text-xm">HITOWAは、「人」と「テクノロジー」で役割分担を行い、「人」は人の価値を最大限に生かしたサービスを提供し、「テクノロジー」は人の苦手な部分をサポートすることで、誰もが輝けるケアの現場を実現させていきたいと考えています。</span><br>
 
 
-<span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">この先、働き手が不足していく中で、介護業界ではテクノロジーの活用がますます注目されています。</span>
-
-<span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">HITOWAは、「人」と「テクノロジー」で役割分担を行い、「人」は人の価値を最大限に生かしたサービスを提供し、「テクノロジー」は人の苦手な部分をサポートすることで、誰もが輝けるケアの現場を実現させていきたいと考えています。</span>
 
 ![](/images/image.png)
 
