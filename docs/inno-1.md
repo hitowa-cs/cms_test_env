@@ -9,7 +9,7 @@ date: 2022-11-08T01:24:34.894Z
 
 <span class="text-xs font-bold text-center text-white  "><a href="https://www.google.com">HITOWA目指す未来のケアを</span><a href="https://www.google.com"><span class="text-xs text-yellow-300 text-base font-bold">「知る」</span></div><br>
 
-<span class="text-xs underline">ここではHITOWAの考える、</span><span class="text blue-300 underline">テクノロジーを活用した未来のケア</span>についてご紹介いたします。</span>
+<span class="text-xs underline">ここではHITOWAの考える、</span><span class="text-blue-300 text-xs  underline">テクノロジーを活用した未来のケア</span><span class="text-xs underline">についてご紹介いたします。</span>
 
 <span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">ここではHITOWAの考える、<span style="color: #3782c8;" data-mce-style="color: #3782c8;"><strong>テクノロジーを活用した未来のケア</strong></span>についてご紹介いたします。</span>
 
