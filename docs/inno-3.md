@@ -15,10 +15,6 @@ date: 2022-11-08T02:19:11.990Z
 
 <span class="text-xs text-blue-600 underline">Care Innovation Team Report Vol.7 202106 </span><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol7.pdf" ><span class="text-xs text-red-600">NEW!!</span>. 
 
-
-
-<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol7.pdf" target="_blank" data-mce-href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol7.pdf"><span style="text-decoration: underline; color: #0000ff;" data-mce-style="text-decoration: underline; color: #0000ff;">Care Innovation Team　Report Vol.7　202106</span><span style="color: #ff0000;" data-mce-style="color: #ff0000;">　<strong>New!!</strong></span></a>
-
 ![](/images/1623408108.png)
 
 <div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12069932760" data-action="content" ng-non-bindable="">
