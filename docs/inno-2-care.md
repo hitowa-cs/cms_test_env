@@ -9,7 +9,7 @@ date: 2022-11-08T01:52:46.322Z
 
 <div class="bg-blue-800 text-center font-bold　bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xs text-center text-white  font-bold">CARE × Technology の取り組みを<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-300 ont-bold">「見る」</span></div>
+<span class="text-xm text-center text-white  font-bold">CARE × Technology の取り組みを<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-200 ont-bold">「見る」</span></div>
 
 <span class="text-xs text-black text-left ">Care Innovation Team ではあらゆる課題に対して、様々なソリューションを検討しながら最適なテクノロジーを選定し、介護現場でのトライアルや効果検証、運用の促進のための研修などを実施しています！</span>
 
