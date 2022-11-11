@@ -13,7 +13,7 @@ date: 2022-11-08T02:19:11.990Z
 
 <hr>
 
-<span class="text-xs text-blue-600 underline">Care Innovation Team Report Vol.7　202106 </span><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol7.pdf" ><span class="text-xs text-red-600">NEW!!</span>. 
+<span class="text-xs text-blue-600 underline">Care Innovation Team Report Vol.7 202106 </span><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol7.pdf" ><span class="text-xs text-red-600">NEW!!</span>. 
 
 
 
