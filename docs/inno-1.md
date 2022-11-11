@@ -55,11 +55,11 @@ t﻿ext-black
 
 
 
-<span class="text-xs 
+<span class="text-xs text-black">➀起床時間がわかることで、<span class="text-xs text-red-300 ">それぞれのお客様に合わせた起床介助の提供計画が可能</sapn>になります。</span><br>
 
+<span class="text-xs text-black">②睡眠リズムを通して薬剤の効果を測定することでより適切な処方の提案に繋げることができます。</span><br>
 
-
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12069844460" contenteditable="true" style="position: relative;"><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">➀起床時間がわかることで、<strong><span style="color: #ff0000;" data-mce-style="color: #ff0000;">それぞれのお客様に合わせた起床介助の提供計画が可能</span></strong>になります。</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">②睡眠リズムを通して薬剤の効果を測定することでより適切な処方の提案に繋げることができます。</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">③睡眠レポートを活用することで、健康状態・認知症の兆候、生活リズムの把握などに役立ちます。</span></p></div>
+<span class="text-xs text-black">③睡眠レポートを活用することで、健康状態・認知症の兆候、生活リズムの把握などに役立ちます。</span>
 
 ![](/images/1574312593.png)
 
