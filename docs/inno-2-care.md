@@ -11,7 +11,7 @@ date: 2022-11-08T01:52:46.322Z
 
 <span class="text-xm text-center text-white  font-bold">CARE × Technology の取り組みを<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-200 ont-bold">「見る」</span></div>
 
-<span class="text-xs text-black text-left ">Care Innovation Team ではあらゆる課題に対して、様々なソリューションを検討しながら最適なテクノロジーを選定し、介護現場でのトライアルや効果検証、運用の促進のための研修などを実施しています！</span>
+<span class="text-xs text-black text-left ">Care Innovation Team ではあらゆる課題に対して、様々なソリューションを検討しながら最適なテクノロジーを選定し、介護現場でのトライアルや効果検証、運用の促進のための研修などを実施しています！</span><hr>--</hr>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/ia6ef4877a5897bda/version/1573115836/image.png" data-orig-width="545" data-orig-height="519" alt="Case.2 ベッドセンサー" style="height: 687.288px;">
 
