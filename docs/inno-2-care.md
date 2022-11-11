@@ -39,4 +39,4 @@ date: 2022-11-08T01:52:46.322Z
 
 
 
-<div class="border-4 border-gray-300 rounded-md outline- 4 p-2 "><span class="text-xm text-black text-left">【On Going】</span><ul class="list-disc list-inside "> <li>トワレセンサー（排泄検知）の実証実験（パナソニック）</li> <li>サービスロボットの実証実験に向</li> <li>受付システムの実証実験に向けて</li> </ul><br></div></input><br>
+<div class="border-4 border-gray-300 rounded-md outline-offset-2  p-2 "><span class="text-xm text-black text-left">【On Going】</span><ul class="list-disc list-inside "> <li>トワレセンサー（排泄検知）の実証実験（パナソニック）</li> <li>サービスロボットの実証実験に向</li> <li>受付システムの実証実験に向けて</li> </ul><br></div></input><br>
