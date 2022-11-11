@@ -25,15 +25,19 @@ date: 2022-11-08T01:52:46.322Z
 
 <span class="text-xm text-black text-left"><a href="/app/s96da70f606bae585/p4acf6d2cefe333ec/">パナソニック「見守りシステム新バージョンの開発協力」</span>
 
+<span class="text-xm text-black text-left">Case.4　試験導入</span>
+
+<span class="text-xm text-black text-left"><a href="/app/s96da70f606bae585/p7b84adf08c9d219b/">スマホ型記録システムの試験導入</span>
 
 
 
+<span class="text-xm text-black text-left">Case.5 導入事例</span>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.4　試験導入</span></p>
+<span class="text-xm text-blue-800 text-left"><a href="/app/s96da70f606bae585/p774ba57d63acbf68/" >「ライフレンズ」の導入 </span>
 
-<a href="/app/s96da70f606bae585/p7b84adf08c9d219b/" title="Case.４ スマホ型記録システムの試験導入" data-mce-href="/app/s96da70f606bae585/p7b84adf08c9d219b/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>Abstract&nbsp; &nbsp;記録システム「Notice」</u></span></a>
+<span class="text-xm text-blue-800 text-left">「ライフレンズ」の導入<a href="/app/s96da70f606bae585/p774ba57d63acbf68/" >
 
-<span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.5 導入事例</span>
+
 
 <p style="text-align: left;" data-mce-style="text-align: left;"><a href="/app/s96da70f606bae585/p774ba57d63acbf68/" title="Case.5「ライフレンズ」の導入" data-mce-href="/app/s96da70f606bae585/p774ba57d63acbf68/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>「ライフレンズ」の導入</u></span></a></p>
 
