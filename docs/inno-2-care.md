@@ -29,21 +29,21 @@ date: 2022-11-08T01:52:46.322Z
 
 <span class="text-xm text-black text-left"><a href="/app/s96da70f606bae585/p7b84adf08c9d219b/">スマホ型記録システムの試験導入</span>
 
-
-
 <span class="text-xm text-black text-left">Case.5 導入事例</span>
 
 <span class="text-xm text-blue-800 text-left"><a href="/app/s96da70f606bae585/p774ba57d63acbf68/" >「ライフレンズ」の導入 </span>
 
-<span class="text-xm text-blue-800 text-left">「ライフレンズ」の導入<a href="/app/s96da70f606bae585/p774ba57d63acbf68/" >
+<span class="text-xm text-black text-left">Case.6 試験導入</span><span class="text-xm text-red-600">NEW!!></span>
+
+<span class="text-xm text-blue-800 text-left"><a href="/app/s96da70f606bae585/p774ba57d63acbf68/" >ノアコンツェル 服薬支援システム「服やっくん</span>
 
 
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><a href="/app/s96da70f606bae585/p774ba57d63acbf68/" title="Case.5「ライフレンズ」の導入" data-mce-href="/app/s96da70f606bae585/p774ba57d63acbf68/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>「ライフレンズ」の導入</u></span></a></p>
 
-<p>Case.6 試験導入　<span style="font-weight: 700 !important;" data-mce-style="font-weight: 700 !important;"><span style="color: #ff0000;" data-mce-style="color: #ff0000;">NEW!!</span></span></p>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><a href="/app/s96da70f606bae585/p31111e6166336d79/" title="Case.6服薬業務支援システム「服やっくん」の導入" data-mce-href="/app/s96da70f606bae585/p31111e6166336d79/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>ノアコンツェル 服薬支援システム「服やっくん」</u></span></a></p>
+
+
+
 
 <div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12069869660" data-action="content" ng-non-bindable="">
 
