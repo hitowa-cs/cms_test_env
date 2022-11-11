@@ -5,29 +5,29 @@ categories:
   - new
 date: 2022-11-08T01:52:46.322Z
 ---
-
-
 <div class="bg-blue-800 text-center font-bold　bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xm text-center text-white  font-bold">CARE × Technology の取り組みを<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-200 ont-bold">「見る」</span></div>
+<span class="text-xm text-center text-white  font-bold">CARE × Technology の取り組みを<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-200 ont-bold">「見る」</span></div><br>
 
-<span class="text-xs text-black text-left ">Care Innovation Team ではあらゆる課題に対して、様々なソリューションを検討しながら最適なテクノロジーを選定し、介護現場でのトライアルや効果検証、運用の促進のための研修などを実施しています！</span><hr>--</hr>
+<span class="text-xs text-black text-left ">Care Innovation Team ではあらゆる課題に対して、様々なソリューションを検討しながら最適なテクノロジーを選定し、介護現場でのトライアルや効果検証、運用の促進のための研修などを実施しています！</span><hr>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/ia6ef4877a5897bda/version/1573115836/image.png" data-orig-width="545" data-orig-height="519" alt="Case.2 ベッドセンサー" style="height: 687.288px;">
 
-<div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12080521960" data-action="content" ng-non-bindable="">
-                <div class="cc-m-all-content j-module j-text" id="cc-m-all-content-12080521960" data-action="content" ng-non-bindable="">
+<span class="text-xm text-black text-left">Case.1 導入事例</span>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.1 導入事例</span></p>
-                <p style="text-align: left;" data-mce-style="text-align: left;"><a href="/app/s96da70f606bae585/pb83be447416d66df/" title="Case.1 「みまもり安心サービス」の導入" data-mce-href="/app/s96da70f606bae585/pb83be447416d66df/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>パナソニック「みまもり安心サービスの導入」<br></u></span></a></p>
+<span class="text-xm text-black text-left"><a href="/app/s96da70f606bae585/pb83be447416d66df/" >パナソニック「みまもり安心サービスの導入」</span>
 
-<span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.2　実証実験</span>
+<span class="text-xm text-black text-left">Case.2 実証実験</span>
 
-<a href="/app/s96da70f606bae585/pa295293559855ae1/" title="Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験" data-mce-href="/app/s96da70f606bae585/pa295293559855ae1/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>リコー「リコーみまもりベッドセンサーシステムの実証」<br></u></span></a>
+<span class="text-xm text-black text-left"><a href="/app/s96da70f606bae585/pb83be447416d66df/" >「リコーみまもりベッドセンサーシステム」</span>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.3　開発協力</span></p>
+<span class="text-xm text-black text-left">Case.3　開発協力</span>
 
-<a href="/app/s96da70f606bae585/p4acf6d2cefe333ec/" title="Case.3 システム開発協力" data-mce-href="/app/s96da70f606bae585/p4acf6d2cefe333ec/"><span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>パナソニック「見守りシステム新バージョンの開発協力」<br></u></span></a>
+<span class="text-xm text-black text-left"><a href="/app/s96da70f606bae585/p4acf6d2cefe333ec/">パナソニック「見守りシステム新バージョンの開発協力」</span>
+
+
+
+
 
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">Case.4　試験導入</span></p>
 
