@@ -9,13 +9,13 @@ date: 2022-11-08T02:19:11.990Z
 
 <span class="text-xm text-center  text-white font-bold">Care Innovation Team Report を<a href="https://www.google.com"></span><span class="text-yellow-200  font-bold">「読む」<a href="https://www.google.com"></span></div><br>
 
+<﻿span class="text-xs text-black">Care Innovation Team では各メーカーや行政、業界団体とも積極的に情報交換や連携を取っております。定期的にレポートとして配信致しますのでご一読ください！</span>
+
+<hr>
+
+<span class="text-xs text-blue-600 underline">Care Innovation Team Report Vol.7　202106 </span><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol7.pdf" ><span class="text-xs text-red-600">NEW!!</span>. 
 
 
-<span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">Care Innovation Team では各メーカーや行政、業界団体とも積極的に情報交換や連携を取っております。定期的にレポートとして配信致しますのでご一読ください！</span>
-
-<div class="cc-m-all-content j-module j-hr" id="cc-m-all-content-12069929160" data-action="content" ng-non-bindable="">
-                    <hr>
-            </div>
 
 <a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol7.pdf" target="_blank" data-mce-href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol7.pdf"><span style="text-decoration: underline; color: #0000ff;" data-mce-style="text-decoration: underline; color: #0000ff;">Care Innovation Team　Report Vol.7　202106</span><span style="color: #ff0000;" data-mce-style="color: #ff0000;">　<strong>New!!</strong></span></a>
 
