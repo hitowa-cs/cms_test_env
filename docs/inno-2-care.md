@@ -7,7 +7,7 @@ date: 2022-11-08T01:52:46.322Z
 ---
 <div class="bg-blue-800 text-center font-bold　bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xm text-center text-white  font-bold">CARE × Technology の取り組みを<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-200 ont-bold">「見る」</span></div><br
+<span class="text-xm text-center text-white  font-bold">CARE × Technology の取り組みを<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-200 ont-bold">「見る」</span></div>
 
 <span class="text-xs text-black text-left ">Care Innovation Team ではあらゆる課題に対して、様々なソリューションを検討しながら最適なテクノロジーを選定し、介護現場でのトライアルや効果検証、運用の促進のための研修などを実施しています！</span><hr>
 
@@ -36,7 +36,5 @@ date: 2022-11-08T01:52:46.322Z
 <span class="text-xm text-black text-left">Case.6 試験導入</span><span class="text-xm text-red-600">NEW!!></span>
 
 <span class="text-xm text-blue-800 text-left"><a href="/app/s96da70f606bae585/p774ba57d63acbf68/" >ノアコンツェル 服薬支援システム「服やっくん</span>
-
-
 
 <div class="border-4 border-gray-300 rounded-md outline-offset-2  p-2 "><span class="text-xm text-black text-left">【On Going】</span><ul class="list-disc list-inside "> <li>トワレセンサー（排泄検知）の実証実験（パナソニック）</li> <li>サービスロボットの実証実験に向</li> <li>受付システムの実証実験に向けて</li> </ul><br></div></input><br>
