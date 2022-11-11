@@ -13,7 +13,9 @@ date: 2022-11-08T01:24:34.894Z
 
 ![](/images/1574302767.png)
 
-<span class="text-xm">HITOWAは、「人」と「テクノロジー」で役割分担を行い、「人」は人の価値を最大限に生かしたサービスを提供し、「テクノロジー」は人の苦手な部分をサポートすることで、誰もが輝けるケアの現場を実現させていきたいと考えています。</span><br>
+<span class="text-xs t﻿ext-black ">HITOWAは、「人」と「テクノロジー」で役割分担を行い、「人」は人の価値を最大限に生かしたサービスを提供し、「テクノロジー」は人の苦手な部分をサポートすることで、誰もが輝けるケアの現場を実現させていきたいと考えています。</span><br>
+
+t﻿ext-black
 
 ![](/images/image.png)
 
@@ -31,7 +33,7 @@ date: 2022-11-08T01:24:34.894Z
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/ibd36f1bffe415f3c/version/1574303531/image.png" data-orig-width="134" data-orig-height="133" alt="コミュニケーションロボット" style="height: 378.344px;"><br>
 
-<span class="text-xm text-blue-300">介護ロボットでより正確なお客様の情報（データ）を得る！</span>
+<span class="text-xm text-blue-600 f﻿ont-bold">介護ロボットでより正確なお客様の情報（データ）を得る！</span>
 
 <p >これまで介護の現場では人の目、気づきによって情報収集がなされてきました。しかし人のできることには限界があり、お客様の状態を十分に把握しているとは言えないことも多いのではないでしょうか。しかしこれからは介護ロボットを活用し、これまで見えなかった情報が可視化、情報収集されることでサービス品質の向上を目指しています。</p>
 
