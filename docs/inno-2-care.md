@@ -5,9 +5,13 @@ categories:
   - new
 date: 2022-11-08T01:52:46.322Z
 ---
-<div style="background: #00008B; padding: 10px; text-align: center;" data-mce-style="background: #00008B; padding: 10px; text-align: center;"><span style="font-size: 16px;" data-mce-style="font-size: 16px;"><a href="/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/" title="HITOWAの Care Innovation の取り組みを見る！" data-mce-href="/app/s96da70f606bae585/p3bfb13d1c0fdcd5a/"><span style="background-color: rgba(0, 0, 0, 0); color: #ffffff;" data-mce-style="background-color: rgba(0, 0, 0, 0); color: #ffffff;"><span color="#000000"><b>CARE × Tecnology の取り組みを<span style="color: #ffff00;" data-mce-style="color: #ffff00;">「見る」</span></b></span></span></a></span></div>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">Care Innovation Team ではあらゆる課題に対して、様々なソリューションを検討しながら最適なテクノロジーを選定し、介護現場でのトライアルや効果検証、運用の促進のための研修などを実施しています！</span></p>
+
+<div class="bg-blue-800 text-center font-bold　bg-opacity-100 p-2 w-full h-full">
+
+<span class="text-xs text-center text-white  font-bold">CARE × Technology の取り組みを<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-300 ont-bold">「見る」</span></div><br>
+
+<span class="text-xs text-black text-left ">Care Innovation Team ではあらゆる課題に対して、様々なソリューションを検討しながら最適なテクノロジーを選定し、介護現場でのトライアルや効果検証、運用の促進のための研修などを実施しています！</span>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/ia6ef4877a5897bda/version/1573115836/image.png" data-orig-width="545" data-orig-height="519" alt="Case.2 ベッドセンサー" style="height: 687.288px;">
 
