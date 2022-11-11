@@ -5,11 +5,11 @@ categories:
   - new
 date: 2022-11-08T02:19:11.990Z
 ---
-<div class="bg-blue-800 text-center font-bold　bg-opacity-100 p-2 w-full h-full">
+<div class="bg-blue-900 text-center font-bold　bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xm text-center  text-white font-bold">Care Innovation Team Report を<a href="https://www.google.com"></span><a href="https://www.google.com"><span class="text-yellow-200  font-bold">「読む」</span></div><br>
+<span class="text-xm text-center  text-white font-bold">Care Innovation Team Report を<a href="https://www.google.com"></span><span class="text-yellow-200  font-bold">「読む」<a href="https://www.google.com"></span></div><br>
 
-<div style="background: #00008B; padding: 10px; text-align: center;" data-mce-style="background: #00008B; padding: 10px; text-align: center;"><span style="background-color: rgba(0, 0, 0, 0); font-size: 16px; color: #ffffff;" data-mce-style="background-color: rgba(0, 0, 0, 0); font-size: 16px; color: #ffffff;"><span color="#000000"><b>Care Innovation Team Report を<span style="color: #ffff00;" data-mce-style="color: #ffff00;">「読む」</span></b></span></span></div>
+
 
 <span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">Care Innovation Team では各メーカーや行政、業界団体とも積極的に情報交換や連携を取っております。定期的にレポートとして配信致しますのでご一読ください！</span>
 
