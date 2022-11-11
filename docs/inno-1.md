@@ -55,7 +55,7 @@ t﻿ext-black
 
 
 
-<span class="text-xs text-black">➀起床時間がわかることで、<span class="text-xs text-red-300 ">それぞれのお客様に合わせた起床介助の提供計画が可能</sapn>になります。</span><br>
+<span class="text-xs text-black">➀起床時間がわかることで、<span class="text-xs text-red-600 ">それぞれのお客様に合わせた起床介助の提供計画が可能</sapn>になります。</span><br>
 
 <span class="text-xs text-black">②睡眠リズムを通して薬剤の効果を測定することでより適切な処方の提案に繋げることができます。</span><br>
 
