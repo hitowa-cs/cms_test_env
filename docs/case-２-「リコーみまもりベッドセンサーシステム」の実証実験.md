@@ -15,15 +15,7 @@ date: 2022-11-08T07:11:32.322Z
 
 
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span><ul class="list-disc list-inside "> <li>イリーゼの有料老人ホームと通所サービスの運営全般を行っています</li> <li>各部毎の担当エリアは以下の通りです</li> </ul><br></div></input><br>
-
-
-
-
-
-
-
-<br><div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">＜実証実験概要＞</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">施設：イリーゼ東久留米</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">期間：2019年5月13日－8月29日</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">対象：１階フロアの全室（20室）</span></div>
+<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜実証実験概要＞<li>施設：イリーゼ東久留米</li> <li>期間：2019年5月13日－8月29日</li> <li>対象：１階フロアの全室（20室）</li></ul><br></div></input><br>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i44135782bc476373/version/1573110229/image.png" data-orig-width="652" data-orig-height="310" alt="" style="height: 356.069px;">
 
