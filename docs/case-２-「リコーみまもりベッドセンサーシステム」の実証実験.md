@@ -13,7 +13,7 @@ date: 2022-11-08T07:11:32.322Z
 
 ![](/images/image.jpg)
 
-
+<br>
 
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜実証実験概要＞<li>施設：イリーゼ東久留米</li> <li>期間：2019年5月13日－8月29日</li> <li>対象：１階フロアの全室（20室）</li></ul><br></div></input><br>
 
