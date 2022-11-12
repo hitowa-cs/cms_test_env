@@ -19,13 +19,17 @@ date: 2022-11-08T07:11:32.322Z
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i44135782bc476373/version/1573110229/image.png" data-orig-width="652" data-orig-height="310" alt="" style="height: 356.069px;">
 
-<span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">＜システム概要＞</span>
+<span class="text-xs text-black">＜システム概要＞</span>
 
-<span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">ベッドの４本足に設置した荷重センサーがベッド上の入居者様の動きや睡眠の状態を検知し、専用のモニターやタブレットにて通知してくれます。いち早く離床に伴う行動を確認することで転落や転倒の予防に役立てることができます。また睡眠や行動の履歴がレポートとして記録されるので、お客様の生活リズムの把握に効果的です。</span>
+<span class="text-xs text-black">ベッドの４本足に設置した荷重センサーがベッド上の入居者様の動きや睡眠の状態を検知し、専用のモニターやタブレットにて通知してくれます。いち早く離床に伴う行動を確認することで転落や転倒の予防に役立てることができます。また睡眠や行動の履歴がレポートとして記録されるので、お客様の生活リズムの把握に効果的です。</span>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">＜アンケート＞</span></p>
+<span class="text-xs text-black">＜アンケート＞</span>
 
-<span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">実際にシステムを使っていただき、ケアスタッフの方にアンケートを実施しました。</span><div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><strong><span style="font-size: 16px; color: #000000;" data-mce-style="font-size: 16px; color: #000000;">Q：システムで把握できるこれらの項目は、お客様やスタッフにとってより良い ケアに活かすことができると思いますか？</span></strong><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">（10:つながる→5:どちらともいえない→1:変わらない）</span></div>
+<span class="text-xs text-black">実際にシステムを使っていただき、ケアスタッフの方にアンケートを実施しました。</span>
+
+<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><strong>Q：システムで把握できるこれらの項目は、お客様やスタッフにとってより良い ケアに活かすことができると思いますか？</strong><br> 
+
+<span class="text-xs text-black text-left">（10:つながる→5:どちらともいえない→1:変わらない）</span></div>
 
 ![](/images/image-4-.png)
 
