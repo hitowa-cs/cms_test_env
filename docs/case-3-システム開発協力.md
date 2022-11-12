@@ -35,4 +35,4 @@ date: 2022-11-08T07:36:47.678Z
 
 ![](/images/1574314080.png)
 
-<span style="color: #000000;" data-mce-style="color: #000000;">従来の<strong>お客様の状態を表す</strong>仕様から<span style="color: #ff0000;" data-mce-style="color: #ff0000;"><strong>お客様の行動</strong></span>を表わす方がよりケアの判断に効果的と考え、上図のような表示イメージをパナソニックへ提言し、機能向上への協力を行いました。今後もよりよりシステム、現場で活用できる介護ロボットの開発に積極的に取り組んでいきたいとCare Innovation Team では考えています。</span>
+<span class="text-xs text-balck">従来の<strong>お客様の状態を表す</strong>仕様から<span class="text-xs text-red-600">お客様の行動</span><span>を表わす方がよりケアの判断に効果的と考え、上図のような表示イメージをパナソニックへ提言し、機能向上への協力を行いました。今後もよりよりシステム、現場で活用できる介護ロボットの開発に積極的に取り組んでいきたいとCare Innovation Team では考えています。</span>
