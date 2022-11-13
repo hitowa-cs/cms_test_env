@@ -22,12 +22,12 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <div class=" bg-blue-800 text-center font-bold bg-opacity-100 p-2 w-full h-full">
 
-<a href="https://www.google.com"><span class="text-xm text-center text-white  font-bold">CARE × Technology の取り組みを</span><a href="https://www.google.com"><span class="text-yellow-200 font-bold">「見る」</a></span></div><br>
+<a href="https://www.google.com"><span class="text-xm text-center text-white  font-bold">CARE × Technology の取り組みを</span><span class="text-yellow-200 font-bold">「見る」</a></span></div><br>
 
 <div class="bg-blue-800 text-center font-bold　bg-opacity-100 p-2 w-full h-full">
 
-<a href="https://www.google.com"><span class="text-xm text-center  text-white font-bold">Care Innovation Team Report を</span><a href="https://www.google.com"><span class="text-yellow-200  font-bold">「読む」</a></span></div><br>
+<a href="https://www.google.com"><span class="text-xm text-center  text-white font-bold">Care Innovation Team Report を</span><span class="text-yellow-200  font-bold">「読む」</a></span></div><br>
 
-<div class="bg-blue-400 text-center font-bold　bg-opacity-100 p-2 w-full h-full">
+<div class="bg-blue-400 text-center font-bold bg-opacity-100 p-2 w-full h-full">
 
 <a href="https://www.google.com"><span class="text-xm  text-center  text-white font-bold ">Topics & News</a></span></div><br>
