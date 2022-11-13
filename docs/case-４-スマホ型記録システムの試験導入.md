@@ -17,7 +17,7 @@ date: 2022-11-08T09:08:30.828Z
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i96d3b990634ff050/version/1599539957/image.png" data-orig-width="583" data-orig-height="386" alt="" style="height: 527.026px;">
 
-1. <span class="text-xs text-black-600 text-left">＜システム概要＞</span></p>
+<span class="text-xs text-black-600 text-left">＜システム概要＞</span></p>
 
 <span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">スマホとQRコードを使った記録システム。QRコードの撮影だけでほとんどの記録ページにアクセスできます。ケアを提供したそのタイミングで瞬時に記録をすることで、業務効率化を実現し、即時に情報を共有することができます。</span>
 
