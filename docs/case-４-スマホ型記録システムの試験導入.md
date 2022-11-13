@@ -13,7 +13,7 @@ date: 2022-11-08T09:08:30.828Z
 
 <br>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜試験導入概要＞<li>施設：イリーゼ西大宮</li> <li>期間：2019年8月</li> </ul><br></div></input><br>
+<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜試験導入概要＞<p>施設：イリーゼ西大宮</p> <p>期間：2019年8月</p> </ul><br></div></input><br>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i96d3b990634ff050/version/1599539957/image.png" data-orig-width="583" data-orig-height="386" alt="" style="height: 527.026px;">
 
