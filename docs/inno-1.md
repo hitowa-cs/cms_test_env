@@ -1,5 +1,5 @@
 ---
-title: inno-1
+title: HITOWAが目指す未来のケアを「知る」
 layout: full-width
 categories:
   - new
