@@ -15,7 +15,7 @@ date: 2022-11-08T07:11:32.322Z
 
 <br>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜実証実験概要＞<li>施設：イリーゼ東久留米</li> <li>期間：2019年5月13日－8月29日</li> <li>対象：１階フロアの全室（20室）</li></ul><br></div></input><br>
+<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜実証実験概要＞<P>施設：イリーゼ東久留米</p> <p>期間：2019年5月13日－8月29日</p> <p>対象：１階フロアの全室（20室）</p></ul><br></div></input><br>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i44135782bc476373/version/1573110229/image.png" data-orig-width="652" data-orig-height="310" alt="" style="height: 356.069px;">
 
@@ -32,8 +32,6 @@ date: 2022-11-08T07:11:32.322Z
 <span class="text-xs text-black text-left">（10:つながる→5:どちらともいえない→1:変わらない）</span></div>
 
 ![](/images/image-4-.png)
-
-
 
 <span class="text-xs text-black">【実証を通して】</sapn>
 
