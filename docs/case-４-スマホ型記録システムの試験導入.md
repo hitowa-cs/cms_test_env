@@ -29,9 +29,9 @@ date: 2022-11-08T09:08:30.828Z
 
 ![](/images/1599540744.png)
 
-<span class="text-xm text-left">【スタッフアンケートの結果】</span>
+<span class="text-x text-left">【スタッフアンケートの結果】</span>
 
-<span class="text-xm">【イリーゼ西大宮のスタッフを対象に「Notice」使用に関するアンケートを実施しました。<br> 全ての項目で</span>
+<span class="text-xs">【イリーゼ西大宮のスタッフを対象に「Notice」使用に関するアンケートを実施しました。<br> 全ての項目で</span>
 
 
 
