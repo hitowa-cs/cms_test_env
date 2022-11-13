@@ -1,5 +1,5 @@
 ---
-title: inno-3
+title: Care Innovavtion Team Reportを「読む」
 layout: full-width
 categories:
   - new
