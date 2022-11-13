@@ -51,4 +51,6 @@ date: 2022-11-09T05:03:57.748Z
 
 ![](/images/1628130454.png)
 
-<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; border-radius: 10px;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">《これまでの導入施設》</span><br> <span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">東京　　　 ：練馬中村橋・練馬石神井台<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;三鷹深大寺<br> 神奈川　　 ：横浜センター南・横浜三ッ沢<br> 埼玉　　　 ：西大宮・入間・狭山<br> 首都圏以外：瑞穂汐路・神戸六甲</span></div>
+
+
+<div class="border-2 border-gray-300 text-xs rounded-md outline- 4 p-2 "><ul class="list-disc list-inside ">《これまでの導入施設》<P>東京　　　 ：練馬中村橋・練馬石神井台 <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 三鷹深大寺<br> 神奈川　　 ：横浜センター南・横浜三ッ沢<br> 埼玉　　　 ：西大宮・入間・狭山<br> 首都圏以外：瑞穂汐路・神戸六甲</span></div></p> </ul><br>
