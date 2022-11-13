@@ -18,7 +18,7 @@ HITOWAケアサービスでは明るく輝く介護の未来を目指して、�
 
 <div class=" bg-blue-800 text-center font-bold bg-opacity-100 p-2 w-full h-full">
 
-<a href="https://www.google.com"><span class="text-xm font-bold text-center text-white  ">HITOWA目指す未来のケアを</span><span class="text-xm text-yellow-200 text-base font-bold">「知る」</a></span></div><br>
+<a href="https://hitowa-cms-test.s3.ap-northeast-1.amazonaws.com/docs/inno-1.html"><span class="text-xm font-bold text-center text-white  ">HITOWA目指す未来のケアを</span><span class="text-xm text-yellow-200 text-base font-bold">「知る」</a></span></div><br>
 
 <div class=" bg-blue-800 text-center font-bold bg-opacity-100 p-2 w-full h-full">
 
