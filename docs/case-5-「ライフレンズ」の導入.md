@@ -53,4 +53,4 @@ date: 2022-11-09T05:03:57.748Z
 
 
 
-<div class="border-2 border-gray-300 text-xs rounded-md outline- 4 p-2 "><ul class="list-disc list-inside ">《これまでの導入施設》<P>東京　　　 ：練馬中村橋・練馬石神井台 <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 三鷹深大寺<br> 神奈川　　 ：横浜センター南・横浜三ッ沢<br> 埼玉　　　 ：西大宮・入間・狭山<br> 首都圏以外：瑞穂汐路・神戸六甲</span></div></p> </ul><br>
+<div class="border-2 border-gray-300 text-xs rounded-md outline- 4 p-2 "><ul class="list-disc list-inside ">《これまでの導入施設》<P>東京　　　 ：練馬中村橋・練馬石神井台 <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 三鷹深大寺<br> 神奈川　　 ：横浜センター南・横浜三ッ沢<br> 埼玉　　　 ：西大宮・入間・狭山<br> 首都圏以外 ：瑞穂汐路・神戸六甲</span></div></p> </ul><br>
