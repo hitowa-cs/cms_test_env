@@ -1,5 +1,5 @@
 ---
-title: inno-2-care
+title: CARE×Technologyの取り組みを「見る」
 layout: full-width
 categories:
   - new
