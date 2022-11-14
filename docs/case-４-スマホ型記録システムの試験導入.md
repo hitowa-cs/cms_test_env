@@ -33,10 +33,10 @@ date: 2022-11-08T09:08:30.828Z
 
 <span class="text-xs">【イリーゼ西大宮のスタッフを対象に「Notice」使用に関するアンケートを実施しました。<br> 全ての項目で</span>
 
-
-
 <span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i3e3286fb466c00e8/version/1599540685/image.png" data-orig-width="815" data-orig-height="609" alt="" style="height: 589.559px;">
 
 ![](/images/1599540773.png)
 
 <span class="text-xm">一番大きな変化はお客様とのコミュニケーションをとる時間が増えたことです。紙の記録は現場を離れて時間に追われながら記載していたのですが、その場で記録することもできるようになり記録の正確性も向上しました。 介護記録については、前日や以前の情報をすぐに確認することができるので、お客様の状況が 正確に把握できるようになりました。紙の記録だとファイリングされている分厚い資料から知りたいことを探すことは大変ですので、情報の精度もかなり向上していると感じています。</span>
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
