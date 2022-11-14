@@ -33,6 +33,8 @@ date: 2022-11-08T02:19:11.990Z
 
 <span class="text-xs text-blue-600 font-bold underline">Care Innovation Team　Report Vol.1　201909</span><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care%20Innovation/%E3%80%88Vol.6%E3%80%89CIT=report.pdf" ></span>
 
-
-
 <span class="text-xm text-blue-300 text-center text-fold u﻿nderline"><u>・代表からのメッセージ</u></span>
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
