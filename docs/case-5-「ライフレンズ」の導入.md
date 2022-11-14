@@ -37,8 +37,6 @@ date: 2022-11-09T05:03:57.748Z
 
 ![](/images/1628128812.png)
 
-
-
 <span class="text-xs">パナソニック社と行っている見守りシステムの共同開発では、現場の皆様のお声を参考にしながら繰り返しアップデートを行ってきました。</span>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i710e5d225649b38b/version/1628129471/image.png" data-orig-width="374" data-orig-height="376" alt="" style="height: 886.395px;">
@@ -51,6 +49,8 @@ date: 2022-11-09T05:03:57.748Z
 
 ![](/images/1628130454.png)
 
-
-
 <div class="border-2 border-gray-300 text-xs rounded-md outline- 4 p-2 "><ul class="list-disc list-inside ">《これまでの導入施設》<P>東京　　　 ：練馬中村橋・練馬石神井台 <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 三鷹深大寺<br> 神奈川　　 ：横浜センター南・横浜三ッ沢<br> 埼玉　　　 ：西大宮・入間・狭山<br> 首都圏以外 ：瑞穂汐路・神戸六甲</span></div></p> </ul><br>
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
