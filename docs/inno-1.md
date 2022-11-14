@@ -7,7 +7,7 @@ date: 2022-11-08T01:24:34.894Z
 ---
 <div class=" bg-blue-800 text-center font-bold bg-opacity-100 p-2 w-full h-full">
 
-<span class="text-xm font-bold text-center text-white ">HITOWA目指す未来のケアを<a href="https://www.google.com"><a href="https://www.google.com"><span class="text-xs text-yellow-300 text-base font-bold">「知る」</span></div><br>
+<span class="text-xm font-bold text-center text-white ">HITOWA目指す未来のケアを<a href="https://www.google.com"><a href="https://www.google.com"><span class="text-xs text-yellow-200 text-base font-bold">「知る」</span></div><br>
 
 <span class="text-xm font-bold">ここではHITOWAの考える、</span><span class="text-blue-300 text-xm font-bold  underline">テクノロジーを活用した未来のケア</span><span class="text-xm font-bold underline">についてご紹介いたします。</span>
 
@@ -37,23 +37,15 @@ t﻿ext-black
 
 <span class="text-xs">これまで介護の現場では人の目、気づきによって情報収集がなされてきました。しかし人のできることには限界があり、お客様の状態を十分に把握しているとは言えないことも多いのではないでしょうか。しかしこれからは介護ロボットを活用し、これまで見えなかった情報が可視化、情報収集されることでサービス品質の向上を目指しています。</span>
 
-
-
-
-
 ![](/images/1574303820.png)
 
 ![](/images/1574303866.png)
-
-
 
 <span class="text-xm text-blue-600 font-bold">情報（データ）を活用したケア【科学的介護】</span><br>
 
 <span class="text-xs text-black">センサーから得た情報を、ただ「見る・知る」だけでは介護ロボットの活用とは言えません。新しく見える化された情報や各職種で把握しているお客様情報を共有・融合させることで新たなケアの提案や提供に繋げていくことを目指しています。</span><br>
 
 ![](/images/1574312367.png)
-
-
 
 <span class="text-xs text-black">➀起床時間がわかることで、<span class="text-xs text-red-600 ">それぞれのお客様に合わせた起床介助の提供計画が可能</sapn>になります。</span><br>
 
@@ -63,8 +55,10 @@ t﻿ext-black
 
 ![](/images/1574312593.png)
 
-
-
 <span class="text-xs text-black">➀膀胱内の尿量を把握し、排泄のタイミングを予測することで尿失禁を防ぎ、脱オムツケアへの提案に繋げることができます。</span><br>
 
 <span class="text-xs text-black">②失禁に対する先回りのケアができれば、お客様の尊厳や自尊心が守られ、外出レク等にも安心して参加いただくなど、QOLの向上に寄与できるようになります。</span>
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
