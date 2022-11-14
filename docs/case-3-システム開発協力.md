@@ -17,8 +17,6 @@ date: 2022-11-08T07:36:47.678Z
 
 ![](/images/1574315183.png)
 
-
-
 <span class="text-xs text-black">上図の整理の中で「みまもり安心サービス」では判断できない部分が多く、その原因は電波センサーの機能的性質にあることが分かりました。電波センサーは微細な動きをセンシングできるメリットはありますが、解析や判断に時間がかかること、また動きの詳細な内容を判別できないというデメリットもあります。</span>
 
 ![](/images/1574315278.png)
@@ -36,3 +34,7 @@ date: 2022-11-08T07:36:47.678Z
 ![](/images/1574314080.png)
 
 <span class="text-xs text-balck">従来の<strong>お客様の状態を表す</strong>仕様から<span class="text-xs text-red-600 font-bold">お客様の行動</span><span>を表わす方がよりケアの判断に効果的と考え、上図のような表示イメージをパナソニックへ提言し、機能向上への協力を行いました。今後もよりよりシステム、現場で活用できる介護ロボットの開発に積極的に取り組んでいきたいとCare Innovation Team では考えています。</span>
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
