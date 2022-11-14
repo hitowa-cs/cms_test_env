@@ -17,10 +17,6 @@ date: 2022-11-08T02:19:11.990Z
 
 ![](/images/1623408108.png)
 
-
-
-
-
 <div class="bg-blue-300 text-left font-bold　bg-opacity-50 p-2 w-full h-full">
 
 <span class="text-xm  text-black font-bold">バックナンバーはこちら</span></div>
@@ -35,6 +31,8 @@ date: 2022-11-08T02:19:11.990Z
 
 <span class="text-xs text-blue-600 font-bold underline">Care Innovation Team　Report Vol.2　201910</span><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/CIT-report Vol.1 (1).pdf"></span>
 
-
-
 <span class="text-xs text-blue-600 font-bold underline">Care Innovation Team　Report Vol.1　201909</span><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care%20Innovation/%E3%80%88Vol.6%E3%80%89CIT=report.pdf" ></span>
+
+
+
+<span class="text-xm text-blue-300 text-center text-fold u﻿nderline"><u>・代表からのメッセージ</u></span>
