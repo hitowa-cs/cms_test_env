@@ -49,7 +49,7 @@ date: 2022-11-09T09:37:48.500Z
 
 <br>
 
-<div class="border-2 border-black text-center rounded-md outline- 4 p-2 ">NEWS</div></input>
+<div class="border-2 border-black text-center rounded-md outline- 4 p-1 ">NEWS</div>
 
 
 
