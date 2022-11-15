@@ -5,6 +5,19 @@ categories:
   - new
 date: 2022-11-08T03:34:03.062Z
 ---
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>KindaCode.com</title>
+</head>
+
 <span class="text-xm font-bold text-left"><b>Case.1「みまもり安心サービス」の導入</b></span>
 
 <span class="text-xs text-left">2018年12月にHITOWAケアサービスはパナソニックと共同で未来のケアの実現に向けた連携をプレスリリースしました。現在パナソニックのセンサーを使った見守りシステム<strong>「みまもり安心サービス」</strong>の導入を進めています。</span>
