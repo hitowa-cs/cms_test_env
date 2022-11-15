@@ -19,7 +19,7 @@ t﻿ext-black
 
 ![](/images/image.png)
 
-![](/images/1574302761.png)
+![](/images/1574302761-1-.png)
 
 <span class="text-xs text-black-600">介護はこれまで介護職の方々の力、想いに支えられて今日まで歩みを進めてきました。しかし遠くない未来、ケアとは介護業務にとどまらず、</span><span class="text-xs font-bold text-red-600">人とテクノロジーが協力してお客様の人生そのものを支えるより大きなものとなる</span><span class="text-xs">でしょう。それは地域、ご家族様、他業種、ケアスタッフ、そしてお客様までもがテクノロジーを活用し、手を取り合ってケアを創っていくという新しい未来です。</span> 
 
@@ -58,7 +58,5 @@ t﻿ext-black
 <span class="text-xs text-black">➀膀胱内の尿量を把握し、排泄のタイミングを予測することで尿失禁を防ぎ、脱オムツケアへの提案に繋げることができます。</span><br>
 
 <span class="text-xs text-black">②失禁に対する先回りのケアができれば、お客様の尊厳や自尊心が守られ、外出レク等にも安心して参加いただくなど、QOLの向上に寄与できるようになります。</span>
-
-
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
