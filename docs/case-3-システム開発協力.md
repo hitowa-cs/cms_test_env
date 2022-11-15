@@ -5,9 +5,13 @@ categories:
   - new
 date: 2022-11-08T07:36:47.678Z
 ---
-<span class="text-xs font-bold text-left">Case.3 システム開発協力</span>
+<span class="text-xm font-bold text-left"><b>Case.3 システム開発協力</b></span>
 
-<hr>
+<br>
+
+<hr class="border-dashed border-black "></hr>
+
+<br>
 
 <span class="text-xs text-black">Care Innovation Team は、より現場で活用できるシステムの構築のために、企業と連携し開発協力を行っています。 2019年においては、パナソニックの「みまもり安心サービス」の機能向上に向けて開発協力に取り組んできました。そのプロセスをこちらでご説明致します。</span>
 
@@ -27,14 +31,12 @@ date: 2022-11-08T07:36:47.678Z
 
 ![](/images/1574315350.png)
 
-<span class="text-xs text-black">これまでの電波センサーを利用したシステムから、<span class="text-xs text-red-600 font-bold">より現場のオペレーションに適したシステムへと大きな仕様変更を行いました。</span></span>ベッド上の在/不在を迅速に検知するためにシートセンサーを導入、また居室内の様子を確認し、訪室の必要性や緊急性を判断するためにAIカメラを設置、これらのデータを組み合わせることで、私たちが考えるシステムの構築が実現しました。</span>
+<span class="text-xs text-black">これまでの電波センサーを利用したシステムから、<span class="text-xs text-red-600 font-bold">より現場のオペレーションに適したシステムへと大きな仕様変更を行いました。</span></span><span  class="text-xs">ベッド上の在/不在を迅速に検知するためにシートセンサーを導入、また居室内の様子を確認し、訪室の必要性や緊急性を判断するためにAIカメラを設置、これらのデータを組み合わせることで、私たちが考えるシステムの構築が実現しました。</span> 
 
 ![](/images/image-5-.png)
 
 ![](/images/1574314080.png)
 
 <span class="text-xs text-balck">従来の<strong>お客様の状態を表す</strong>仕様から<span class="text-xs text-red-600 font-bold">お客様の行動</span><span>を表わす方がよりケアの判断に効果的と考え、上図のような表示イメージをパナソニックへ提言し、機能向上への協力を行いました。今後もよりよりシステム、現場で活用できる介護ロボットの開発に積極的に取り組んでいきたいとCare Innovation Team では考えています。</span>
-
-
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
