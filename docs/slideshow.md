@@ -1,3 +1,10 @@
+---
+title: SlideShow
+layout: full-width
+categories:
+  - New
+date: 2022-11-15T05:24:00.565Z
+---
 <!doctype html>
 <html>
 
