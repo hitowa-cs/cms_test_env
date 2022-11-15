@@ -5,7 +5,11 @@ categories:
   - new
 date: 2022-11-08T09:08:30.828Z
 ---
-<span class="text-xs font-bold text-left">Case.４ スマホ型記録システムの試験導入<hr>
+<span class="text-xm font-bold text-left"><b> Case.４ スマホ型記録システムの試験導入</b></span>
+
+<br>
+
+<hr class="border-dashed border-black "></hr>
 
 <span class="text-xs text-black">イリーゼ西大宮にて、2019.08より、記録システム「Notice」の試験導入を行っています。<br> スマホ型の記録システムで、その場で記録をする、確認することが特徴となっています。<br> 約10カ月の運用を経て、効果測定やスタッフアンケートを実施いたしました。</span>
 
@@ -13,7 +17,7 @@ date: 2022-11-08T09:08:30.828Z
 
 <br>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜試験導入概要＞<p>施設：イリーゼ西大宮</p> <p>期間：2019年8月</p> </ul><br></div></input><br>
+<div class="border-2 border-black rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜試験導入概要＞<p>施設：イリーゼ西大宮</p> <p>期間：2019年8月</p> </ul><br></div></input><br>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i96d3b990634ff050/version/1599539957/image.png" data-orig-width="583" data-orig-height="386" alt="" style="height: 527.026px;">
 
@@ -37,6 +41,6 @@ date: 2022-11-08T09:08:30.828Z
 
 ![](/images/1599540773.png)
 
-<span class="text-xm">一番大きな変化はお客様とのコミュニケーションをとる時間が増えたことです。紙の記録は現場を離れて時間に追われながら記載していたのですが、その場で記録することもできるようになり記録の正確性も向上しました。 介護記録については、前日や以前の情報をすぐに確認することができるので、お客様の状況が 正確に把握できるようになりました。紙の記録だとファイリングされている分厚い資料から知りたいことを探すことは大変ですので、情報の精度もかなり向上していると感じています。</span>
+<span class="text-xs">一番大きな変化はお客様とのコミュニケーションをとる時間が増えたことです。紙の記録は現場を離れて時間に追われながら記載していたのですが、その場で記録することもできるようになり記録の正確性も向上しました。 介護記録については、前日や以前の情報をすぐに確認することができるので、お客様の状況が 正確に把握できるようになりました。紙の記録だとファイリングされている分厚い資料から知りたいことを探すことは大変ですので、情報の精度もかなり向上していると感じています。</span>
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
