@@ -1,5 +1,5 @@
 ---
-title: inno-case-1
+title: Case.1 「みまもり安心サービス」の導入
 layout: full-width
 categories:
   - new
