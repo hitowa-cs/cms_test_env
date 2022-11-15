@@ -41,11 +41,7 @@ date: 2022-11-09T09:37:48.500Z
 
 <label class="block p-2 text-xs bg-blue-300 text-center  leading-normal cursor-pointer " for="tab-multi-one"><b>MORE</b></label>
 
-
-
 <div class="tab-content overflow-hidden border-l-2  leading-normal">
-
-
 
 <div class="cp_actab-content">
 
@@ -56,6 +52,10 @@ date: 2022-11-09T09:37:48.500Z
 <br>
 
 <br>
+
+<p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">●　2021.08</span></span><span style="color: #ff0000;" data-mce-style="color: #ff0000;">　<span style="font-weight: 700 !important; font-size: 14px;" data-mce-style="font-weight: 700 !important; font-size: 14px;">New!!</span></span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">見守りシステム「ライフレンズ」が「イリーゼ横浜港南台」「イリーゼ座間」に導入されました<br></span></span></p><p style="text-align: left;" data-mce-style="text-align: left;">&nbsp;</p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">●　</span></span><span style="font-size: 14px;" data-mce-style="font-size: 14px;">2021.7</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">トワレセンサー（排泄検知）の実証実験を「イリーゼ草津」「イリーゼ西大宮」で開始しました！<br></span></span></p><p style="text-align: left;" data-mce-style="text-align: left;">&nbsp;</p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">●　2021.7</span></span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">見守りシステム「ライフレンズ」が「イリーゼ南柏」「イリーゼ福生（1階のみ）「イリーゼ横浜旭（1階のみ）」「イリーゼ船橋緑台」に導入されました<br></span></span></p><p style="text-align: left;" data-mce-style="text-align: left;">&nbsp;</p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">●　2021.6</span></span></p><p><span color="#000000" style="color: #000000;" data-mce-style="color: #000000;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;">運搬ロボット「BUDDY」のトライアルを「イリーゼ東久留米」で開始しました！</span></span></p><p style="text-align: left;" data-mce-style="text-align: left;">&nbsp;</p><p><span style="font-size: 14px;" data-mce-style="font-size: 14px;">●　</span><span style="font-size: 14px;" data-mce-style="font-size: 14px;">2021.06</span></p><p><span color="#000000"><span style="font-size: 14px;" data-mce-style="font-size: 14px;">認知機能トレーニングシステム「CogEvo」のトライアルを「イリーゼ大宮大和田」「イリーゼ神戸青木」で行いました！</span></span></p><p style="text-align: left;" data-mce-style="text-align: left;">&nbsp;</p>
+
+
 
 
 
@@ -79,7 +79,9 @@ date: 2022-11-09T09:37:48.500Z
 
 </div><br>
 
-<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #384D98; border-radius: 10px; text-align: center;" data-mce-style="padding: 10px; margin-bottom: 10px; border: 1px solid #384D98; border-radius: 10px; text-align: center;"><strong><span style="font-size: 16px; color: #000000;" data-mce-style="font-size: 16px; color: #000000;">News</span></strong></div>
+<div class="border-2 border-black text-center rounded-md outline- 4 p-2 ">NEWS</div></input>
+
+<br>
 
 <div class="tab w-full bg-green-500 text-xl text-black overb cxflow-hidden border-t">
 
