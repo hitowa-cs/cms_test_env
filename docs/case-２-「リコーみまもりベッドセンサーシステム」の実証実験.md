@@ -5,17 +5,21 @@ categories:
   - new
 date: 2022-11-08T07:11:32.322Z
 ---
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 16px;" data-mce-style="font-size: 16px;"><strong><span style="color: #000000;" data-mce-style="color: #000000;">Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験</span></strong></span></p>
+<span class="text-xm text-left"><b>Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験</b></span>
 
-<div class="cc-m-all-content j-module j-hr" id="cc-m-all-content-12069877760" data-action="content" ng-non-bindable=""><hr></div>
+<br>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">イリーゼ東久留米にてRICOH社の「リコーみまもりベッドセンサーシステム」の実証実験を約3か月間実施致しました。機器性能の評価、介護業務の運用にどのような効果があるかの検証を行いました。</span></p>
+<hr class="border-dashed border-black "></hr>
+
+<br>
+
+<span class="text-xs text-left">イリーゼ東久留米にてRICOH社の「リコーみまもりベッドセンサーシステム」の実証実験を約3か月間実施致しました。機器性能の評価、介護業務の運用にどのような効果があるかの検証を行いました。</span>
 
 ![](/images/image.jpg)
 
 <br>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> ＜実証実験概要＞<P>施設：イリーゼ東久留米</p> <p>期間：2019年5月13日－8月29日</p> <p>対象：１階フロアの全室（20室）</p></ul><br></div></input><br>
+<div class="border-2 border-black text-xs rounded-md  p-2 mr-2"><ul class="list-disc list-inside "> ＜実証実験概要＞<P>施設：イリーゼ東久留米</p> <p>期間：2019年5月13日－8月29日</p> <p>対象：１階フロアの全室（20室）</p></ul><br></div></input><br>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i44135782bc476373/version/1573110229/image.png" data-orig-width="652" data-orig-height="310" alt="" style="height: 356.069px;">
 
@@ -27,7 +31,9 @@ date: 2022-11-08T07:11:32.322Z
 
 <span class="text-xs text-black">実際にシステムを使っていただき、ケアスタッフの方にアンケートを実施しました。</span>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><strong>Q：システムで把握できるこれらの項目は、お客様やスタッフにとってより良い ケアに活かすことができると思いますか？</strong><br> 
+<br>
+
+<div class="border-2 border-black text-xs rounded-md  p-2 mr-2"><strong>Q：システムで把握できるこれらの項目は、お客様やスタッフにとってより良い ケアに活かすことができると思いますか？</strong><br> 
 
 <span class="text-xs text-black text-left">（10:つながる→5:どちらともいえない→1:変わらない）</span></div>
 
