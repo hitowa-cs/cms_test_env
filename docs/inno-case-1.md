@@ -27,7 +27,63 @@ date: 2022-11-08T03:34:03.062Z
 
 <br>
 
-<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i201bfd0d1ae0d747/version/1573109183/image.png" data-orig-width="508" data-orig-height="386" alt="" style="height: 528.943px;">
+<div class="relative w-[600px] mx-auto">
+        <div class="slide relative">
+            <img class="w-full h-\[300px] object-cover"
+                src="/images/1599540407.png">
+            <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower One Caption</div>
+        </div>
+        <div class="slide relative">
+            <img class="w-full h-\[300px] object-cover"
+                src="/images/1599540773.png">
+            <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Two Caption</div>
+        </div>
+        <div class="slide relative">
+            <img class="w-full h-\[300px] object-cover"
+                src="/images/1574302761.png">
+            <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Three Caption
+            </div>
+        </div>
+        <a class="absolute left-0 top-1/2 p-4 -translate-y-1/2 bg-black/30 hover:bg-black/50 text-white hover:text-amber-500 cursor-pointer"
+            onclick="moveSlide(-1)">❮</a>
+        <a class="absolute right-0 top-1/2 p-4 -translate-y-1/2 bg-black/30 hover:bg-black/50 text-white hover:text-amber-500 cursor-pointer"
+            onclick="moveSlide(1)">❯</a>
+    </div>
+    <br>
+    <div class="flex justify-center items-center space-x-5">
+        <div class="dot w-4 h-4 rounded-full cursor-pointer" onclick="currentSlide(1)"></div>
+        <div class="dot w-4 h-4 rounded-full cursor-pointer" onclick="currentSlide(2)"></div>
+        <div class="dot w-4 h-4 rounded-full cursor-pointer" onclick="currentSlide(3)"></div>
+    </div>
+    <script>
+        let slideIndex = 1;
+        showSlide(slideIndex);
+        function moveSlide(moveStep) {
+            showSlide(slideIndex += moveStep);
+        }
+        function currentSlide(n) {
+            showSlide(slideIndex = n);
+        }
+        function showSlide(n) {
+            let i;
+            const slides = document.getElementsByClassName("slide");
+            const dots = document.getElementsByClassName('dot');
+            if (n > slides.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = slides.length }
+         for (i = 0; i < slides.length; i++) {
+                slides[i].classList.add('hidden');
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].classList.remove('bg-yellow-500');
+                dots[i].classList.add('bg-green-600');
+            }
+            slides[slideIndex - 1].classList.remove('hidden');
+            dots[slideIndex - 1].classList.remove('bg-green-600');
+            dots[slideIndex - 1].classList.add('bg-yellow-500');
+        }
+    </script>
+
+<br>
 
 <span class="text-xs text-left">【介護現場での活用】</span>
 
