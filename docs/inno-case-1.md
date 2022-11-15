@@ -95,6 +95,8 @@ date: 2022-11-08T03:34:03.062Z
             dots[slideIndex - 1].classList.add('bg-yellow-500');
         }
     </script>
+    </body>
+</html>
 
 <br>
 

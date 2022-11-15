@@ -41,7 +41,7 @@ date: 2022-11-15T09:34:02.308Z
 
 <input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs">
 
-<label class="block p-2 rounded text-xm bg-green-400 text-left  leading-normal cursor-pointer " for="tab-multi-one"><b>事業企画室[](「知る」)</b><span class="text-red-500 font-bold">　New!!</span>
+<label class="block p-2 rounded text-xm bg-green-400 text-left  leading-normal cursor-pointer " for="tab-multi-one"><b>事業企画室</b><span class="text-red-500 font-bold">　New!!</span>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -69,7 +69,9 @@ date: 2022-11-15T09:34:02.308Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32">
+<img src="/images/s1.png" class="rounded-full border-2 border-sky-500" />
+<figcaption class="text-center">金子年長</figcaption></figure>
 
         </div>
 
@@ -94,61 +96,41 @@ date: 2022-11-15T09:34:02.308Z
         <div class="flex flex-row flex-nowrap">
 
           <div class="md:shrink-0">
-
 </div>
-
 </div>
-
 <figure class="p-8 h-32 w-32"><img src="/images/s2.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption>
-
 </figure>
-
-        </div>
-
- <div class="p-2 rounded-md bg-blue-300 flex-initial w-100 h-20 bg-opacity-50 text-black">
-
-            <p class="text-lg"> こんなことに困ったらお問い合わせください！</p>
-
-          </div>
-
-        </div>
-
-      </div>
-
-    </div>
-
-<p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-635-</p></div>
-
 </div>
-
+<div class="p-2 rounded-md bg-blue-300 flex-initial w-100 h-20 bg-opacity-50 text-black">
+<p class="text-lg"> こんなことに困ったらお問い合わせください！
+</p>
+</div>
+</div>
+</div>
+</div>
+<p class ="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-635-</p>
+</div>
+</div>
 <br>
-
 <div>
-
 <div class="">
-
 <div class=" lex flex-col space-y-4">
-
 <div class="tab w-full  text-xl text-black overb cxflow-hidden border-t">
-
 <input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs">
-
-<label class="block p-2 rounded text-xm bg-green-400 text-left  leading-normal cursor-pointer " for="tab-multi-two"><b>開発部[](「知る」)</b><span class="text-red-500 font-bold">　New!!</span>
-
+<label class="block p-2 rounded text-xm bg-green-400 text-left  leading-normal cursor-pointer " for="tab-multi-two"><b>開発部</b><span class="text-red-500 font-bold">　New!!</span>
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
-
 <div class="cp_actab-content">
-
 <p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a>
-
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
-
-<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
-
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span>その名の通り、施設の開発を行うのが主な仕事です。そのためには不動産知識も必要ですが昨今は、何よりも開設後のサービスオペレーションをイメージした施設づくりが重要になります。不動産のみならず現場サービスの知識も必要になってきます。</span></div><br>
-
+<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn>
+</div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8">
+<span class="<text-xl text-left text-black  ml-2 font-bold "></span>その名の通り、
+施設の開発を行うのが主な仕事です。そのためには不動産知識も必要ですが昨今は、
+何よりも開設後のサービスオペレーションをイメージした施設づくりが重要になります。
+不動産のみならず現場サービスの知識も必要になってきます。</span>
+</div><br>
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
-
 <span class="text-black-600 text-left text-base text-xl font-bold">お問い合わせ</sapn></div><br>
 
 <div class="mx-auto overflow-hidden">
@@ -241,7 +223,7 @@ date: 2022-11-15T09:34:02.308Z
 
 <p><a href="/app/s96da70f606bae585/p99f1ec492869294f/" title="エリア表／エリア長紹介" data-mce-href="/app/s96da70f606bae585/p99f1ec492869294f/"><span style="text-decoration: underline; color: #ff0000;" data-mce-style="text-decoration: underline; color: #ff0000;">※エリア表はこちら</span></a></p>
 
-o﻿k-remain----------------------------------------
+
 
 <div class="mx-auto overflow-hidden">
 
