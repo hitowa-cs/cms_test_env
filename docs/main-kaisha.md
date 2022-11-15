@@ -47,13 +47,15 @@ date: 2022-11-15T09:34:02.308Z
 
 <div class="cp_actab-content">
 
-<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a>
+<div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>仕事内容</strong></span>
+<span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>仕事内容</strong></span></div>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■Care Innovation Team<br></span>介護現場の抱える課題（サービス品質・人員確保・情報共有など）についてテクノロジーを活用した解決策を立案し、導入から活用支援までを行っております。また企業と協働で新たな技術開発も行なっています。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xm text-left text-black  underline underline-offset-4 ml-2 ">■Care Innovation Team</span><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■Public Relations Team<br></span>HITOWAケアサービスとイリーゼの（ブランド）価値を、進化するメディアに対応しながら魅力的に発信していきます。</span></div><br>
+<span class="text-sm">介護現場の抱える課題（サービス品質・人員確保・情報共有など）についてテクノロジーを活用した解決策を立案し、導入から活用支援までを行っております。また企業と協働で新たな技術開発も行なっています。</span></div><br>
+
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 ">■Public Relations Team<br></span><span class="text-sm">HITOWAケアサービスとイリーゼの（ブランド）価値を、進化するメディアに対応しながら魅力的に発信していきます。</span></div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -444,7 +446,5 @@ o﻿k-remain----------------------------------------
 <span class="text-xl  text-center text-sky-300 font-bold"><a href="https://www.google.com">お問い合わせ一覧</a></span></div><br>
 
 </div></div>
-
-
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
