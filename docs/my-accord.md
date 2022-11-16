@@ -9,7 +9,7 @@ date: 2022-11-16T00:03:48.950Z
 
 <body>
 
-<div class="shadow-md w-full md:w-2/3 mx-auto mt-4">
+<div class="shadow-md w-full mx-auto mt-4">
 
 <!--Tab1-->
 
