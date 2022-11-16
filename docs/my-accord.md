@@ -5,11 +5,27 @@ categories:
   - new
 date: 2022-11-16T00:03:48.950Z
 ---
-<head>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head>
 
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head>
+<body>
 
-<body><div class="shadow-md w-full md:w-2/3 mx-auto mt-4"><div class="overflow-hidden border-t"><label><input class ="absolute opacity-0 peer" type="checkbox" /><p class="p-5 inline-block">Label one</p><svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block float-right mt-5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
+<div class="shadow-md w-full md:w-2/3 mx-auto mt-4">
+
+<!--Tab1-->
+
+<div class="overflow-hidden border-t">
+
+<label>
+
+<input class ="absolute opacity-0 peer" type="checkbox" />
+
+<p class="p-5 inline-block">Label one</p>
+
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block float-right mt-5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+
+<path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
+
+</svg>
 
 <div class="bg-gray-300 max-h-0 peer-checked:max-h-screen "><p class="p-5">This is test content</p>
 
@@ -26,8 +42,6 @@ date: 2022-11-16T00:03:48.950Z
 <div></div>
 
 </div>
-
-
 
 </body>
 
