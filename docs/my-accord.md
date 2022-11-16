@@ -33,7 +33,7 @@ date: 2022-11-16T00:03:48.950Z
 
 <label>
 
-<input class ="absolute opacity-0 peer"type="checkbox" />
+<input class ="absolute opacity-0 peer" type="checkbox" />
 
 <p class="p-5 inline-block">Label one</p>
 
@@ -59,8 +59,8 @@ date: 2022-11-16T00:03:48.950Z
 
 </div>
 
-
-
 </body>
 
 </html>
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
