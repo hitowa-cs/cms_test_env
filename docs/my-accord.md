@@ -5,7 +5,9 @@ categories:
   - new
 date: 2022-11-16T00:03:48.950Z
 ---
-<!DOCTYPE html>
+<br>
+
+<br>
 
 <html lang="en">
 
@@ -35,7 +37,7 @@ date: 2022-11-16T00:03:48.950Z
 
 <input class ="absolute opacity-0 peer" type="checkbox" />
 
-<p class="p-5 inline-block">Label one</p>
+<p class="bg-green-300 p-2 inline-block">Label one</p> 
 
 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 inline-block float-right mt-5 mr-2" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
 
