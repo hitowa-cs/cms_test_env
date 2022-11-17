@@ -5,9 +5,7 @@ categories:
   - new
 date: 2022-11-16T00:03:48.950Z
 ---
-
-
-<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/>
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head>
 
 <body>
 
