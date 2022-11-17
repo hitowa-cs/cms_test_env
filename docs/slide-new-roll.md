@@ -5,25 +5,7 @@ categories:
   - New
 date: 2022-11-17T23:21:08.267Z
 ---
-
-
-<head>
-
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script><script defer src="https://unpkg.com/alpinejs@3.2.3/dist/cdn.min.js"></script></head>
-
-<br>
-
-<!-- This is an example component -->
-
-<div class="max-w-2xl mx-auto">
-
-
-
-<div id="default-carousel" class="relative" data-carousel="static">
-
-<!-- Carousel wrapper -->
-
-<div class="overflow-hidden relative h-56 rounded-lg sm:h-64 xl:h-80 2xl:h-96">
+<head><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head><div class="max-w-2xl mx-auto"><div id="default-carousel" class="relative" data-carousel="static"><div class="overflow-hidden relative h-56 rounded-lg sm:h-64 xl:h-80 2xl:h-96">
 
 <!-- Item 1 -->
 
@@ -31,7 +13,7 @@ date: 2022-11-17T23:21:08.267Z
 
 <span class="absolute top-1/2 left-1/2 text-2xl font-semibold text-white -translate-x-1/2 -translate-y-1/2 sm:text-3xl dark:text-gray-800">First Slide</span>
 
-<img src="https://flowbite.com/docs/images/carousel/carousel-1.svg" class="block absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
+<img src="/images/10.png" class="block absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
 
 </div>
 
@@ -39,7 +21,7 @@ date: 2022-11-17T23:21:08.267Z
 
 <div class="hidden duration-700 ease-in-out" data-carousel-item>
 
-<img src="https://flowbite.com/docs/images/carousel/carousel-2.svg" class="block absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
+<img src="/images/10.png" class="block absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
 
 </div>
 
@@ -47,7 +29,7 @@ date: 2022-11-17T23:21:08.267Z
 
 <div class="hidden duration-700 ease-in-out" data-carousel-item>
 
-<img src="https://flowbite.com/docs/images/carousel/carousel-3.svg" class="block absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
+<img src="/images/10.png" class="block absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
 
 </div>
 
@@ -93,26 +75,6 @@ date: 2022-11-17T23:21:08.267Z
 
 </div>
 
-
-
-<p class="mt-5">This carousel slider component is part of a larger, open-source library of Tailwind CSS components. Learn
-
-more
-
-by going to the official <a class="text-blue-600 hover:underline"
-
-href="https://flowbite.com/docs/getting-started/introduction/" target="_blank">Flowbite Documentation</a>.
-
-</p>
-
-<script src="https://unpkg.com/flowbite@1.4.0/dist/flowbite.js"></script>
-
-</div>
-
-
-
-</body>
-
-</html>
+<p class="mt-5">This carousel slider component is part of a larger, open-source library of Tailwind CSS components. Learnmoreby going to the official <a class="text-blue-600 hover:underline"href="/images/10.png">Flowbite Documentation</a>.</p><script src="https://unpkg.com/flowbite@1.4.0/dist/flowbite.js"></script></div>
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
