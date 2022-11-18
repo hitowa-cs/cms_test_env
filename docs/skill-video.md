@@ -5,14 +5,6 @@ categories:
   - NEW
 date: 2022-11-17T10:49:39.286Z
 ---
-<div class="text-center ">
-
-<hr class="border-2 border-blue-500 border-blue-800 " />
-
-<h2 class="text-2xl p-4 w-full h-ful font-bold">スキルアップ動画</h2>
-
-<hr class="border-2  border-blue-800 " /><br></div>
-
 <br>
 
 <div class="flex flex-wrap justify-center">
