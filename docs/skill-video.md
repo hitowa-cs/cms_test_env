@@ -13,6 +13,10 @@ date: 2022-11-17T10:49:39.286Z
 
 <br>
 
+<hr class="border-dashed border-black "></hr>
+
+<br>
+
 <p class="text-xl text-center text-blue-600"><b>知っておくべき７つのこと</b></p>
 
 
@@ -25,17 +29,17 @@ date: 2022-11-17T10:49:39.286Z
 
 <body>
 
-<div class="shadow-md w-full md:w-4/3 mx-auto mt-4">
+<div class="shadow-md w-full mx-auto mt-4">
 
 <!--Tab1-->
 
-<div class="overflow-hidden bg-green-600 border-t ">
+<div class="overflow-hidden bg-green-500 rounded-md border-t ">
 
 <label>
 
 <input class ="absolute opacity-0 peer" type="checkbox" />
 
-<p class="p-2 inline-block ">Label one</p>
+<p class="p-2 inline-block ">①笑顔と心ある接遇</p>
 
 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block float-right mt-2.5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
 
@@ -55,13 +59,47 @@ date: 2022-11-17T10:49:39.286Z
 
 <br>
 
-<div class="flex flex-wrap justify-center">
+<div class="justify-center ml-2 ">
 
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12009899960" contenteditable="true" style="position: relative;"><div class="cp_actab" style="border-radius: 10px !important; text-align: left;" data-mce-style="border-radius: 10px !important; text-align: left;"><input id="tab-one" type="checkbox" name="tabs"><label for="tab-one"><span style="font-size: 20px;" data-mce-style="font-size: 20px;">①笑顔と心ある接遇</span><span style="font-size: 20px;" data-mce-style="font-size: 20px;">　</span></label><div class="cp_actab-content" style="text-align: left;" data-mce-style="text-align: left;"><p><strong><span style="text-decoration: underline; color: #2886eb;" data-mce-style="text-decoration: underline; color: #2886eb;">丁寧な会話</span></strong><br> 感じの良い会話について学びましょう<iframe src="https://player.vimeo.com/video/477512336?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/477512336?amp;muted=1"></iframe></p><!--
-<div class="container" style="text-align: center; margin-bottom: 16px;"><span style="color: #000000;"><a href="https://www.google.com/" class="btn-push" target="_top" style="color: #000000;">理解度をチェックする</a></span></div>
---><hr style="border: none; border-top: dashed 1px #000000; height: 1px; color: #ffffff; width: 100%;" data-mce-style="border: none; border-top: dashed 1px #000000; height: 1px; color: #ffffff; width: 100%;"><p><strong><span style="text-decoration: underline; color: #2886eb;" data-mce-style="text-decoration: underline; color: #2886eb;">あいさつ・声の出し方</span></strong><br> あいさつをするときの声の出し方を学びましょう<iframe src="https://player.vimeo.com/video/477512249?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/477512249?amp;muted=1"></iframe></p><!--
-<div class="container" style="text-align: center; margin-bottom: 16px;"><span style="color: #000000;"><a href="https://www.google.com/" class="btn-push" target="_top" style="color: #000000;">理解度をチェックする</a></span></div>
---><hr style="border: none; border-top: dashed 1px #000000; height: 1px; color: #ffffff; width: 100%;" data-mce-style="border: none; border-top: dashed 1px #000000; height: 1px; color: #ffffff; width: 100%;"><p><strong><span style="text-decoration: underline; color: #2886eb;" data-mce-style="text-decoration: underline; color: #2886eb;">身だしなみ</span></strong><br> 印象の良い身だしなみのポイントを学びましょう <iframe src="https://player.vimeo.com/video/337777288?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/337777288?amp;muted=1"></iframe></p><!--
+<span class="text-xm text-blue-600 text-left"><b>丁寧な会話</b></span>
+
+<span class="text-xm  text-left">感じの良い会話について学びましょう</span><br><iframe src="https://player.vimeo.com/video/477512336?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/477512336?amp;muted=1"></iframe></p><br>
+
+<hr class="border-dashed border-black "></hr>
+
+<br>
+
+
+
+<span class="text-xm text-blue-600 text-left"><b>あいさつ・声の出し方</b></span>
+
+<span class="text-xm  text-left">あいさつをするときの声の出し方を学びましょう</span><br><iframe src="https://player.vimeo.com/video/477512336?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/477512336?amp;muted=1"></iframe></p><br>
+
+<hr class="border-dashed border-black "></hr>
+
+<br>
+
+<span class="text-xm text-blue-600 text-left"><b>あいさつ・声の出し方</b></span>
+
+<span class="text-xm  text-left">あいさつをするときの声の出し方を学びましょう</span><br><iframe src="https://player.vimeo.com/video/477512249?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/477512249?amp;muted=1"></iframe></p>
+
+<hr class="border-dashed border-black "></hr>
+
+<br>
+
+
+
+<span class="text-xm text-blue-600 text-left"><b>身だしなみ</b></span>
+
+<span class="text-xm  text-left">印象の良い身だしなみのポイントを学びましょう</span><br><iframe src="https://player.vimeo.com/video/337777288?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/337777288?amp;muted=1"></iframe></p>
+
+<hr class="border-dashed border-black "></hr>
+
+<br>
+
+
+
+86eb;">身だしなみ</span></strong><br> 印象の良い身だしなみのポイントを学びましょう <iframe src="https://player.vimeo.com/video/337777288?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/337777288?amp;muted=1"></iframe></p><!--
 <div class="container" style="text-align: center; margin-bottom: 16px;"><span style="color: #000000;"><a href="https://www.google.com/" class="btn-push" target="_top" style="color: #000000;">理解度をチェックする</a></span></div>
 --><hr style="border: none; border-top: dashed 1px #000000; height: 1px; color: #ffffff; width: 100%;" data-mce-style="border: none; border-top: dashed 1px #000000; height: 1px; color: #ffffff; width: 100%;"><p><strong><span style="text-decoration: underline; color: #2886eb;" data-mce-style="text-decoration: underline; color: #2886eb;">姿勢</span></strong><br> お客様に印象の良い姿勢のポイントを学びましょう <iframe src="https://player.vimeo.com/video/337777204?amp;muted=1" width="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-src="https://player.vimeo.com/video/337777204?amp;muted=1"></iframe></p><!--
 <div class="container" style="text-align: center; margin-bottom: 16px;"><span style="color: #000000;"><a href="https://www.google.com/" class="btn-push" target="_top" style="color: #000000;">理解度をチェックする</a></span></div>
