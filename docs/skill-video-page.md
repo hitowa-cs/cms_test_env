@@ -33,7 +33,7 @@ date: 2022-11-19T02:04:32.118Z
 
 <label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-one"><b>①笑顔と心ある接遇</b></label>
 
-<div class="tab-content overflow-hidden border-l-5  leading-normal">one
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
 
 <div class="cp_actab-content">
 
