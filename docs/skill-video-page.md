@@ -17,31 +17,11 @@ date: 2022-11-19T02:04:32.118Z
 
 </div>
 
-<br>
+<div class="tab w-full overflow-hidden border-t"><div class=" flex flex-col space-y-4"><input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs"> <label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-one">①笑顔と心ある接遇</label>
 
-<div class="">
-
-<div class="tab w-full overflow-hidden border-t"> 
-
-<div class=" flex flex-col space-y-4">
-
-<div class="tab w-full  text-xl text-black overb cxflow-hidden border-t">
-
-<input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs">
-
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-one">①笑顔と心ある接遇</label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
-
-<div class="cp_actab-content">
-
-<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
-
-</div>
+<div class="tab-content overflow-hidden  leading-normal"><div class="cp_actab-content"></div>
 
 <br>
-
-
 
 <span class="text-xm text-blue-600 text-left"><b>丁寧な会話</b></span>
 
@@ -63,9 +43,7 @@ date: 2022-11-19T02:04:32.118Z
 
 <br>
 
-<div class="">
-
-<div class="tab w-full overflow-hidden border-t"> 
+<div class=""
 
 <div class="tab w-full overflow-hidden border-t"><div class=" flex flex-col space-y-4"><input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs"> <label class="block p-2 text-sm text-left rounded-md bg-green-600 cursor-pointer" for= "tab-multi-two">①笑顔と心ある接遇</label>
 
