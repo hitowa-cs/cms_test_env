@@ -35,9 +35,7 @@ date: 2022-11-19T01:17:32.247Z
 
 <span class="text-xm text-left">感じの良い会話について学びましょう</span><br>
 
-<iframe src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13" width="100%"
-
-frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 </p>
 
