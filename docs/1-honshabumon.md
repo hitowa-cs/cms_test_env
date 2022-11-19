@@ -48,7 +48,7 @@ date: 2022-11-10T07:32:01.680Z
 
 <input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-one"><b>事業企画室</b><span class="text-red-800 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-one"><b>事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -138,7 +138,7 @@ date: 2022-11-10T07:32:01.680Z
 
 <input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-two"><b>事業企画室</b><span class="text-red-800 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-two"><b>開発部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -204,7 +204,7 @@ date: 2022-11-10T07:32:01.680Z
 
 <input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-three"><b>事業企画室</b><span class="text-red-800 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-three"><b>営業部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -281,7 +281,7 @@ date: 2022-11-10T07:32:01.680Z
 
 <input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-four"><b>事業企画室</b><span class="text-red-800 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-four"><b>運営部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -292,8 +292,6 @@ date: 2022-11-10T07:32:01.680Z
 </div>
 
 <br>
-
-
 
 
 
@@ -360,7 +358,7 @@ date: 2022-11-10T07:32:01.680Z
 
 <input class="absolute opacity-0 " id="tab-multi-five" type="checkbox" fname="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-five"><b>事業企画室</b><span class="text-red-800 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-five"><b>経営管理部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -419,9 +417,7 @@ date: 2022-11-10T07:32:01.680Z
 
     </div><br>
 
-<div style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;" data-mce-style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;"><ul><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">自部門の予算・実績に関する内容に関するご質問（主にホーム長以上の皆様）</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">実地指導用の事業所別収支の作成関連のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">消耗品や備品、ユニフォーム・固定資産等に関するご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">稟議書作成や押印関連のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">施設の保守管理、修繕・補修などの手配方法・植栽剪定関連のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">カナミック操作方法、お客様への請求内容等関連のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">CSC・F-revoの操作・入力方法等のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">新たに業務システムを導入・変更に関するご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">システムの不具合・機能等に関するご質問</span></li></ul></div></div><p style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 16px;" data-mce-style="font-size: 16px;">問い合わせ先</span><br> ✉Test@Test.jp<br> 📞03-2868</p>
-
-</div>
+<div style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;" data-mce-style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;"><ul><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">自部門の予算・実績に関する内容に関するご質問（主にホーム長以上の皆様）</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">実地指導用の事業所別収支の作成関連のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">消耗品や備品、ユニフォーム・固定資産等に関するご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">稟議書作成や押印関連のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">施設の保守管理、修繕・補修などの手配方法・植栽剪定関連のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">カナミック操作方法、お客様への請求内容等関連のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">CSC・F-revoの操作・入力方法等のご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">新たに業務システムを導入・変更に関するご質問</span></li><li><span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">システムの不具合・機能等に関するご質問</span></li></ul></div></div><p style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 16px;" data-mce-style="font-size: 16px;">問い合わせ先</span><br> ✉Test@Test.jp<br> 📞03-2868</p></div>
 
 <br>
 
@@ -435,7 +431,7 @@ date: 2022-11-10T07:32:01.680Z
 
 <input class="absolute opacity-0 " id="tab-multi-six" type="checkbox" fname="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-six"><b>事業企画室</b><span class="text-red-800 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-six"><b>人事部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -491,7 +487,7 @@ date: 2022-11-10T07:32:01.680Z
 
       </div>
 
-<div style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;" data-mce-style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;"><ul><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">入退社・給与・各種研修・評価制度について知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">結婚・出産・引越しした場合などの手続きについて知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">自社で行っている採用活動について知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">どんな研修があるのか知りたい</span></li></ul></div></div><!--吹き出し終わり--><p style="text-align: center;" data-mce-style="text-align: center;">お問い合わせ先<br> ✉hTest@Test.jp<br> 📞03-4128</p>
+<div style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;" data-mce-style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;"><ul><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">入退社・給与・各種研修・評価制度について知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">結婚・出産・引越しした場合などの手続きについて知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">自社で行っている採用活動について知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">どんな研修があるのか知りたい</span></li></ul></div></div><!--吹き出し終わり--><p style="text-align: center;" data-mce-style="text-align: center;">お問い合わせ先<br> ✉hTest@Test.jp<br> 📞03-4128</p></div>
 
 </div>
 
@@ -505,9 +501,9 @@ date: 2022-11-10T07:32:01.680Z
 
 <div class="tab w-full  text-xl text-black overflow-hidden border-t">
 
-<input class="absolute opacity-0 " id="tab-multi-six" type="checkbox" fname="tabs">
+<input class="absolute opacity-0 " id="tab-multi-seven" type="checkbox" sfname="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-six"><b>事業企画室</b><span class="text-red-800 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-seven"><b>事業推進部</b><span class="text-red-800 text-base font-bold">　New!!</span></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -582,11 +578,9 @@ date: 2022-11-10T07:32:01.680Z
 
       </div>
 
-<div style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;" data-mce-style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;"><ul><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">介護保険の帳票やサービス内容について知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">各業界団体より書類や問い合わせがあり分からない</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">新規開設で分からない事がある</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">行政への変更手続きにかかる作成書類の内容について知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">介護事業指定更新時、作成した帳票の内容があっているのか見てほしい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">医療連携や薬局連携等に関わる事や協力医療機関について相談・改善点などがある</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">施設で新たに取り入れたい外出レク・サービスなどがあり、相談したい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">訪問理美容について要望がある</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">ネットスーパーなどでの購入方法・品目について相談したい</span></li></ul></div></div></div>
+<div style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;" data-mce-style="background: #FFFFFF; padding: 5px; border: 3px solid #e1e1e1; border-radius: 10px;"><ul><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">介護保険の帳票やサービス内容について知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">各業界団体より書類や問い合わせがあり分からない</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">新規開設で分からない事がある</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">行政への変更手続きにかかる作成書類の内容について知りたい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">介護事業指定更新時、作成した帳票の内容があっているのか見てほしい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">医療連携や薬局連携等に関わる事や協力医療機関について相談・改善点などがある</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">施設で新たに取り入れたい外出レク・サービスなどがあり、相談したい</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">訪問理美容について要望がある</span></li><li><span style="color: #000000; font-size: 16px;" data-mce-style="color: #000000; font-size: 16px;">ネットスーパーなどでの購入方法・品目について相談したい</span></li></ul></div></div>
 
 <div><br>
-
-<div class=" text-center">
 
 <span class="text-xl  text-center text-sky-300 font-bold"><a href="https://www.google.com">お問い合わせ一覧</a></span></div><br>
 
