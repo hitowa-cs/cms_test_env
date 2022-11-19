@@ -17,13 +17,7 @@ date: 2022-11-17T10:49:39.286Z
 
 <br>
 
-<p class="text-xl text-center text-blue-600"><b>知っておくべき７つのこと</b></p>
-
-<head>
-
-<head>
-
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head>
+<p class="text-xl text-center text-blue-600"><b>知っておくべき７つのこと</b></p><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head>
 
 <body>
 
