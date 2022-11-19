@@ -29,11 +29,11 @@ date: 2022-11-19T02:04:32.118Z
 
 <div class="tab w-full  text-xl text-black overflow-hidden border-t">
 
-<input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs">
+<input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-three">①笑顔と心ある接遇</label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-600   leading-normal cursor-pointer " for="tab-multi-one"><b>①笑顔と心ある接遇</b></label>
 
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
+<div class="tab-content overflow-hidden border-l-5  leading-normal">one
 
 <div class="cp_actab-content">
 
