@@ -27,7 +27,7 @@ date: 2022-11-19T02:04:32.118Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overb cxflow-hidden border-t">
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
 
 <input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs">
 
@@ -43,9 +43,9 @@ date: 2022-11-19T02:04:32.118Z
 
 <br>
 
-<span class="text-xm text-blue-600 text-left"><b>丁寧な会話</b></span>
+<span class="text-sm text-blue-600 text-left"><b>丁寧な会話</b></span>
 
-<span class="text-xm  text-left">感じの良い会話について学びましょう</span><br>
+<span class="text-sm  text-left">感じの良い会話について学びましょう</span><br>
 
 <iframe src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13"width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br>
 
@@ -61,7 +61,7 @@ date: 2022-11-19T02:04:32.118Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overb cxflow-hidden border-t">
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
 
 <input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs">
 
@@ -95,7 +95,7 @@ date: 2022-11-19T02:04:32.118Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overb cxflow-hidden border-t">
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
 
 <input class="absolute opacity-0 " id="tab-multi-five" type="checkbox" name="tabs">
 
@@ -129,7 +129,7 @@ date: 2022-11-19T02:04:32.118Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overb cxflow-hidden border-t">
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
 
 <input class="absolute opacity-0 " id="tab-multi-six" type="checkbox" name="tabs">
 
