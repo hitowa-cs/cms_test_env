@@ -49,7 +49,17 @@ date: 2022-11-19T02:04:32.118Z
 
 <hr class="border-dashed border-black "></hr>
 
+<span class="text-xm text-blue-600 text-left"><b>丁寧な会話</b></span>
+
+<span class="text-xm  text-left">感じの良い会話について学びましょう</span><br>
+
+<iframe src="https://www.youtube-nocookie.com/embed/p6h-rYSVX90?start=13"width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br>
+
+<hr class="border-dashed border-black "></hr>
+
 </div>
+
+
 
 <br>
 
