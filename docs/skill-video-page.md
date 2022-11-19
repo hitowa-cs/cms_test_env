@@ -19,7 +19,7 @@ date: 2022-11-19T02:04:32.118Z
 
 </head> <body class="font-sans container">
 
-<div class="">
+<div class="shadow-md w-full md:w-2/3 mx-auto mt-4l">
 
 <div class="tab w-full overflow-hidden border-t"> 
 
