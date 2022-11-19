@@ -5,27 +5,9 @@ categories:
   - new
 date: 2022-11-19T01:17:32.247Z
 ---
-<head>
-
-<meta charset="UTF-8">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
-
-<script src="https://cdn.tailwindcss.com"></script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-<script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
-
-</head>
 
 
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" /><script src="https://cdn.tailwindcss.com"></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head>
 
 <body>
 
@@ -41,21 +23,13 @@ date: 2022-11-19T01:17:32.247Z
 
 <p class="p-2 inline-block ">Label one</p>
 
-<svg xmlns="http://www.w3.org/2000/svg"
+<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block float-right mt-2.5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
 
-class="h-5 w-5 inline-block float-right mt-2.5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo"
-
-fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-
-<path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
-
-</svg>
+<path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
 
 <div class=" max-h-0 peer-checked:max-h-screen ">
 
 <p class="bg-white"><br>
-
-
 
 <span class="text-xm text-blue-600 text-left"><b>丁寧な会話</b></span><br>
 
@@ -71,17 +45,11 @@ frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 </div>
 
-
-
 <br>
 
-
-
 </div>
 
 </div>
-
-
 
 </label>
 
@@ -93,15 +61,11 @@ frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <label>
 
-<input class="absolute opacity-0 peer" type="checkbox" />
+<input class="absolute opacity-0 peer" type=" checkbox" />
 
 <p class="p-2 inline-block ">Label one</p>
 
-<svg xmlns="http://www.w3.org/2000/svg"
-
-class="h-5 w-5 inline-block float-right mt-2.5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo"
-
-fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block float-right mt-2.5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
 
 <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
 
@@ -129,11 +93,7 @@ fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="
 
 <p class="p-2 inline-block ">Label three</p>
 
-<svg xmlns="http://www.w3.org/2000/svg"
-
-class="h-5 w-5 inline-block float-right mt-2.5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo"
-
-fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block float-right mt-2.5 mr-2 border-2 rounded-full peer-checked:rotate-45 peer-checked:bg-indigo" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
 
 <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
 
@@ -149,10 +109,6 @@ fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="
 
 </body>
 
-
-
 </html>
-
-
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
