@@ -5,7 +5,7 @@ categories:
   - new
 date: 2022-11-08T07:11:32.322Z
 ---
-<span class="text-xm text-left"><b>Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験</b></span>
+<span class="text-lg text-left font-bold">Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験</span>
 
 <br>
 
@@ -13,13 +13,13 @@ date: 2022-11-08T07:11:32.322Z
 
 <br>
 
-<span class="text-xs text-left">イリーゼ東久留米にてRICOH社の「リコーみまもりベッドセンサーシステム」の実証実験を約3か月間実施致しました。機器性能の評価、介護業務の運用にどのような効果があるかの検証を行いました。</span>
+<span class="text-sm text-left">イリーゼ東久留米にてRICOH社の「リコーみまもりベッドセンサーシステム」の実証実験を約3か月間実施致しました。機器性能の評価、介護業務の運用にどのような効果があるかの検証を行いました。</span>
 
 ![](/images/image.jpg)
 
 <br>
 
-<div class="border-2 border-black text-xs rounded-md  p-2 mr-2"><ul class="list-disc list-inside "> ＜実証実験概要＞<P>施設：イリーゼ東久留米</p> <p>期間：2019年5月13日－8月29日</p> <p>対象：１階フロアの全室（20室）</p></ul><br></div></input><br>
+<div class="border-2 border-black text-sm rounded-md  p-2 mr-2"><ul class="list-disc list-inside "> ＜実証実験概要＞<P>施設：イリーゼ東久留米</p> <p>期間：2019年5月13日－8月29日</p> <p>対象：１階フロアの全室（20室）</p></ul><br></div></input><br>
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i44135782bc476373/version/1573110229/image.png" data-orig-width="652" data-orig-height="310" alt="" style="height: 356.069px;">
 
