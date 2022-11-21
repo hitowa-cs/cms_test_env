@@ -48,8 +48,6 @@ date: 2022-11-21T09:56:38.553Z
 
 2﻿222222222222222222222
 
-
-
 <div class="cp_actab"><input id="tab-6" type="checkbox" name="tabs" /> <label for="tab-6"><span style="font-size: 20px;">開発部</span></label>
 <div class="cp_actab-content">
 <div style="margin-left: 2em;">
@@ -80,8 +78,6 @@ date: 2022-11-21T09:56:38.553Z
 </div>
 </div>
 </div>
-
-
 
 3﻿33333333333333333333333
 
@@ -122,8 +118,6 @@ date: 2022-11-21T09:56:38.553Z
 <p style="text-align: center;"><span style="font-size: 16px;">問い合わせ先</span><br /> ✉syoukai@irs.jp<br /> 📞03-6632-4305</p>
 </div>
 </div>
-
-
 
 4﻿4444444444444444444444444
 
@@ -213,8 +207,6 @@ date: 2022-11-21T09:56:38.553Z
 </div>
 </div>
 
-
-
 6﻿666666666666666666666666666666
 
 <div class="cp_actab"><input id="tab-1" type="checkbox" name="tabs" /> <label for="tab-1"><span style="font-size: 20px;">人事部</span></label>
@@ -273,13 +265,7 @@ date: 2022-11-21T09:56:38.553Z
 </div>
 </div>
 
-
-
-
-
 7﻿77777777777777777777777777777
-
-
 
 <div class="cp_actab"><input id="tab-03" type="checkbox" name="tabs" /> <label for="tab-03"><span style="font-size: 20px;">事業推進部</span><span style="font-size: 20px;"><span style="color: #ff0000;">　</span></span><span style="color: #ff0000;">New!!</span></label>
 <div class="cp_actab-content">
@@ -327,3 +313,5 @@ date: 2022-11-21T09:56:38.553Z
 </div>
 </div>
 </div>
+
+<p style="text-align: center;"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/お問い合わせ先一覧/20220610_問い合わせ一覧.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/お問い合わせ先一覧/20220610_問い合わせ一覧.pdf"><span color="#3782C8" style="color: #3782c8;"><u>お問い合わせ一覧</u></span></a></p>
