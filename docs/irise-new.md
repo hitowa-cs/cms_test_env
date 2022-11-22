@@ -17,8 +17,6 @@ date: 2022-11-13T10:31:32.616Z
 
 ●ブログやSNSなど外部への配布等行わないようお願い申し上げます。</span></span></span></div></p> </ul><br>
 
-
-
 <span class="text-xm text-left"><b>IRISE PRIDE ONLINE2022</b></span>
 
 <span class="text-xm text-left"><b>参加者アンケート</b></span>
@@ -31,23 +29,26 @@ date: 2022-11-13T10:31:32.616Z
 
 <p class="text-xs text-center"><b>～ご協力の程よろしくお願いいたします</b></p>
 
-<button class="text-xm text-center"></button>
+<div class="align-center">
 
-<div class="align-middle">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" class="btn-push"><button class="bg-yellow-500 rounded shadow border-b-4 border-red-400 hover:bg-yellow-200 font-bold py-1 px-4 rounded-lg">
+回答する </button></div>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" class="btn-push"><button class="bg-yellow-500 shadow-cyan-500/50  rounded">回答する</button></div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <styl
-
-
-
-
-
-
-
-
 
 <div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12390421960" contenteditable="true" style="position: relative;"><p style="text-align: center;" data-mce-style="text-align: center;">&nbsp;</p><p style="text-align: center;" data-mce-style="text-align: center;"><span color="#FF0000" style="color: #ff0000;" data-mce-style="color: #ff0000;"><span style="font-size: 20px;" data-mce-style="font-size: 20px;"><b>参加者アンケートはこちら</b></span></span></p><p style="text-align: center;" data-mce-style="text-align: center;"><span color="#000000" style="color: #000000;" data-mce-style="color: #000000;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><span style="font-size: 12px;" data-mce-style="font-size: 12px;"><span style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;"><b>～ご協力の程よろしくお願いいたします</b></span><span style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;"><span style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;"><b style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;">～</b></span></span></span></span></span></p><div class="container" style="text-align: center; margin-bottom: 16px;" data-mce-style="text-align: center; margin-bottom: 16px;"><span style="color: #000000;" data-mce-style="color: #000000;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" class="btn-push" target="_top" style="color: #000000;" data-mce-href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" data-mce-style="color: #000000;">回答する</a></span></div><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;">　※上記のボタンよりご応募お願い致します。</span></p></div>
 
