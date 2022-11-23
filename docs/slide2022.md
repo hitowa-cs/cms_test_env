@@ -7,7 +7,7 @@ date: 2022-11-23T00:07:06.956Z
 ---
 <head>
 
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><linkhref="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://unpkg.com/tailwindcss-jit-cdn"></script><script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script><script>var cont=0;function loopSlider(){var xx= setInterval(function(){
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/><script src="https://unpkg.com/tailwindcss-jit-cdn"></script><script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script><script>var cont=0;function loopSlider(){var xx= setInterval(function(){
 switch(cont){case 0:{$("#slider-1").fadeOut(400);$("#slider-2").delay(400).fadeIn(400);$("#sButton1").removeClass("bg-purple-800");
 $("#sButton2").addClass("bg-purple-800");cont=1;break;}case 1:{
 $("#slider-2").fadeOut(400);$("#slider-1").delay(400).fadeIn(400);
