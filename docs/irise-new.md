@@ -5,6 +5,8 @@ categories:
   - NEW
 date: 2022-11-13T10:31:32.616Z
 ---
+
+
 ![](/images/1574302761.png)
 
 <br>
@@ -25,40 +27,54 @@ date: 2022-11-13T10:31:32.616Z
 
 <br>
 
-<p class="text-lg text-left text-red-600 text-center"><b>参加者アンケートはこちら</b></p>
+<p class="text-2xl text-left text-red-600 text-center"><b>参加者アンケートはこちら</b></p>
 
-<p class="text-xs text-center"><b>～ご協力の程よろしくお願いいたします</b></p>
+<p class="text-sm text-center"><b>～ご協力の程よろしくお願いいたします</b></p>
 
-<div class="align-center">
+<br>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" class="btn-push"><button class="bg-yellow-500 rounded shadow border-b-4 border-red-400 hover:bg-yellow-200 font-bold py-1 px-4 rounded-lg">
-回答する </button></div>
+<div class="flex justify-center">
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" class="btn-push"><button class="bg-yellow-500 rounded shadow border-b-4 border-red-400 hover:bg-yellow-200 font-bold py-1 px-4 rounded-lg ">
+回答する </button></a></div>
 
+<br>
 
-
-
-
-
-
-
-
-
-
+<p class="text-xs text-center"><b>※上記のボタンよりご応募お願い致します。</b></p>
 
 
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <styl
 
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12390421960" contenteditable="true" style="position: relative;"><p style="text-align: center;" data-mce-style="text-align: center;">&nbsp;</p><p style="text-align: center;" data-mce-style="text-align: center;"><span color="#FF0000" style="color: #ff0000;" data-mce-style="color: #ff0000;"><span style="font-size: 20px;" data-mce-style="font-size: 20px;"><b>参加者アンケートはこちら</b></span></span></p><p style="text-align: center;" data-mce-style="text-align: center;"><span color="#000000" style="color: #000000;" data-mce-style="color: #000000;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><span style="font-size: 12px;" data-mce-style="font-size: 12px;"><span style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;"><b>～ご協力の程よろしくお願いいたします</b></span><span style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;"><span style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;"><b style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;">～</b></span></span></span></span></span></p><div class="container" style="text-align: center; margin-bottom: 16px;" data-mce-style="text-align: center; margin-bottom: 16px;"><span style="color: #000000;" data-mce-style="color: #000000;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" class="btn-push" target="_top" style="color: #000000;" data-mce-href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" data-mce-style="color: #000000;">回答する</a></span></div><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #000000; font-size: 12px;" data-mce-style="color: #000000; font-size: 12px;">　※上記のボタンよりご応募お願い致します。</span></p></div>
 
-<span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>目次</strong></span>
 
-<span style="font-size: 14px;" data-mce-style="font-size: 14px;">〇<span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>第8回イリーゼ事例発表全国大会</u></span></span>
 
-<p><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">　今年は各施設の定められた<strong><span style="color: #ff0000;" data-mce-style="color: #ff0000;">『カテゴリー・テーマ』</span>×各施設における<span style="color: #ff0000;" data-mce-style="color: #ff0000;">『訴求ポイント』</span></strong>」をテーマにエントリーいただきました。</span></p>
 
-<a href="#社長賞" span="" style="color: #000000;" data-mce-href="#社長賞" data-mce-style="color: #000000;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;">〇<span color="#0000FF" style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>社長賞</u></span></span><span color="#000000" style="color: #000000;" data-mce-style="color: #000000;"><br></span></a>
+<span class="text-xl text-left font-bold">目次</span>
+
+<span class="text-lg text-blue-700 text-left font-bold underline">第8回イリーゼ事例発表全国大会</span>
+
+<span class="text-sm text-left ">今年は各施設の定められた</span><span class="text-sm text-red-600 font-bold">『カテゴリー・テーマ』</span><span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span>
+
+
+
+<span class="text-lg text-blue-700 text-left font-bold underline">社長賞</span>
+
+<span class="text-sm text-left ">今年は各施設の定められた</span><span class="text-sm text-red-600 font-bold">『カテゴリー・テーマ』</span><span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span>
+
+<br>
+
+
+
+
+
+<span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span>
+
+
+
+
+
+
 
 <p><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">　年間を通じて、<strong><span style="color: #000000;" data-mce-style="color: #000000;">特に優れた活躍</span></strong>をされた部署およびチームに対して表彰します。</span><span color="#000000" style="color: #000000;" data-mce-style="color: #000000;"><br></span></p>
 
