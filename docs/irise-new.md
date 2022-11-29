@@ -15,8 +15,6 @@ date: 2022-11-13T10:31:32.616Z
 
 ![](/images/1574302761.png)
 
-
-
 <br>
 
 <div class="border-2 border-black text-xs rounded-md  p-2 mr-2">
@@ -60,21 +58,11 @@ date: 2022-11-13T10:31:32.616Z
 
 <span class="text-lg text-blue-700 text-left font-bold underline">社長賞</span>
 
-
-
 <span class="text-sm  font-bold">年間を通じて、</span><span class="text-sm font-bold">特に優れた活躍</span><span class="text-sm text-left ">をされた部署およびチームに対して表彰します。</span>
-
-
 
 <span class="text-lg text-blue-700 text-left  underline">GoodIriseAward</span>
 
 <span class="text-sm ">施設運営に必要な各テーマにおいて優秀であった施設を表彰します</span>
-
-
-
-
-
-
 
 <br>
 
