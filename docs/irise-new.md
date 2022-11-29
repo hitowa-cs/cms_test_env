@@ -66,7 +66,13 @@ date: 2022-11-13T10:31:32.616Z
 
 <br>
 
-<h3 style="text-align: left;" data-mce-style="text-align: left;"><a id="第7回イリーゼ事例発表全国大会" span="" style="font-size: 18px;" name="第6回事例発表全国大会" data-mce-style="font-size: 18px;" class="mce-item-anchor"></a><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>第8回イリーゼ事例発表全国大会</strong></span></h3>
+
+
+<span class="text-lg text-left font-bold underline">第8回イリーゼ事例発表全国大会</span>
+
+![]()
+
+
 
 <p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000;" data-mce-style="color: #000000;">■</span><span style="font-size: 14px;" data-mce-style="font-size: 14px;">今年は各施設の定められた</span><span style="font-size: 14px; font-weight: 700 !important;" data-mce-style="font-size: 14px; font-weight: 700 !important;"><span style="color: #ff0000;" data-mce-style="color: #ff0000;">『カテゴリー・テーマ』</span>×各施設における<span style="color: #ff0000;" data-mce-style="color: #ff0000;">『訴求ポイント』</span></span><span style="font-size: 14px;" data-mce-style="font-size: 14px;">」をテーマにエントリーいただきました。全施設から選出された３施設の事例を当日にご視聴いただき、イリーゼアーチより投票することでグランプリを決定し表彰致します。</span></p>
 
