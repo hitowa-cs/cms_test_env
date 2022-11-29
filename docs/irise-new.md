@@ -17,9 +17,9 @@ date: 2022-11-13T10:31:32.616Z
 
 <br>
 
-<div class="border-2 border-black text-xs rounded-md  p-2 mr-2">
+<div class="border-2 border-black text-base rounded-md  p-6 mr-2">
 
-<span class="text-xm text-center">**【掲示されている写真および画像について】**</span>
+<span class="text-lg text-center">**【掲示されている写真および画像について】**</span>
 
 <ul class="list-disc list-inside "><P>●写真および画像は閲覧用になります。</span>
 
@@ -62,26 +62,68 @@ date: 2022-11-13T10:31:32.616Z
 
 <span class="text-lg text-blue-700 text-left  underline">GoodIriseAward</span>
 
+
+
 <span class="text-sm ">施設運営に必要な各テーマにおいて優秀であった施設を表彰します</span>
+
+<br>
+
+<hr class="border-dashed border-black " />
+
+<br>
+
+<span class="text-lg text-left font-bold">第8回イリーゼ事例発表全国大会</span>
+
+<br>
+
+![](/images/image11.png)
+
+
+
+<span class="text-sm text-left ">■今年は各施設の定められた</span><span class="text-sm text-red-600 font-bold">『カテゴリー・テーマ』</span><span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span><span class="text-sm">全施設から選出された３施設の事例を当日にご視聴いただき、イリーゼアーチより投票することでグランプリを決定し表彰致します。</span>
 
 <br>
 
 
 
-<span class="text-lg text-left font-bold underline">第8回イリーゼ事例発表全国大会</span>
+<p class="text-lg text-red-600 text-center font-bold">～受賞写真　準備中～</p>
 
-![]()
+<br>
+
+<hr class="border-dashed border-black " />
+
+<br>
 
 
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000;" data-mce-style="color: #000000;">■</span><span style="font-size: 14px;" data-mce-style="font-size: 14px;">今年は各施設の定められた</span><span style="font-size: 14px; font-weight: 700 !important;" data-mce-style="font-size: 14px; font-weight: 700 !important;"><span style="color: #ff0000;" data-mce-style="color: #ff0000;">『カテゴリー・テーマ』</span>×各施設における<span style="color: #ff0000;" data-mce-style="color: #ff0000;">『訴求ポイント』</span></span><span style="font-size: 14px;" data-mce-style="font-size: 14px;">」をテーマにエントリーいただきました。全施設から選出された３施設の事例を当日にご視聴いただき、イリーゼアーチより投票することでグランプリを決定し表彰致します。</span></p>
+<span class="text-lg text-left font-bold">社長賞</span>
 
-<div class="cc-m-text-inline-rte mce-content-body" data-name="text" id="cc-m-text-12391739760" contenteditable="true" style="position: relative;"><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #ff0000;" data-mce-style="color: #ff0000;"><strong><span face="Arial, Helvetica, sans-serif" style="font-family: Arial, Helvetica, sans-serif;" data-mce-style="font-family: Arial, Helvetica, sans-serif;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;">～受賞写真　準備中～</span></span></strong></span></p></div>
+![](/images/image12.png)
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000;" data-mce-style="color: #000000;">■</span><span style="font-size: 14px;" data-mce-style="font-size: 14px;">年間を通じて、特に優れた活躍をされた部署およびチームに対して表彰します。</span></p>
 
-<span style="color: #ff0000;" data-mce-style="color: #ff0000;"><strong><span face="Arial, Helvetica, sans-serif" style="font-family: Arial, Helvetica, sans-serif;" data-mce-style="font-family: Arial, Helvetica, sans-serif;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;">～受賞写真　準備中～</span></span></strong></span>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #000000;" data-mce-style="color: #000000;">■</span><span style="font-size: 14px;" data-mce-style="font-size: 14px;">施設運営に必要なテーマにおいて優秀であった施設を表彰します。</span></p>
+<span class="text-sm text-left ">■年間を通じて、特に優れた活躍をされた部署およびチームに対して表彰します。</span>
 
-<span style="color: #ff0000;" data-mce-style="color: #ff0000;"><strong><span face="Arial, Helvetica, sans-serif" style="font-family: Arial, Helvetica, sans-serif;" data-mce-style="font-family: Arial, Helvetica, sans-serif;"><span style="background-color: #ffffff;" data-mce-style="background-color: #ffffff;">～受賞写真　準備中～</span></span></strong></span>
+<br>
+
+<p class="text-lg text-red-600 text-center font-bold">～受賞写真　準備中～</p>
+
+<br>
+
+<hr class="border-dashed border-black " />
+
+<br>
+
+<span class="text-lg text-left font-bold">GOOD IRISE AWARD</span>
+
+![](/images/image-10.png)
+
+
+
+<span class="text-sm text-left ">■施設運営に必要なテーマにおいて優秀であった施設を表彰します。</span>
+
+<br>
+
+<p class="text-lg text-red-600 text-center font-bold">～受賞写真　準備中～</p>
+
+<br>
