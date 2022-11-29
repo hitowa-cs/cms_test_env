@@ -78,8 +78,6 @@ date: 2022-11-13T10:31:32.616Z
 
 <span class="text-lg text-left font-bold">第8回イリーゼ事例発表全国大会</span>
 
-<br>
-
 ![](/images/image11.png)
 
 
