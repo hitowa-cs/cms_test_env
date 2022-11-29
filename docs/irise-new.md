@@ -35,7 +35,7 @@ date: 2022-11-13T10:31:32.616Z
 
 <p class="text-2xl text-left text-red-600 text-center"><b>参加者アンケートはこちら</b></p>
 
-<p class="text-sm text-center"><b>～ご協力の程よろしくお願いいたします</b></p>
+<p class="text-sm text-center font-bold">～ご協力の程よろしくお願いいたします</p>
 
 <br>
 
@@ -46,7 +46,7 @@ date: 2022-11-13T10:31:32.616Z
 
 <br>
 
-<p class="text-xs text-center"><b>※上記のボタンよりご応募お願い致します。</b></p>
+<p class="text-xs text-center">※上記のボタンよりご応募お願い致します</p>
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <styl
 
@@ -56,11 +56,15 @@ date: 2022-11-13T10:31:32.616Z
 
 <span class="text-sm text-left ">今年は各施設の定められた</span><span class="text-sm text-red-600 font-bold">『カテゴリー・テーマ』</span><span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span>
 
+<br>
+
 <span class="text-lg text-blue-700 text-left font-bold underline">社長賞</span>
 
 <span class="text-sm  font-bold">年間を通じて、</span><span class="text-sm font-bold">特に優れた活躍</span><span class="text-sm text-left ">をされた部署およびチームに対して表彰します。</span>
 
-<span class="text-lg text-blue-700 text-left  underline">GoodIriseAward</span>
+<br>
+
+<span class="text-lg text-blue-700 text-left  underline">Good Irise Award</span>
 
 
 
