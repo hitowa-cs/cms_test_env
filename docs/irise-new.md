@@ -5,19 +5,27 @@ categories:
   - NEW
 date: 2022-11-13T10:31:32.616Z
 ---
+<hr class="border-dashed border-black " />
 
+<br>
+
+<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/08/30</h1>
+
+<br>
 
 ![](/images/1574302761.png)
+
+
 
 <br>
 
 <div class="border-2 border-black text-xs rounded-md  p-2 mr-2">
 
-<span class="text-xm text-center">**【掲示されている写真および画像について】</span>**
+<span class="text-xm text-center">**【掲示されている写真および画像について】**</span>
 
 <ul class="list-disc list-inside "><P>●写真および画像は閲覧用になります。</span>
 
-●ブログやSNSなど外部への配布等行わないようお願い申し上げます。</span></span></span></div></p> </ul><br>
+●ブログやSNSなど外部への配布等行わないようお願い申し上げます。</span></div><br>
 
 <span class="text-xm text-left"><b>IRISE PRIDE ONLINE2022</b></span>
 
@@ -42,13 +50,7 @@ date: 2022-11-13T10:31:32.616Z
 
 <p class="text-xs text-center"><b>※上記のボタンよりご応募お願い致します。</b></p>
 
-
-
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <styl
-
-
-
-
 
 <span class="text-xl text-left font-bold">目次</span>
 
@@ -56,31 +58,25 @@ date: 2022-11-13T10:31:32.616Z
 
 <span class="text-sm text-left ">今年は各施設の定められた</span><span class="text-sm text-red-600 font-bold">『カテゴリー・テーマ』</span><span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span>
 
-
-
 <span class="text-lg text-blue-700 text-left font-bold underline">社長賞</span>
 
-<span class="text-sm text-left ">今年は各施設の定められた</span><span class="text-sm text-red-600 font-bold">『カテゴリー・テーマ』</span><span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span>
+
+
+<span class="text-sm  font-bold">年間を通じて、</span><span class="text-sm font-bold">特に優れた活躍</span><span class="text-sm text-left ">をされた部署およびチームに対して表彰します。</span>
+
+
+
+<span class="text-lg text-blue-700 text-left  underline">GoodIriseAward</span>
+
+<span class="text-sm ">施設運営に必要な各テーマにおいて優秀であった施設を表彰します</span>
+
+
+
+
+
+
 
 <br>
-
-
-
-
-
-<span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span>
-
-
-
-
-
-
-
-<p><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">　年間を通じて、<strong><span style="color: #000000;" data-mce-style="color: #000000;">特に優れた活躍</span></strong>をされた部署およびチームに対して表彰します。</span><span color="#000000" style="color: #000000;" data-mce-style="color: #000000;"><br></span></p>
-
-<a href="#GoodIriseAward" span="" style="color: #000000;" data-mce-href="#GoodIriseAward" data-mce-style="color: #000000;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;">〇<span style="color: #0000ff;" data-mce-style="color: #0000ff;"><u>Good Irise Award</u></span></span><span color="#000000" style="color: #000000;" data-mce-style="color: #000000;"><br></span></a>
-
-<p><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">　施設運営に必要な各テーマにおいて優秀であった施設を表彰します</span><span color="#000000" style="color: #000000;" data-mce-style="color: #000000;"><br></span></p>
 
 <h3 style="text-align: left;" data-mce-style="text-align: left;"><a id="第7回イリーゼ事例発表全国大会" span="" style="font-size: 18px;" name="第6回事例発表全国大会" data-mce-style="font-size: 18px;" class="mce-item-anchor"></a><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>第8回イリーゼ事例発表全国大会</strong></span></h3>
 
