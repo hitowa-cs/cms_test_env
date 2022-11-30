@@ -52,21 +52,21 @@ date: 2022-11-13T10:31:32.616Z
 
 <span class="text-xl text-left font-bold">目次</span>
 
-<span class="text-lg text-blue-700 text-left font-bold underline">第8回イリーゼ事例発表全国大会</span>
+<span style="text-base">〇<span class="text-lg text-blue-700 text-left font-bold underline">第8回イリーゼ事例発表全国大会</span></span></a>
+
+
 
 <span class="text-sm text-left ">今年は各施設の定められた</span><span class="text-sm text-red-600 font-bold">『カテゴリー・テーマ』</span><span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span>
 
 <br>
 
-<span class="text-lg text-blue-700 text-left font-bold underline">社長賞</span>
+<span style="text-base">〇<span class="text-lg text-blue-700 text-left font-bold underline">社長賞</span></span>
 
 <span class="text-sm  font-bold">年間を通じて、</span><span class="text-sm font-bold">特に優れた活躍</span><span class="text-sm text-left ">をされた部署およびチームに対して表彰します。</span>
 
 <br>
 
-<span class="text-lg text-blue-700 text-left  underline">Good Irise Award</span>
-
-
+<span style="text-base">〇<span class="text-lg text-blue-700 text-left  underline">Good Irise Award</span></span>
 
 <span class="text-sm ">施設運営に必要な各テーマにおいて優秀であった施設を表彰します</span>
 
@@ -80,13 +80,9 @@ date: 2022-11-13T10:31:32.616Z
 
 ![](/images/image11.png)
 
-
-
 <span class="text-sm text-left ">■今年は各施設の定められた</span><span class="text-sm text-red-600 font-bold">『カテゴリー・テーマ』</span><span class="text-sm  font-bold">×各施設における</span><span class="text-sm text-red-600 font-bold">『訴求ポイント</span><span class="text-sm text-left ">をテーマにエントリーいただきました。</span><span class="text-sm">全施設から選出された３施設の事例を当日にご視聴いただき、イリーゼアーチより投票することでグランプリを決定し表彰致します。</span>
 
 <br>
-
-
 
 <p class="text-lg text-red-600 text-center font-bold">～受賞写真　準備中～</p>
 
@@ -96,13 +92,9 @@ date: 2022-11-13T10:31:32.616Z
 
 <br>
 
-
-
 <span class="text-lg text-left font-bold">社長賞</span>
 
 ![](/images/image12.png)
-
-
 
 <span class="text-sm text-left ">■年間を通じて、特に優れた活躍をされた部署およびチームに対して表彰します。</span>
 
@@ -119,8 +111,6 @@ date: 2022-11-13T10:31:32.616Z
 <span class="text-lg text-left font-bold">GOOD IRISE AWARD</span>
 
 ![](/images/image-10.png)
-
-
 
 <span class="text-sm text-left ">■施設運営に必要なテーマにおいて優秀であった施設を表彰します。</span>
 
