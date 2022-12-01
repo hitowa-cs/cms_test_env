@@ -14,8 +14,7 @@ date: 2022-11-08T03:34:03.062Z
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/>
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <title>KindaCode.com</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script></script><script src="/images/scripts.js"></script>
 </head>
 
 <span class="text-xm font-bold text-left"><b>Case.1「みまもり安心サービス」の導入</b></span>
@@ -42,17 +41,17 @@ date: 2022-11-08T03:34:03.062Z
 
 <div class="relative w-[600px] mx-auto">
         <div class="slide relative">
-            <img class="w-full h-\\[300px] object-cover"
+            <img class="w-full h-\\\[300px] object-cover"
                 src="/images/1599540407.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower One Caption</div>
         </div>
         <div class="slide relative">
-            <img class="w-full h-\\[300px] object-cover"
+            <img class="w-full h-\\\[300px] object-cover"
                 src="/images/1599540773.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Two Caption</div>
         </div>
         <div class="slide relative">
-            <img class="w-full h-\\[300px] object-cover"
+            <img class="w-full h-\\\[300px] object-cover"
                 src="/images/1574302761.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Three Caption
             </div>
