@@ -5,33 +5,32 @@ categories:
   - NEW
 date: 2022-11-21T09:17:22.025Z
 ---
-<!--StartFragment-->
-
-**Letter Box 🗳**
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-アプリ機能についてのご意見
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-「こんな機能がほしい！」など使っている皆様のご意見をこちらに応募くださいませ。
-
-<!--EndFragment-->
+<p class="text-3xl text-blue-600 text-center font-bold ">Letter Box 🗳</p>
 
 
 
-<!--StartFragment-->
+<span class="text-lg text-left font-bold">アプリ機能についてのご意見</span>
+
+<span class="text-sm text-left">「こんな機能がほしい！」など使っている皆様のご意見をこちらに応募くださいませ。</span>
+
+<br>
+
+
+
+<div class="flex justify-center">
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfkCntf-JLt8ZBz2jIE5jqc-Eu_B4MrXCXyatN_h61pjhcU1A/viewform" class="btn-push"><button class="bg-yellow-500 rounded shadow border-b-4 border-red-400 hover:bg-yellow-200 font-bold py-1 px-4 rounded-lg ">
+機能について応募する</button></a></div>
+
+
+
+<br>
+
+
 
 [機能について応募する](https://docs.google.com/forms/d/e/1FAIpQLSdvXQ0IypF6bsshBNezmhsqh8CzBOLzrHPlwTiypTZo12leUw/viewform)
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -60,8 +59,6 @@ date: 2022-11-21T09:17:22.025Z
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 【ご注意】\
@@ -69,3 +66,7 @@ date: 2022-11-21T09:17:22.025Z
 ●各部門へのご質問につきましてはお問い合わせ一覧より各担当部署までご連絡をよろしくお願い致します。
 
 <!--EndFragment-->
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
