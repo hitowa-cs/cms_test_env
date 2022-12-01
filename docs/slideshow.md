@@ -19,7 +19,7 @@ date: 2022-11-15T05:24:00.565Z
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <title>KindaCode.com</title>
 
-<script src="https://hitowa-cms-test.s3.ap-northeast-1.amazonaws.com/images/scripts.js"></script>
+<script src="/images/scripts.js"></script>
 </head>
 
 <body>
