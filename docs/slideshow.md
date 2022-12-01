@@ -25,17 +25,17 @@ date: 2022-11-15T05:24:00.565Z
     <h2 class="mb-10 text-center text-xl">Carousel Example</h2>
     <div class="relative w-[600px] mx-auto">
         <div class="slide relative">
-            <img class="w-full h-\\\[300px] object-cover"
+            <img class="w-full h-\\\\[300px] object-cover"
                 src="/images/1599540407.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower One Caption</div>
         </div>
         <div class="slide relative">
-            <img class="w-full h-\\\[300px] object-cover"
+            <img class="w-full h-\\\\[300px] object-cover"
                 src="/images/1599540773.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Two Caption</div>
         </div>
         <div class="slide relative">
-            <img class="w-full h-\\\[300px] object-cover"
+            <img class="w-full h-\\\\[300px] object-cover"
                 src="/images/1574302761.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Three Caption
             </div>
