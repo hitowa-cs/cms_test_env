@@ -42,17 +42,17 @@ date: 2022-11-08T03:34:03.062Z
 
 <div class="relative w-[600px] mx-auto">
         <div class="slide relative">
-            <img class="w-full h-\[300px] object-cover"
+            <img class="w-full h-\\[300px] object-cover"
                 src="/images/1599540407.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower One Caption</div>
         </div>
         <div class="slide relative">
-            <img class="w-full h-\[300px] object-cover"
+            <img class="w-full h-\\[300px] object-cover"
                 src="/images/1599540773.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Two Caption</div>
         </div>
         <div class="slide relative">
-            <img class="w-full h-\[300px] object-cover"
+            <img class="w-full h-\\[300px] object-cover"
                 src="/images/1574302761.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Three Caption
             </div>
@@ -68,33 +68,6 @@ date: 2022-11-08T03:34:03.062Z
         <div class="dot w-4 h-4 rounded-full cursor-pointer" onclick="currentSlide(2)"></div>
         <div class="dot w-4 h-4 rounded-full cursor-pointer" onclick="currentSlide(3)"></div>
     </div>
-    <script>
-        let slideIndex = 1;
-        showSlide(slideIndex);
-        function moveSlide(moveStep) {
-            showSlide(slideIndex += moveStep);
-        }
-        function currentSlide(n) {
-            showSlide(slideIndex = n);
-        }
-        function showSlide(n) {
-            let i;
-            const slides = document.getElementsByClassName("slide");
-            const dots = document.getElementsByClassName('dot');
-            if (n > slides.length) { slideIndex = 1 }
-            if (n < 1) { slideIndex = slides.length }
-         for (i = 0; i < slides.length; i++) {
-                slides[i].classList.add('hidden');
-            }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].classList.remove('bg-yellow-500');
-                dots[i].classList.add('bg-green-600');
-            }
-            slides[slideIndex - 1].classList.remove('hidden');
-            dots[slideIndex - 1].classList.remove('bg-green-600');
-            dots[slideIndex - 1].classList.add('bg-yellow-500');
-        }
-    </script>
     </body>
 </html>
 
