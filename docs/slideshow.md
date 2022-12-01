@@ -16,10 +16,8 @@ date: 2022-11-15T05:24:00.565Z
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"rel="stylesheet"/>
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="/images/scripts.js"></script>
     <title>KindaCode.com</title>
-
-<script src="/images/scripts.js"></script>
 </head>
 
 <body>
