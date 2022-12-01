@@ -1,4 +1,4 @@
-        let slideIndex = 1;
+        slideIndex = 1;
         showSlide(slideIndex);
         function moveSlide(moveStep) {
             showSlide(slideIndex += moveStep);
