@@ -41,17 +41,17 @@ date: 2022-11-08T03:34:03.062Z
 
 <div class="relative w-[600px] mx-auto">
         <div class="slide relative">
-            <img class="w-full h-\\\[300px] object-cover"
+            <img class="w-full h-\\\\[300px] object-cover"
                 src="/images/1599540407.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower One Caption</div>
         </div>
         <div class="slide relative">
-            <img class="w-full h-\\\[300px] object-cover"
+            <img class="w-full h-\\\\[300px] object-cover"
                 src="/images/1599540773.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Two Caption</div>
         </div>
         <div class="slide relative">
-            <img class="w-full h-\\\[300px] object-cover"
+            <img class="w-full h-\\\\[300px] object-cover"
                 src="/images/1574302761.png">
             <div class="absolute bottom-0 w-full px-5 py-3 bg-black/40 text-center text-white">Flower Three Caption
             </div>
