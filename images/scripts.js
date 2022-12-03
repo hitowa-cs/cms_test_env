@@ -1,25 +1,55 @@
-        slideIndex = 1;
-        showSlide(slideIndex);
-        function moveSlide(moveStep) {
-            showSlide(slideIndex += moveStep);
+var responsiveSlider = function () {
+    var slider = document.getElementById("slider");
+    var sliderWidth = slider.offsetWidth;
+    var slideList = document.getElementById("slideWrap");
+    var count = 1;
+    var items = slideList.querySelectorAll("li").length;
+    var prev = document.getElementById("prev");
+    var next = document.getElementById("next");
+
+    window.addEventListener('resize', function () {
+        sliderWidth = slider.offsetWidth;
+    });
+
+    var prevSlide = function () {
+        if (count > 1) {
+            count = count - 2;
+            slideList.style.left = "-" + count * sliderWidth + "px";
+            count++;
         }
-        function currentSlide(n) {
-            showSlide(slideIndex = n);
+        else if (count = 1) {
+            count = items - 1;
+            slideList.style.left = "-" + count * sliderWidth + "px";
+            count++;
         }
-        function showSlide(n) {
-            let i;
-            const slides = document.getElementsByClassName('slide');
-            const dots = document.getElementsByClassName('dot');
-            if (n > slides.length) { slideIndex = 1 }
-            if (n <= 1) { slideIndex = slides.length }
-         for (i = 0; i < slides.length; i++) {
-                slides[i].classList.add('hidden');
-            }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].classList.remove('bg-yellow-500');
-                dots[i].classList.add('bg-green-600');
-            }
-            slides[slideIndex - 1].classList.remove('hidden');
-            dots[slideIndex - 1].classList.remove('bg-green-600');
-            dots[slideIndex - 1].classList.add('bg-yellow-500');
+    };
+
+    var nextSlide = function () {
+        if (count < items) {
+            slideList.style.left = "-" + count * sliderWidth + "px";
+            count++;
         }
+        else if (count = items) {
+            slideList.style.left = "0px";
+            count = 1;
+        }
+    };
+
+    next.addEventListener("click", function () {
+        nextSlide();
+    });
+
+    prev.addEventListener("click", function () {
+        prevSlide();
+    });
+
+    setInterval(function () {
+        nextSlide()
+    }, 3000);
+
+};
+
+window.onload = function () {
+    responsiveSlider();
+}
+
