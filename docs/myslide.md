@@ -13,8 +13,6 @@ date: 2022-12-05T02:36:08.333Z
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" /><script src="https://cdn.tailwindcss.com"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" /><script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1"><style>body {font-family: Arial;margin: 0;}* {box-sizing: border-box;}img {vertical-align: middle;}/* Position the image container (needed to position the left and right arrows) */.container {position: relative;}/* Hide the images by default */.mySlides {display: none;}/* Add a pointer when hovering over the thumbnail images */.cursor {cursor: pointer;}/* Next & previous buttons */.prev,.next {cursor: pointer;position: absolute;top: 40%;width: auto;padding: 16px;margin-top: -50px;color: white;font-weight: bold;font-size: 20px;border-radius: 0 3px 3px 0;user-select: none;-webkit-user-select: none;}/* Position the "next button" to the right */.next {right: 0;border-radius: 3px 0 0 3px;}/* On hover, add a black background color with a little bit see-through */.prev:hover,.next:hover {background-color: rgba(0, 0, 0, 0.8);}/* Number text (1/3 etc) */.numbertext {color: #f2f2f2;font-size: 12px;padding: 8px 12px;position: absolute;top: 0;}/* Container for image text */.caption-container {text-align: center;background-color: #222;padding: 2px 16px;color: white;}.row:after {content: "";display: table;clear: both;}/* Six columns side by side */.column {float: left;width: 16.66%;}/* Add a transparency effect for thumnbail images */.demo {opacity: 0.6;}.active,.demo:hover {opacity: 1;}</style>
 
-
-
 <h2 style="text-align:center">Slideshow Gallery</h2>
 
 <div class="container">
@@ -23,7 +21,7 @@ date: 2022-12-05T02:36:08.333Z
 
 <div class="numbertext">1 / 6</div>
 
-<img src="img_woods_wide.jpg" style="width:100%">
+<img src="/images/1574314080-1-.png" style="width:100%">
 
 </div>
 
@@ -31,7 +29,7 @@ date: 2022-12-05T02:36:08.333Z
 
 <div class="numbertext">2 / 6</div>
 
-<img src="img_5terre_wide.jpg" style="width:100%">
+<img src="/images/1574302761.png" style="width:100%">
 
 </div>
 
@@ -39,7 +37,7 @@ date: 2022-12-05T02:36:08.333Z
 
 <div class="numbertext">3 / 6</div>
 
-<img src="img_mountains_wide.jpg" style="width:100%">
+<img src="/images/1599540773.png" style="width:100%">
 
 </div>
 
@@ -81,19 +79,19 @@ date: 2022-12-05T02:36:08.333Z
 
 <div class="column">
 
-<img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+<img class="demo cursor" src="/images/1574314080-1-.png" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
 
 </div>
 
 <div class="column">
 
-<img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+<img class="demo cursor" src="/images/1574302761.png" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
 
 </div>
 
 <div class="column">
 
-<img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+<img class="demo cursor" src="/images/1599540773.png" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
 
 </div>
 
