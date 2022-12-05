@@ -9,8 +9,6 @@ date: 2022-12-05T02:07:43.455Z
 
 <html>
 
-
-
 <head>
 
 <meta charset="UTF-8">
@@ -33,111 +31,11 @@ date: 2022-12-05T02:07:43.455Z
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 
-<style>
-
-.swiper--wrapper {
-
-/\* wrapperのサイズを調整 \*/
-
-width: 100%;
-
-height: 300px;
-
-}
-
-
-
-.swiper-slide {
-
-/\* スライドのサイズを調整、中身のテキスト配置調整、背景色 \*/
-
-color: #ffffff;
-
-width: 100%;
-
-height: 100%;
-
-text-align: center;
-
-line-height: 400px;
-
-}
-
-
-
-.swiper-slide:nth-child(3n + 1) {
-
-background-color: #de4439;
-
-}
-
-
-
-.swiper-slide:nth-child(3n + 2) {
-
-background-color: #fcd500;
-
-}
-
-
-
-.swiper-slide:nth-child(3n + 3) {
-
-background-color: #53c638;
-
-}
-
-
-
-.mySwiper2 {
-
-height: 400px;
-
-width: 100%;
-
-}
-
-
-
-.mySwiper {
-
-height: 100px;
-
-box-sizing: border-box;
-
-padding: 10px 0;
-
-}
-
-
-
-.mySwiper .swiper-slide {
-
-width: 25%;
-
-height: 100%;
-
-opacity: 0.4;
-
-line-height: 80px;
-
-}
-
-
-
-.mySwiper .swiper-slide-thumb-active {
-
-opacity: 1;
-
-}
-
-</style>
-
-
-
-</head>
-
-
+<style>.swiper--wrapper {/\* wrapperのサイズを調整 \*/width: 100%;
+height: 300px;}.swiper-slide {/\* スライドのサイズを調整、中身のテキスト配置調整、背景色 \*/color: #ffffff;width: 100%;height: 100%;text-align: center;line-height: 400px;}.swiper-slide:nth-child(3n + 1) {background-color: #de4439;}.swiper-slide:nth-child(3n + 2) {
+background-color: #fcd500;}.swiper-slide:nth-child(3n + 3) {background-color: #53c638;}.mySwiper2 {height: 400px;width: 100%;}.mySwiper {height: 100px;box-sizing: border-box;padding: 10px 0;}.mySwiper .swiper-slide {width: 25%;height: 100%;
+opacity: 0.4;line-height: 80px;}.mySwiper .swiper-slide-thumb-active {opacity: 1;}
+</style></head>
 
 <body>
 
@@ -216,13 +114,8 @@ prevEl: ".swiper-button-prev"
 }
 
 });
-
-
-
 </script>
 
 </body>
-
-
 
 </html>
