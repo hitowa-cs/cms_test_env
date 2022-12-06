@@ -36,7 +36,7 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 <span class="text-xs">スマホとQRコードを使った記録システム。QRコードの撮影だけでほとんどの記録ページにアクセスできます。ケアを提供したそのタイミングで瞬時に記録をすることで、業務効率化を実現し、即時に情報を共有することができます。</span>
 
-
+<br>
 
 <body>
 
@@ -64,13 +64,7 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 
 
-
-
-
-
-
-
-
+<br>
 
 
 
