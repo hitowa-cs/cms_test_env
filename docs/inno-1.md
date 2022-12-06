@@ -5,6 +5,13 @@ categories:
   - new
 date: 2022-11-08T01:24:34.894Z
 ---
+<html lang="en"><head><script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></script><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Document</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"><script src="/images/scripts.js"></script><style>body {margin: 10%;margin-left:20%;}#slider {position: relative;width: 1000px;height: 500px;
+ overflow: hidden;box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);}#slider ul {position: relative;
+list-style: none;height: 100%;width: 10000%;padding: 0;margin: 0;transition: all 750ms ease;left: 0;}#slider ul li {position: relative;height: 100%;float: left;}#slider ul li img{width: 1000px;height: 500px;}#slider #prev, #slider #next {width: 50px;line-height: 50px;
+border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text-align: center;color: white;text-decoration: none;position: absolute;top: 50%;transform: translateY(-50%);transition: all 150ms ease;}#slider #prev:hover, #slider #next:hover {background-color: rgba(0, 0, 0, 0.5);text-shadow: 0;}#slider #prev {left: 10px;}#slider #next {right: 10px;}</style></head>
+
+
+
 <div class=" bg-blue-800 text-center font-bold bg-opacity-100 p-2 w-full h-full">
 
 <span class="text-xm font-bold text-center text-white ">HITOWA目指す未来のケアを<a href="https://www.google.com"><a href="https://www.google.com"><span class="text-xs text-yellow-200 text-base font-bold">「知る」</span></div><br>
@@ -33,9 +40,31 @@ date: 2022-11-08T01:24:34.894Z
 
 <span class="text-black-600 text-sm">介護ロボットとは、ケアをする人・受ける人をサポートする目的で使用する先進機器やシステムの総称です。現在、厚生労働省と経済産業省が介護分野での活用を推進しています。私たちは導入にあたり、どの業務にどのように活用すべきか、運用の方法を検討する必要があります。</span><br>
 
-<﻿slideshow><br>
+<br>
 
-<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/ibd36f1bffe415f3c/version/1574303531/image.png" data-orig-width="134" data-orig-height="133" alt="コミュニケーションロボット" style="height: 378.344px;">
+<body>
+
+<div id="slider">
+
+<ul id="slideWrap">
+
+<li><img src="/images/1574302761.png" alt=""></li>
+
+<li><img src="/images/1599540407.png" alt=""></li>
+
+<li><img src="/images/1599540773.png" alt=""></li>
+
+<li><img src="/images/image-1-.jpg" alt=""></li>
+
+<li><img src="/images/1599540407.png" alt=""></li>
+
+</ul>
+
+<a id="prev" href="#">&#10094;</a>
+
+<a id="next" href="#">&#10095;</a>
+
+</div>
 
 <br>
 
