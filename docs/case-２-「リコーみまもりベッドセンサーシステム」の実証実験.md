@@ -34,15 +34,13 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 <ul id="slideWrap">
 
-<li><img src="/images/1574302761.png" alt=""></li>
+<li><img src="/images/case2-1-slide.png" alt=""></li>
 
-<li><img src="/images/1599540407.png" alt=""></li>
+<li><img src="/images/case2-2-slide.png" alt=""></li>
 
-<li><img src="/images/1599540773.png" alt=""></li>
+<li><img src="/images/case2-3-slide.png" alt=""></li>
 
-<li><img src="/images/image-1-.jpg" alt=""></li>
-
-<li><img src="/images/1599540407.png" alt=""></li>
+<li><img src="/images/case2-4-slide.png" alt=""></li>
 
 </ul>
 
