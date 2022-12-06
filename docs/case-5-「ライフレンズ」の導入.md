@@ -51,6 +51,10 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 <span class="text-sm">パナソニック社と行っている見守りシステムの共同開発では、現場の皆様のお声を参考にしながら繰り返しアップデートを行ってきました。</span>
 
+<span class="text-sm text-left">その中で、最近新しく追加された機能についてご紹介します。</span>
+
+
+
 <br>
 
 <body>
