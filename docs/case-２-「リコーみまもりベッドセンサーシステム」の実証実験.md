@@ -5,6 +5,15 @@ categories:
   - new
 date: 2022-11-08T07:11:32.322Z
 ---
+<html lang="en"><head><script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></script><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Document</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"><script src="/images/scripts.js"></script><style>body {margin: 10%;margin-left:20%;}#slider {position: relative;width: 1000px;height: 500px;
+ overflow: hidden;box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);}#slider ul {position: relative;
+list-style: none;height: 100%;width: 10000%;padding: 0;margin: 0;transition: all 750ms ease;left: 0;}#slider ul li {position: relative;height: 100%;float: left;}#slider ul li img{width: 1000px;height: 500px;}#slider #prev, #slider #next {width: 50px;line-height: 50px;
+border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text-align: center;color: white;text-decoration: none;position: absolute;top: 50%;transform: translateY(-50%);transition: all 150ms ease;}#slider #prev:hover, #slider #next:hover {background-color: rgba(0, 0, 0, 0.5);text-shadow: 0;}#slider #prev {left: 10px;}#slider #next {right: 10px;}</style></head>
+
+
+
+
+
 <span class="text-lg text-left font-bold">Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験</span>
 
 <br>
@@ -21,7 +30,31 @@ date: 2022-11-08T07:11:32.322Z
 
 <div class="border-2 border-black text-sm rounded-md  p-2 mr-2"><ul class="list-disc list-inside "> ＜実証実験概要＞<P>施設：イリーゼ東久留米</p> <p>期間：2019年5月13日－8月29日</p> <p>対象：１階フロアの全室（20室）</p></ul><br></div></input><br>
 
-<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s96da70f606bae585/image/i44135782bc476373/version/1573110229/image.png" data-orig-width="652" data-orig-height="310" alt="" style="height: 356.069px;">
+<body>
+
+<div id="slider">
+
+<ul id="slideWrap">
+
+<li><img src="/images/1574302761.png" alt=""></li>
+
+<li><img src="/images/1599540407.png" alt=""></li>
+
+<li><img src="/images/1599540773.png" alt=""></li>
+
+<li><img src="/images/image-1-.jpg" alt=""></li>
+
+<li><img src="/images/1599540407.png" alt=""></li>
+
+</ul>
+
+<a id="prev" href="#">&#10094;</a>
+
+<a id="next" href="#">&#10095;</a>
+
+</div>
+
+<br>
 
 <span class="text-xs text-black">＜システム概要＞</span>
 
