@@ -20,7 +20,7 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 ![](/images/1628127694.png)
 
-<span class="text-xm text-left">ライフレンズの効果は巡視の業務効率化です。</span>
+<span class="text-sm text-left">ライフレンズの効果は巡視の業務効率化です。</span>
 
 <span class="text-sm">効率化によって削減された時間を活用するためにオペレーションの見直しを行い、それによって創出された時間をお客様へのサービスとして還元することがテクノロジーの最大の活用効果と考え、取り組んでいます。</span>
 
@@ -39,6 +39,17 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 ![](/images/1628128427.png)
 
 <span class="text-sm">業務効率化を実施することで生まれた日中の時間は、お客様サービスに活用することができ、これまで行えなかった質の高いレクや個別に寄り添ったレク・機能訓練などに取り組んだり、カンファレンスの時間として活用したりと、様々な取り組みが生まれています。</span>
+
+<span class="text-xs text-left">＊取り組みの事例をご紹介♬</span>
+
+![](/images/1628128513.png)
+
+<span class="text-sm">普段できないレクを体験することで、お客様に楽しみや喜びを提供でき、新たな一面を知る機会にもなっています。さらにスタッフ側もレクや個別サービスに対する意識が高まり、\
+施設の雰囲気がガラッと変わった施設もありました。</span>
+
+![](/images/1628128812.png)
+
+<span class="text-sm">パナソニック社と行っている見守りシステムの共同開発では、現場の皆様のお声を参考にしながら繰り返しアップデートを行ってきました。</span>
 
 <br>
 
@@ -68,28 +79,9 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 <br>
 
-
-
-<span class="text-xs text-left">＊取り組みの事例をご紹介♬</span>
-
-![](/images/1628128513.png)
-
-<span class="text-sm">普段できないレクを体験することで、お客様に楽しみや喜びを提供でき、新たな一面を知る機会にもなっています。さらにスタッフ側もレクや個別サービスに対する意識が高まり、\
-施設の雰囲気がガラッと変わった施設もありました。</span>
-
-![](/images/1628128812.png)
-
-<span class="text-sm">パナソニック社と行っている見守りシステムの共同開発では、現場の皆様のお声を参考にしながら繰り返しアップデートを行ってきました。</span>
+<span class="text-xm text-left font-bold ">今後も安心安全な見守りをサポートできるようアップデートを重ねてまいります！！</span>
 
 <br>
-
-
-
-
-
-
-
-<span class="text-xm text-left font-bold ">今後も安心安全な見守りをサポートできるようアップデートを重ねてまいります！！</span>
 
 ![](/images/1628129587.png)
 
