@@ -1,8 +1,8 @@
 ---
-title: case 1
+title: Case.1「みまもり安心サービス」の導入
 layout: full-width
 categories:
-  - new
+  - NEW
 date: 2022-12-02T05:29:33.602Z
 ---
 <html>
