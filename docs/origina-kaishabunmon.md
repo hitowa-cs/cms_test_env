@@ -468,6 +468,8 @@ o﻿k-remain----------------------------------------
 
 <label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-seven"><b>事業推進部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
 
+<br>
+
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
 <div class="cp_actab-content">
@@ -538,6 +540,8 @@ o﻿k-remain----------------------------------------
 
       </div>
 
+<br>
+
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>介護保険の帳票やサービス内容について知りたい</li> <li>各業界団体より書類や問い合わせがあり分からない</li> <li>ご入居を検討している方を紹介したい</li> <li>新規開設で分からない事がある</li> <li>行政への変更手続きにかかる作成書類の内容について知りたい</li><li>介護事業指定更新時、作成した帳票の内容があっているのか見てほしい</li> <li>医療連携や薬局連携等に関わる事や協力医療機関について相談・改善点などがある</li><li>施設で新たに取り入れたい外出レク・サービスなどがあり、相談したい</li> <li>訪問理美容について要望がある</li> <li>ネットスーパーなどでの購入方法・品目について相談したい</li> </ul><br></div></input><br>
 
 <div><br>
@@ -546,8 +550,6 @@ o﻿k-remain----------------------------------------
 
 <span class="text-xl  text-center text-sky-300 font-bold"><a href="https://www.google.com">お問い合わせ一覧</a></span>
 
-</div><br>
-
-</div></div>
+<br>
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
