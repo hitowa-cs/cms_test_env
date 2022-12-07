@@ -5,7 +5,7 @@ categories:
   - new
 date: 2022-11-09T09:37:48.500Z
 ---
-<div class="bg-blue-600 text-center font-bold bg-opacity-100 p-4 w-full h-full"><span class="text-2xl  text-center  text-white font-bold ">Topics & News</a></span></div><br>
+<div class="bg-blue-600 text-center font-bold bg-opacity-100 p-3 w-full h-full"><span class="text-2xl  text-center  text-white font-bold ">Topics & News</a></span></div><br> 
 
 <div class="border-2 border-black text-center rounded-md outline- 4 p-2 ">TOPICS</div></input>
 
@@ -129,7 +129,7 @@ date: 2022-11-09T09:37:48.500Z
 
 <input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs">
 
-<label class="block p-4 text-lg bg-blue-300 text-center  leading-normal cursor-pointer " for="tab-multi-two"><b>MORE</b></label>
+<label class="block p-4 text-lg rounded-md bg-blue-300 text-center  leading-normal cursor-pointer " for="tab-multi-two"><b>MORE</b></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
