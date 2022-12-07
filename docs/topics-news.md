@@ -5,7 +5,7 @@ categories:
   - new
 date: 2022-11-09T09:37:48.500Z
 ---
-<div class="bg-blue-600 text-center font-bold bg-opacity-100 p-3 w-full h-full"><span class="text-2xl  text-center  text-white font-bold ">Topics & News</a></span></div><br> 
+<div class="bg-blue-600 text-center font-bold bg-opacity-100 mx-auto p-3 w-full h-full"><span class="text-2xl  text-center  text-white font-bold ">Topics & News</a></span></div><br> 
 
 <div class="border-2 border-black text-center rounded-md outline- 4 p-2 ">TOPICS</div></input>
 
