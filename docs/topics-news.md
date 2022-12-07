@@ -131,27 +131,31 @@ date: 2022-11-09T09:37:48.500Z
 
 <label class="block p-4 text-lg bg-blue-300 text-center  leading-normal cursor-pointer " for="tab-multi-two"><b>MORE</b></label>
 
-<div class="tab-content overflow-hidden border-l-5  leading-normal"></div>
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
 
-<span class="text-sm text-left">●　2021.07</span>
+<br>
+
+<span class="text-sm text-left">●　2019.11.25</span>
 
 <a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク②〉20191202_介護センサーサミット2019 in 東京.pdf"><span class="text-sm text-blue-600 underline"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク②〉20191202_介護センサーサミット2019 in 東京.pdf"><span class="text-sm text-blue-600 underline">『介護センサーサミット2019 in 東京』で介護事業者の立場から考えるテクノロジー&times;介護の取り組みについてご講演されました！</span></a>
 
 <br>
 
-<span class="text-sm text-left">●　2021.07</span>
+<span class="text-sm text-left">●　2019.10</span>
 
-<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care%20Innovation/シニアビジネスマーケット【10月号】.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/シニアビジネスマーケット【10月号】.pdf"><span class="text-sm text-blue-600 underline">シニアビジネスマーケット【10月号】で、パナソニック社と共同実証してきた新見守りシステム構築の成果について紹介されました！</span></a><br>
+<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care%20Innovation/シニアビジネスマーケット【10月号】.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/シニアビジネスマーケット【10月号】.pdf"><span class="text-sm text-blue-600 underline">シニアビジネスマーケット【10月号】で、パナソニック社と共同実証してきた新見守りシステム構築の成果について紹介されました！</span></a>
 
-<span class="text-sm text-left">●　2021.07</span>
+<br>
 
-<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク③〉20190926パナソニック主催セミナー講演.pdf"><span class="text-sm text-blue-600 underline">『Panasonic スマートエイジングケアフォーラム2019』でHITOWAのテクノロジー活用の考え方について袴田社長がご講演されました</a></span><br />
+<span class="text-sm text-left">●　2019.05</span>
+
+<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク③〉20190926パナソニック主催セミナー講演.pdf"><span class="text-sm text-blue-600 underline">『Panasonic スマートエイジングケアフォーラム2019』でHITOWAのテクノロジー活用の考え方について袴田社長がご講演されました</a></span>
 
 <br>
 
 
 
-<span class="text-sm text-left">●　2021.07</span>
+<span class="text-sm text-left">●　2019.03</span>
 
 <span class="text-sm text-blue-600 underline"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care%20Innovation/日経ヘルスケア【5月号】.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/日経ヘルスケア【5月号】.pdf"><span class="text-sm text-blue-600 underline">日経ヘルスケア【5月号】で、みまもり安心サービスを使った「夜間の業務改善」について紹介されました！</span>
 
@@ -159,20 +163,20 @@ date: 2022-11-09T09:37:48.500Z
 
 
 
-<span class="text-sm text-left">●　2021.07</span>
+<span class="text-sm text-left">●　2018.11.17</span>
 
 <span class="text-sm text-blue-600 underline">シニアビジネスマーケット【3月号】で、HITOWAの「IoT/AIの活用」に関する取り組みが紹介されました！</span></u></a><br /></span></p>
 
 
 <br>
   
-<span class="text-sm text-left">●　2021.07</span>
+<span class="text-sm text-left">●　2018.12.04</span>
 
 <a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care%20Innovation/【プレスリリース】パナソニック&times;HITOWA.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/【プレスリリース】パナソニック&times;HITOWA.pdf"><span class="text-sm text-blue-600 underline">HITOWAとパナソニック社の「IoT/AIを活用した先進的な介護施設の実現に向けて連携」についてプレスリリースを発表しました！</span>
 
 <br>
 
-<span class="text-sm text-left">●　2021.07</span>
+<span class="text-sm text-left">●　2019.02.16</span>
 
 <span class="text-sm text-blue-600 underline">シンポジウム「人手不足と今後の介護サービスの方向性　in　東京」に袴田社長がご登壇されました！<br /></span>
 </div>
