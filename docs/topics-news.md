@@ -99,27 +99,22 @@ date: 2022-11-09T09:37:48.500Z
 
 <br>
 
-<p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">●　2020.09</span></span><span style="color: #000000;" data-mce-style="color: #000000;">&nbsp;</span><span style="color: #000000;" data-mce-style="color: #000000;"><span color="#FF0000" style="color: #ff0000;" data-mce-style="color: #ff0000;"><b>New‼</b></span></span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">見守りシステム「ライフレンズ」の共同開発の経緯について、高齢者住宅新聞に掲載され、同社ニュースサイトにアップされました</span></p><p>&nbsp;</p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">●　2020.07.13</span></span><span style="color: #000000;" data-mce-style="color: #000000;">&nbsp;</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS×パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS×パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf" data-mce-href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS×パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf"><u><span style="text-decoration: underline; color: #0000ff;" data-mce-style="text-decoration: underline; color: #0000ff;">パナソニック株式会社が新見守りシステム「ライフレンズ」のプレスリリースを行い、本製品の共同開発をしたHITOWAケアサービスの袴田社長が記者発表に参加されました</span></u></a><br></span></p><p>&nbsp;</p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">●　2020.07</span></span><span style="color: #000000;" data-mce-style="color: #000000;">&nbsp;</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px; color: #000000;" data-mce-style="font-size: 14px; color: #000000;">高齢者住宅新聞社主催の「業務改善・収益改善セミナー」にて執行役員 山本部長（事業企画室）が、ICT導入で業務改善を図るをテーマに講演されました</span></p><p style="text-align: left;" data-mce-style="text-align: left;">&nbsp;</p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><span style="color: #000000;" data-mce-style="color: #000000;">●　2020.03</span></span><span style="color: #000000;" data-mce-style="color: #000000;">&nbsp;</span></p><p style="text-align: left;" data-mce-style="text-align: left;"><span style="font-size: 14px;" data-mce-style="font-size: 14px;"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf" target="\\\\\\\\_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302\\\\\\\\_介護看護EXPO袴田社長ご講演記事.pdf" data-mce-href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf"><u><span style="text-decoration: underline; color: #0000ff;" data-mce-style="text-decoration: underline; color: #0000ff;">インテックス大阪で開催された「介護&amp;看護EXPO」にて、HITOWAが考えるサービスの多様化と次世代介護事業経営について袴田社長がご講演されました！</span></u></a><br></span></p><p>&nbsp;</p><p>&nbsp;<span style="color: #000000; font-size: 14px;" data-mce-style="color: #000000; font-size: 14px;">●　2020.2.18</span></p><p><span style="color: #0000ff;" data-mce-style="color: #0000ff;">&nbsp;<span style="font-size: 14px;" data-mce-style="font-size: 14px;"><a href="https://project.nikkeibp.co.jp/behealth/atcl/feature/00003/020600072/" target="\\\\\\\\_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク②〉20191202\\\\\\\\_介護センサーサミット2019 in 東京.pdf" style="color: #0000ff;" data-mce-href="https://project.nikkeibp.co.jp/behealth/atcl/feature/00003/020600072/" data-mce-style="color: #0000ff;"><u>日経BP総研の「Beyond Health」でパナソニック×HITOWAが目指す未来のケアについて紹介されました！</u></a></span></span></p></div>            <div data-display="cms-only" data-action="linkIndicator" class="cc-m-link-indicator cc-m-link-indicator-text" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS×パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf" style="left: 0px; top: 112.5px;">	            <a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care%20Innovation/20200717_HCS%C3%97%E3%83%91%E3%83%8A%E3%80%8C%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%E3%80%8D%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E5%90%91%E3%81%91%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%20(1).pdf" target="_blank">	                <span></span>	            </a>	        </div><div data-display="cms-only" data-action="linkIndicator" class="cc-m-link-indicator cc-m-link-indicator-text" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf" style="left: 0px; top: 268.5px;">	            <a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU%E5%A7%94%E5%93%A1%E4%BC%9A/20200302_%E4%BB%8B%E8%AD%B7%E7%9C%8B%E8%AD%B7EXPO%E8%A2%B4%E7%94%B0%E7%A4%BE%E9%95%B7%E3%81%94%E8%AC%9B%E6%BC%94%E8%A8%98%E4%BA%8B.pdf" target="_blank">	                <span></span>	            </a>	        </div><div data-display="cms-only" data-action="linkIndicator" class="cc-m-link-indicator cc-m-link-indicator-text" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク②〉20191202_介護センサーサミット2019 in 東京.pdf" style="left: 0px; top: 340.5px;">	            <a href="https://project.nikkeibp.co.jp/behealth/atcl/feature/00003/020600072/" target="_blank">	                <span></span>	            </a>	        </div></div>
+<p style="text-align: left;"><span style="font-size: 14px;"><span style="color: #000000;">●　2020.09</span></span><span style="color: #000000;">&nbsp;</span><span style="color: #000000;"><span color="#FF0000" style="color: #ff0000;"><b>New‼</b></span></span></p>
+<p style="text-align: left;"><span style="font-size: 14px; color: #000000;">見守りシステム「ライフレンズ」の共同開発の経緯について、高齢者住宅新聞に掲載され、同社ニュースサイトにアップされました</span></p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><span style="font-size: 14px;"><span style="color: #000000;">●　2020.07.13</span></span><span style="color: #000000;">&nbsp;</span></p>
+<p style="text-align: left;"><span style="font-size: 14px;"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS&times;パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS&times;パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf"><u><span style="text-decoration: underline; color: #0000ff;">パナソニック株式会社が新見守りシステム「ライフレンズ」のプレスリリースを行い、本製品の共同開発をしたHITOWAケアサービスの袴田社長が記者発表に参加されました</span></u></a><br /></span></p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><span style="font-size: 14px;"><span style="color: #000000;">●　2020.07</span></span><span style="color: #000000;">&nbsp;</span></p>
+<p style="text-align: left;"><span style="font-size: 14px; color: #000000;">高齢者住宅新聞社主催の「業務改善・収益改善セミナー」にて執行役員 山本部長（事業企画室）が、ICT導入で業務改善を図るをテーマに講演されました</span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><span style="font-size: 14px;"><span style="color: #000000;">●　2020.03</span></span><span style="color: #000000;">&nbsp;</span></p>
+<p style="text-align: left;"><span style="font-size: 14px;"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf"><u><span style="text-decoration: underline; color: #0000ff;">インテックス大阪で開催された「介護&amp;看護EXPO」にて、HITOWAが考えるサービスの多様化と次世代介護事業経営について袴田社長がご講演されました！</span></u></a><br /></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;<span style="color: #000000; font-size: 14px;">●　2020.2.18</span></p>
+<p><span style="color: #0000ff;">&nbsp;<span style="font-size: 14px;"><a href="https://project.nikkeibp.co.jp/behealth/atcl/feature/00003/020600072/" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク②〉20191202_介護センサーサミット2019 in 東京.pdf" style="color: #0000ff;"><u>日経BP総研の「Beyond Health」でパナソニック&times;HITOWAが目指す未来のケアについて紹介されました！</u></a></span></span></p>
 
-</div>
-
-</p>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+<br>
 
 <div class="">
 
@@ -165,7 +160,7 @@ date: 2022-11-09T09:37:48.500Z
 
 <span class="text-sm text-left">●　2018.11.17</span>
 
-<span class="text-sm text-blue-600 underline">シニアビジネスマーケット【3月号】で、HITOWAの「IoT/AIの活用」に関する取り組みが紹介されました！</span></u></a><br /></span></p>
+<span class="text-sm">シニアビジネスマーケット【3月号】で、HITOWAの「IoT/AIの活用」に関する取り組みが紹介されました！</span></u></a><br /></span></p>
 
 
 <br>
@@ -178,7 +173,11 @@ date: 2022-11-09T09:37:48.500Z
 
 <span class="text-sm text-left">●　2019.02.16</span>
 
-<span class="text-sm text-blue-600 underline">シンポジウム「人手不足と今後の介護サービスの方向性　in　東京」に袴田社長がご登壇されました！<br /></span>
+<span class="text-sm">シンポジウム「人手不足と今後の介護サービスの方向性　in　東京」に袴田社長がご登壇されました！<br /></span>
+
+
+
+
 </div>
 </div>
 </div>
