@@ -30,21 +30,35 @@ date: 2022-11-20T00:07:21.036Z
 
 <br>
 
+<hr class="border-dashed border-black "></hr>
 
-
-<div class=" bg-green-500 bg-opacity-100 p-2 w-full h-full">
-
-<span class="text-xl text-black  font-bold ">事業企画室[](「知る」)</span><span class="text-red-800 text-base font-bold">New!!</span></div><br>
-
-<div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
-
-<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
+<head> <title>Tailwind CSS Accordion</title><script src="https://cdn.tailwindcss.com"></script><link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style> /* Tab content - closed */.tab-content { max-height: 0; -webkit-transition: max-height .35s; -o-transition: max-height .35s; transition: max-height .35s; } /* :checked - resize to full height */ .tab input:checked ~ .tab-content { max-height: 300vh; } /* Label formatting when open */ { /*@apply text-xl p-5 border-l-2 border-indigo-500 bg-gray-100 text-indigo*/ font-size: 1.25rem; /*.text-xl*/ padding: 1.25rem; /*.p-5*/ border-left-width: 2px; /*.border-l-2*/ border-color: #6574cd; /*.border-indigo*/ background-color: #f8fafc; /*.bg-gray-100 */ color: #6574cd; /*.text-indigo*/ } /* Icon */ .tab label::after { float:right; right: 0; top: 0; display: block; width: 1.5em; height: 1.5em; line-height: 1.5; font-size: 1.25rem; text-align: center; -webkit-transition: all .35s; -o-transition: all .35s; transition: all .35s; } /* Icon formatting - closed */ .tab input[type=checkbox] + label::after { content: "+"; font-weight:bold; /*.font-bold*/  /*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } .tab input[type=radio] + label::after { content: "\25BE"; font-weight:bold; /*.font-bold*//*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } /* Icon formatting - open */ .tab input[type=checkbox]:checked + label::after { transform: rotate(315deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } .tab input[type=radio]:checked + label::after { transform: rotateX(180deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } </style> </head> 
 
 </div>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■Care Innovation Team<br></span>介護現場の抱える課題（サービス品質・人員確保・情報共有など）についてテクノロジーを活用した解決策を立案し、導入から活用支援までを行っております。また企業と協働で新たな技術開発も行なっています。</span></div><br>
+<br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■Public Relations Team<br></span>HITOWAケアサービスとイリーゼの(ブランド)価値を、進化するメディアに対応しながら魅力的に発信していきます。</span></div><br>
+<div class="">
+
+<div class="tab w-full overflow-hidden border-t"> 
+
+<div class=" flex flex-col space-y-4">
+
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+
+<input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs">
+
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-one"><b>事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
+
+<div class="cp_actab-content">
+
+<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+
+</div>
+
+<br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -72,15 +86,11 @@ date: 2022-11-20T00:07:21.036Z
 
         </div>
 
-      </div>
-
     </div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
 <span class="text-black-600 text-left text-base text-xl font-bold">お問い合わせ</sapn></div><br>
-
-</div>
 
 <!--StartFragment-->
 
@@ -110,9 +120,31 @@ date: 2022-11-20T00:07:21.036Z
 
 <p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
-<div class="bg-green-500 bg-opacity-100 p-2 w-full h-full">
+<br>
 
-<span class="text-xl text-black  text-base font-bold">開発部</div><br>
+<br>
+
+<div class="">
+
+<div class="tab w-full overflow-hidden border-t"> 
+
+<div class=" flex flex-col space-y-4">
+
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+
+<input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs">
+
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-two"><b>開発部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
+
+<div class="cp_actab-content">
+
+<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+
+</div>
+
+<br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -150,9 +182,31 @@ date: 2022-11-20T00:07:21.036Z
 
 <p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
-<div class="bg-green-500 bg-opacity-100 p-2 w-full h-full">
+</div>
 
-<span class="text-xl text-black  text-base font-bold">営業部</div><br>
+<br>
+
+<div class="">
+
+<div class="tab w-full overflow-hidden border-t"> 
+
+<div class=" flex flex-col space-y-4">
+
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+
+<input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs">
+
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-three"><b>営業部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
+
+<div class="cp_actab-content">
+
+<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+
+</div>
+
+<br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -193,6 +247,32 @@ date: 2022-11-20T00:07:21.036Z
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>ご入居を検討している方を紹介したい</li> <li>紹介業を検討している事業者を紹介したい</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>介護の事でお悩みの方の相談に乗ってもらいたい</li></ul><br></div></input><br>
 
 <p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+
+</div>
+
+<br>
+
+<div class="">
+
+<div class="tab w-full overflow-hidden border-t"> 
+
+<div class=" flex flex-col space-y-4">
+
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+
+<input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs">
+
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-four"><b>運営部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
+
+<div class="cp_actab-content">
+
+<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+
+</div>
+
+<br>
 
 <div class="bg-green-500 bg-opacity-100 p-2 w-full h-full">
 
@@ -236,11 +316,31 @@ o﻿k-remain----------------------------------------
 
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>施設運用ルール、お客様のサービス内容について知りたい</li> </ul><br></div></input><br>
 
-<p class="text-center ...">問い合わせ先<br> ✉Test-new@Test.jp<br> 運営一部 ✉Test-1@Test.jp<br> 運営二部 ✉unei-2@irs.jp<br> 運営三部 ✉Test-3@Test.jp<br> 📞03-6095</p></div><br>
+<p class="text-center ...">問い合わせ先<br> ✉Test-new@Test.jp<br> 運営一部 ✉Test-1@Test.jp<br> 運営二部 ✉unei-2@irs.jp<br> 運営三部 ✉Test-3@Test.jp<br> 📞03-6095</p></div>
 
-<div class="bg-green-500 bg-opacity-100 p-2 w-full h-full">
+<br>
 
-<span class="text-xl text-black  text-base font-bold">経営管理部</div><br>
+<div class="">
+
+<div class="tab w-full overflow-hidden border-t"> 
+
+<div class=" flex flex-col space-y-4">
+
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+
+<input class="absolute opacity-0 " id="tab-multi-five" type="checkbox" fname="tabs">
+
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-five"><b>経営管理部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
+
+<div class="cp_actab-content">
+
+<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+
+</div>
+
+<br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -288,9 +388,31 @@ o﻿k-remain----------------------------------------
 
 <p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
-<div class="bg-green-500 bg-opacity-100 p-2 w-full h-full">
+<br>
 
-<span class="text-xl text-black  text-base font-bold">人事部</div><br>
+<br>
+
+<div class="">
+
+<div class="tab w-full overflow-hidden border-t"> 
+
+<div class=" flex flex-col space-y-4">
+
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+
+<input class="absolute opacity-0 " id="tab-multi-six" type="checkbox" fname="tabs">
+
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-six"><b>人事部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
+
+<div class="cp_actab-content">
+
+<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+
+</div>
+
+<br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -338,9 +460,29 @@ o﻿k-remain----------------------------------------
 
 <p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
-<div class="bg-green-500 bg-opacity-100 p-2 w-full h-full">
+</div>
 
-<span class="text-xl text-black  text-base font-bold">事業推進部</div><br>
+<br>
+
+<div class="">
+
+<div class="tab w-full overflow-hidden border-t"> 
+
+<div class=" flex flex-col space-y-4">
+
+<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+
+<input class="absolute opacity-0 " id="tab-multi-seven" type="checkbox" sfname="tabs">
+
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-seven"><b>事業推進部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+
+<div class="tab-content overflow-hidden border-l-5  leading-normal">
+
+<div class="cp_actab-content">
+
+<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+
+</div>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -410,6 +552,10 @@ o﻿k-remain----------------------------------------
 
 <div class=" text-center">
 
-<span class="text-xl  text-center text-sky-300 font-bold"><a href="https://www.google.com">お問い合わせ一覧</a></span></div><br>
+<span class="text-xl  text-center text-sky-300 font-bold"><a href="https://www.google.com">お問い合わせ一覧</a></span>
+
+</div><br>
 
 </div></div>
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
