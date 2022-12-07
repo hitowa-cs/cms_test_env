@@ -49,7 +49,7 @@ date: 2022-11-09T09:37:48.500Z
 
     <script src="https://cdn.tailwindcss.com"></script>
 
- <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style> /* Tab content - closed */.tab-content { max-height: 0; -webkit-transition: max-height .35s; -o-transition: max-height .35s; transition: max-height .35s; } /* :checked - resize to full height */ .tab input:checked ~ .tab-content { max-height: 100vh; } /* Label formatting when open */ .tab input:checked + label{ /*@apply text-xl p-5 border-l-2 border-indigo-500 bg-gray-100 text-indigo*/ font-size: 1.25rem; /*.text-xl*/ padding: 1.25rem; /*.p-5*/ border-left-width: 2px; /*.border-l-2*/ border-color: #6574cd; /*.border-indigo*/ background-color: #f8fafc; /*.bg-gray-100 */ color: #6574cd; /*.text-indigo*/ } /* Icon */ .tab label::after { float:right; right: 0; top: 0; display: block; width: 1.5em; height: 1.5em; line-height: 1.5; font-size: 1.25rem; text-align: center; -webkit-transition: all .35s; -o-transition: all .35s; transition: all .35s; } /* Icon formatting - closed */ .tab input[type=checkbox] + label::after { content: "+"; font-weight:bold; /*.font-bold*/ border-width: 1px; /*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } .tab input[type=radio] + label::after { content: "\25BE"; font-weight:bold; /*.font-bold*/ border-width: 1px; /*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } /* Icon formatting - open */ .tab input[type=checkbox]:checked + label::after { transform: rotate(315deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } .tab input[type=radio]:checked + label::after { transform: rotateX(180deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } </style> 
+ <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style> /* Tab content - closed */.tab-content { max-height: 0; -webkit-transition: max-height .35s; -o-transition: max-height .35s; transition: max-height .35s; } /* :checked - resize to full height */ .tab input:checked ~ .tab-content { max-height: 200vh; } /* Label formatting when open */ .tab input:checked + label{ /*@apply text-xl p-5 border-l-2 border-indigo-500 bg-gray-100 text-indigo*/ font-size: 1.25rem; /*.text-xl*/ padding: 1.25rem; /*.p-5*/ border-left-width: 2px; /*.border-l-2*/ border-color: #6574cd; /*.border-indigo*/ background-color: #f8fafc; /*.bg-gray-100 */ color: #6574cd; /*.text-indigo*/ } /* Icon */ .tab label::after { float:right; right: 0; top: 0; display: block; width: 1.5em; height: 1.5em; line-height: 1.5; font-size: 1.25rem; text-align: center; -webkit-transition: all .35s; -o-transition: all .35s; transition: all .35s; } /* Icon formatting - closed */ .tab input[type=checkbox] + label::after { content: "+"; font-weight:bold; /*.font-bold*/ border-width: 1px; /*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } .tab input[type=radio] + label::after { content: "\25BE"; font-weight:bold; /*.font-bold*/ border-width: 1px; /*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } /* Icon formatting - open */ .tab input[type=checkbox]:checked + label::after { transform: rotate(315deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } .tab input[type=radio]:checked + label::after { transform: rotateX(180deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } </style> 
 
 </head> <body class="font-sans container">
 
@@ -67,25 +67,76 @@ date: 2022-11-09T09:37:48.500Z
 
 <br>
 
-<span class="text-sm text-left">●　2021.08</span><span class="text-xs text-left  text-red-600"><b>　New!!</b></span>
+<span class="text-sm text-left">●　2021.06</span></span>
 
 <span class="text-sm text-left">見守りシステム「ライフレンズ」が「イリーゼ横浜港南台」「イリーゼ座間」に導入されました</span>
 
-<span class="text-sm text-left">●　2021.7</span><span class="text-xs text-left  text-red-600"><b>　New!!</b></span>
+<span class="text-sm text-left">●　2021.5</span>
 
-<span class="text-sm text-left">トワレセンサー（排泄検知）の実証実験を「イリーゼ草津」「イリーゼ西大宮」で開始しました！</span>
+<span class="text-sm text-left">見守りシステム「ライフレンズ」が「イリーゼ仙台南光台」「イリーゼ四街道」へ導入されました</span>
 
-<span class="text-sm text-left">●　2021.7</span><span class="text-xs text-left  text-red-600"><b>　New!!</b></span>
+<span class="text-sm text-left">●　2020.8</span>
 
-<span class="text-sm text-left">見守りシステム「ライフレンズ」が「イリーゼ南柏」「イリーゼ福生（1階のみ）「イリーゼ横浜旭（1階のみ）」「イリーゼ船橋緑台」に導入されました</span>
+<span class="text-sm text-left">新見守りシステム「ライフレンズ」を「イリーゼ入間」「イリーゼ三鷹深大寺」「イリーゼ狭山」の3棟に導入 </span>
 
-<span class="text-sm text-left">●　2021.6</span><span class="text-xs text-left  text-red-600"><b>　New!!</b></span>
+<span class="text-sm text-left">●　2020.06</span>
 
-<span class="text-sm text-left">運搬ロボット「BUDDY」のトライアルを「イリーゼ東久留米」で開始しました！</span>
+<span class="text-sm text-left">新見守りシステム「ライフレンズ」を「イリーゼ練馬中村橋」「イリーゼ西大宮」の２棟に導入></span>
 
-<span class="text-sm text-left">●　2021.6</span><span class="text-xs text-left  text-red-600"><b>　New!!</b></span>
+<span class="text-sm text-left">●　2020.04</span>
 
-<span class="text-sm text-left">認知機能トレーニングシステム「CogEvo」のトライアルを「イリーゼ大宮大和田」「イリーゼ神戸青木」で行いました！</span>
+<span class="text-sm text-left">服薬支援システム「服やっくん」の運用を「イリーゼまつど」「イリーゼ西大宮」の２棟で開始しました</span>
+
+<span class="text-sm text-left">●　2019.12.10</span>
+
+<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS&times;パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS&times;パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf"><span class="text-sm text-blue-600 underline">パナソニック株式会社が新見守りシステム「ライフレンズ」のプレスリリースを行い、本製品の共同開発をしたHITOWAケアサービスの袴田社長が記者発表に参加されました</span></a>
+
+<span class="text-sm text-left">●　2019.12.10</span>
+
+<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク1〉CIT=report【Vol.3】.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク1〉CIT=report【Vol.3】.pdf"><span class="text-sm text-blue-600 underline">「イリーゼ東久留米」が東京都福祉保健局が行っている『次世代介護機器の活用支援事業』のアドバンスト施設に選定されました！</u></span></a></span>
+
+<br>
+
+<span class="text-sm text-left">●　2019.03</span>
+
+<span class="text-sm text-left">「イリーゼ練馬中村橋」にてパナソニックと共同開発している新しい見守りシステムの実証実験をスタート <a href="/app/s96da70f606bae585/p4acf6d2cefe333ec/" title="Case.3 システム開発協力"><span class="text-sm text-blue-600 underline">→詳しく知る</span></a></span></span>
+
+<br>
+
+<span class="text-sm text-left">●　2019.03</span>
+
+
+<span class="text-sm text-left">「イリーゼ西大宮」にて記録システム「NOTICE」の試験導入を開始しました！</span></span></p>
+
+<br>
+
+<br>
+
+<span class="text-sm text-left">●　2019.03</span>
+
+<span class="text-sm text-left">「イリーゼ東久留米」にてRICOH社「ベッドセンサー」の実証実験がスタート<a href="/app/s96da70f606bae585/pa295293559855ae1/" title="Case.２ 「リコーみまもりベッドセンサーシステム」の実証実験"><span class="text-sm text-blue-600 underline">→詳しく知る</span></a></span></span></p>
+
+<br>
+
+
+<span class="text-sm text-left">●　2019.02</span>
+
+<span class="text-sm text-left">既存施設の実証施設として「イリーゼ西大宮」に「みまもり安心サービス」が導入されました！</span></span></p>
+
+<br>
+
+
+
+<span class="text-sm text-left">●　2019.03.01</span>
+
+<span class="text-sm text-left">Care Innovation Teamが正式発足されました</span></span>
+
+
+
+<span class="text-sm text-left">●　2019.03.01</span>
+
+
+<span class="text-sm text-left">新規としては2棟目となる実証施設「イリーゼ練馬石神井台」がOPEN！全居室に「みまもり安心サービス」を導入</span></span></p>
 
 </div>
 
@@ -99,20 +150,34 @@ date: 2022-11-09T09:37:48.500Z
 
 <br>
 
-<p style="text-align: left;"><span style="font-size: 14px;"><span style="color: #000000;">●　2020.09</span></span><span style="color: #000000;">&nbsp;</span><span style="color: #000000;"><span color="#FF0000" style="color: #ff0000;"><b>New‼</b></span></span></p>
+
+
+<span class="text-sm text-left">●　2021.08</span><span class="text-lg text-left  text-red-600"><b>　New!!</b></span>
+
+
 <p style="text-align: left;"><span style="font-size: 14px; color: #000000;">見守りシステム「ライフレンズ」の共同開発の経緯について、高齢者住宅新聞に掲載され、同社ニュースサイトにアップされました</span></p>
-<p>&nbsp;</p>
-<p style="text-align: left;"><span style="font-size: 14px;"><span style="color: #000000;">●　2020.07.13</span></span><span style="color: #000000;">&nbsp;</span></p>
-<p style="text-align: left;"><span style="font-size: 14px;"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS&times;パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/20200717_HCS&times;パナ「ライフレンズ」メディア向けオンラインセミナー (1).pdf"><u><span style="text-decoration: underline; color: #0000ff;">パナソニック株式会社が新見守りシステム「ライフレンズ」のプレスリリースを行い、本製品の共同開発をしたHITOWAケアサービスの袴田社長が記者発表に参加されました</span></u></a><br /></span></p>
-<p>&nbsp;</p>
-<p style="text-align: left;"><span style="font-size: 14px;"><span style="color: #000000;">●　2020.07</span></span><span style="color: #000000;">&nbsp;</span></p>
-<p style="text-align: left;"><span style="font-size: 14px; color: #000000;">高齢者住宅新聞社主催の「業務改善・収益改善セミナー」にて執行役員 山本部長（事業企画室）が、ICT導入で業務改善を図るをテーマに講演されました</span></p>
-<p style="text-align: left;">&nbsp;</p>
-<p style="text-align: left;"><span style="font-size: 14px;"><span style="color: #000000;">●　2020.03</span></span><span style="color: #000000;">&nbsp;</span></p>
-<p style="text-align: left;"><span style="font-size: 14px;"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf"><u><span style="text-decoration: underline; color: #0000ff;">インテックス大阪で開催された「介護&amp;看護EXPO」にて、HITOWAが考えるサービスの多様化と次世代介護事業経営について袴田社長がご講演されました！</span></u></a><br /></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;<span style="color: #000000; font-size: 14px;">●　2020.2.18</span></p>
-<p><span style="color: #0000ff;">&nbsp;<span style="font-size: 14px;"><a href="https://project.nikkeibp.co.jp/behealth/atcl/feature/00003/020600072/" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク②〉20191202_介護センサーサミット2019 in 東京.pdf" style="color: #0000ff;"><u>日経BP総研の「Beyond Health」でパナソニック&times;HITOWAが目指す未来のケアについて紹介されました！</u></a></span></span></p>
+
+<br>
+
+
+<br>
+
+<span class="text-sm text-left">●　2020.07</span>
+
+<span class="text-sm">高齢者住宅新聞社主催の「業務改善・収益改善セミナー」にて執行役員 山本部長（事業企画室）が、ICT導入で業務改善を図るをテーマに講演されました</span></p>
+
+
+<br>
+
+<span class="text-sm text-left">●　2020.03</span>
+
+<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/FANZOU委員会/20200302_介護看護EXPO袴田社長ご講演記事.pdf"><span class="text-sm text-blue-600 underline">インテックス大阪で開催された「介護&amp;看護EXPO」にて、HITOWAが考えるサービスの多様化と次世代介護事業経営について袴田社長がご講演されました！</span></u></a>
+
+<br>
+
+<span class="text-sm text-left">●　2020.03</span>
+
+<a href="https://project.nikkeibp.co.jp/behealth/atcl/feature/00003/020600072/" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/〈リンク②〉20191202_介護センサーサミット2019 in 東京.pdf" ><span class="text-sm text-blue-600 underline">日経BP総研の「Beyond Health」でパナソニック&times;HITOWAが目指す未来のケアについて紹介されました！</a></span>
 
 <br>
 
@@ -148,15 +213,11 @@ date: 2022-11-09T09:37:48.500Z
 
 <br>
 
-
-
 <span class="text-sm text-left">●　2019.03</span>
 
 <span class="text-sm text-blue-600 underline"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care%20Innovation/日経ヘルスケア【5月号】.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/Care Innovation/日経ヘルスケア【5月号】.pdf"><span class="text-sm text-blue-600 underline">日経ヘルスケア【5月号】で、みまもり安心サービスを使った「夜間の業務改善」について紹介されました！</span>
 
 <br>
-
-
 
 <span class="text-sm text-left">●　2018.11.17</span>
 
@@ -175,9 +236,4 @@ date: 2022-11-09T09:37:48.500Z
 
 <span class="text-sm">シンポジウム「人手不足と今後の介護サービスの方向性　in　東京」に袴田社長がご登壇されました！<br /></span>
 
-
-
-
-</div>
-</div>
-</div>
+<br>
