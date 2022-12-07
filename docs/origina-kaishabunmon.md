@@ -122,8 +122,6 @@ date: 2022-11-20T00:07:21.036Z
 
 <br>
 
-<br>
-
 <div class="">
 
 <div class="tab w-full overflow-hidden border-t"> 
@@ -181,8 +179,6 @@ date: 2022-11-20T00:07:21.036Z
     </div>
 
 <p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
-
-</div>
 
 <br>
 
@@ -247,8 +243,6 @@ date: 2022-11-20T00:07:21.036Z
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>ご入居を検討している方を紹介したい</li> <li>紹介業を検討している事業者を紹介したい</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>介護の事でお悩みの方の相談に乗ってもらいたい</li></ul><br></div></input><br>
 
 <p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
-
-</div>
 
 <br>
 
@@ -387,8 +381,6 @@ o﻿k-remain----------------------------------------
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>自部門の予算・実績に関する内容に関するご質問（主にホーム長以上の皆様）</li> <li>実地指導用の事業所別収支の作成関連のご質問</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>消耗品や備品、ユニフォーム・固定資産等に関するご質問</li><li>稟議書作成や押印関連のご質問</li><li>施設の保守管理、修繕・補修などの手配方法・植栽剪定関連のご質問</li><li>カナミック操作方法、お客様への請求内容等関連のご質問</li><li>CSC・F-revoの操作・入力方法等のご質問</li><li>新たに業務システムを導入・変更に関するご質問</li><li>システムの不具合・機能等に関するご質問</li></ul><br></div></input><br>
 
 <p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
-
-<br>
 
 <br>
 
