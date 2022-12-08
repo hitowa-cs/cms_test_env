@@ -280,9 +280,13 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営1課</span>：千葉第1、千葉第2エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営2課</span>： 埼玉第1、埼玉第2エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline">■運営3課</span>： 東京第1・中部、東京第2エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営4課</span>：神奈川第1・関西、神奈川第2・沖縄エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営5課</span>：北海道第１、北海道第2・仙台エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営支援課</span>：運営基準管理チーム、実務研修担当、リスク担当</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営企画課</span>：新規開設チーム、企画チーム</span></div>
 
-<p><a href="/app/s96da70f606bae585/p99f1ec492869294f/" title="エリア表／エリア長紹介" data-mce-href="/app/s96da70f606bae585/p99f1ec492869294f/"><span style="text-decoration: underline; color: #ff0000;" data-mce-style="text-decoration: underline; color: #ff0000;">※エリア表はこちら</span></a></p>
+<a href="/app/s96da70f606bae585/p99f1ec492869294f/" title="エリア表／エリア長紹介" data-mce-href="/app/s96da70f606bae585/p99f1ec492869294f/"><span class="text-sm text-left text-red-500 underline">※エリア表はこちら</span></a>
 
-o﻿k-remain----------------------------------------
+<br>
+
+<div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
+
+<span class="text-black-600 text-left text-base text-xl font-bold" >今月のニュース</span></div>
 
 <div class="mx-auto overflow-hidden">
 
@@ -290,7 +294,35 @@ o﻿k-remain----------------------------------------
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s96da70f606bae585/image/i00b0a7d01843e515/version/1556067908/image.jpg" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s5.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+
+        </div>
+
+        <div class="">
+
+          <div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
+
+            <p class="text-lg">今年も早くも残り1ヶ月となりました。コロナの状況にもよりますが、年末年始は多くのご家族が来設されますので、挨拶やお辞儀等の礼節を意識しましょう。心身ともに健やかに、そしてフレッシュな気持ちで新年を迎えましょう。</p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div><br>
+
+<div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
+
+<span class="text-black-600 text-left text-base text-lg font-bold" >お問い合わせ先</sapn></div>
+
+<div class="mx-auto overflow-hidden">
+
+        <div class="flex flex-row flex-nowrap">
+
+          <div class="md:shrink-0">
+
+          <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s5.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
 
         </div>
 
@@ -307,6 +339,8 @@ o﻿k-remain----------------------------------------
       </div>
 
     </div><br>
+
+
 
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>施設運用ルール、お客様のサービス内容について知りたい</li> </ul><br></div></input><br>
 
