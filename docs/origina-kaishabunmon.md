@@ -466,7 +466,9 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=283x10000:format=png/path/s96da70f606bae585/image/i699dc2585807837f/version/1664524653/image.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s7.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+
+
 
         </div>
 
@@ -532,7 +534,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=png/path/s96da70f606bae585/image/ib73086ba924d59ea/version/1591151021/image.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s8.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
 
         </div>
 
@@ -558,7 +560,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=png/path/s96da70f606bae585/image/ib73086ba924d59ea/version/1591151021/image.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s8.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
 
         </div>
 
