@@ -132,7 +132,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-two"><b>開発部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-two"><b>開発部</b><span class="text-red-500 text-base font-bold"></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -192,7 +192,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-three"><b>営業部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-three"><b>営業部</b><span class="text-red-500 text-base font-bold">　</label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -324,7 +324,7 @@ o﻿k-remain----------------------------------------
 
 <input class="absolute opacity-0 " id="tab-multi-five" type="checkbox" fname="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-five"><b>経営管理部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-five"><b>経営管理部</b><span class="text-red-500 text-base font-bold">　</label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
@@ -394,7 +394,7 @@ o﻿k-remain----------------------------------------
 
 <input class="absolute opacity-0 " id="tab-multi-six" type="checkbox" fname="tabs">
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-six"><b>人事部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-six"><b>人事部</b><span class="text-red-500 text-base font-bold"></label>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
 
