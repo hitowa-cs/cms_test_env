@@ -394,7 +394,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=114x114:mode=crop:format=jpg/path/s96da70f606bae585/image/i9df0136268a588f3/version/1557712814/image.jpg" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s6.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
 
         </div>
 
