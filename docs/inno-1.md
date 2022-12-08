@@ -30,7 +30,7 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 ![](/images/1574302761-1-.png)
 
-<br>
+
 
 <span class="text-sm text-black-600">介護はこれまで介護職の方々の力、想いに支えられて今日まで歩みを進めてきました。しかし遠くない未来、ケアとは介護業務にとどまらず、</span><span class="text-sm font-bold text-red-600">人とテクノロジーが協力してお客様の人生そのものを支えるより大きなものとなる</span><span class="text-sm">でしょう。それは地域、ご家族様、他業種、ケアスタッフ、そしてお客様までもがテクノロジーを活用し、手を取り合ってケアを創っていくという新しい未来です。</span> 
 
@@ -38,7 +38,7 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 ![](/images/1574302876.png)
 
-<﻿br>
+<br>
 
 <span class="text-black-600 text-sm">介護ロボットとは、ケアをする人・受ける人をサポートする目的で使用する先進機器やシステムの総称です。現在、厚生労働省と経済産業省が介護分野での活用を推進しています。私たちは導入にあたり、どの業務にどのように活用すべきか、運用の方法を検討する必要があります。</span><br>
 
