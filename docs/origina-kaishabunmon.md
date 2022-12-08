@@ -268,10 +268,6 @@ date: 2022-11-20T00:07:21.036Z
 
 <br>
 
-<div class="bg-green-500 bg-opacity-100 p-2 w-full h-full">
-
-<span class="text-xl text-black  text-base font-bold">運営部</div><br>
-
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
 <span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
@@ -287,6 +283,8 @@ date: 2022-11-20T00:07:21.036Z
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
 <span class="text-black-600 text-left text-base text-xl font-bold" >今月のニュース</span></div>
+
+<br>
 
 <div class="mx-auto overflow-hidden">
 
@@ -315,6 +313,8 @@ date: 2022-11-20T00:07:21.036Z
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
 <span class="text-black-600 text-left text-base text-lg font-bold" >お問い合わせ先</sapn></div>
+
+<br>
 
 <div class="mx-auto overflow-hidden">
 
