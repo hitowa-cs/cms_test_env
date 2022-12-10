@@ -57,7 +57,7 @@ date: 2022-12-10T02:32:49.958Z
 
 <span class="text-black-600 text-center text-xl font-bold">従業員数</span>
 
-<img class="float-none p-10" src="/images/h5.png">
+<img class="float-none p-12" src="/images/h5.png">
 
 <div class="text-center ">
 
