@@ -1,0 +1,442 @@
+---
+title: newtest.html
+layout: full-width
+categories:
+  - new
+date: 2022-12-10T02:32:49.958Z
+---
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
+
+</head>
+
+
+
+<body>
+
+<br>
+
+<br>
+
+<div class="sm:grid sm:grid-cols-2 gap-4 text-xm -center">
+
+
+
+<div class="mx-10 text-center">
+
+<span class="text-black-600 text-center text-xl font-bold">売上</span>
+
+
+
+<img class="float-none p-2" src="photo4.jpg">
+
+<div class="text-center ">
+
+<hr class=""></div>
+
+<div class="bg-blue-100 text-center bg-opacity-50 p-2">
+
+<span class="text-black-600 text-center text-xl font-bold">330 億円(2021年度)</span></div>
+
+<hr class="border-2 border-blue-500 border-blue-800 " /><br>
+
+</div>
+
+<!-- ... -->
+
+<div class="mx-10 text-center">
+
+<span class="text-black-600 text-center text-xl font-bold">従業員数</span>
+
+<img class="float-none p-2" src="photo4.jpg">
+
+<div class="text-center ">
+
+<hr class=""></div>
+
+<div class="bg-blue-100 text-center bg-opacity-50 p-2">
+
+<span class="text-black-600 text-center text-xl font-bold">330 億円(2021年度)</span></div>
+
+<hr class="border-2 border-blue-500 border-blue-800 " /><br>
+
+</div>
+
+</div>
+
+<div class="sm:grid sm:grid-cols-2 gap-4 text-xm -center">
+
+
+
+<div class="mx-10 text-center">
+
+<span class="text-black-600 text-center text-xl font-bold">施設数</span>
+
+
+
+<img class="float-none p-2" src="photo4.jpg">
+
+<div class="text-center ">
+
+<hr class=""></div>
+
+<div class="bg-blue-100 text-center bg-opacity-50 p-2">
+
+<span class="text-black-600 text-center text-xl font-bold">330 億円(2021年度)</span></div>
+
+<hr class="border-2 border-blue-500 border-blue-800 " /><br>
+
+</div>
+
+<!-- ... -->
+
+<div class="mx-10 text-center justify-center">
+
+<span class="text-black-600 text-center text-xl font-bold">居室数</span>
+
+<img class="float-none p-2" src="photo4.jpg">
+
+<div class="text-center ">
+
+<hr class=""></div>
+
+<div class="bg-blue-100 text-center bg-opacity-50 p-2">
+
+<span class="text-black-600 text-center text-xl font-bold">330 億円(2021年度)</span></div>
+
+<hr class="border-2 border-blue-500 border-blue-800 " /><br>
+
+</div>
+
+</div>
+
+<table align="" border="0" cellspacing="0" cellpadding="5" width="100%" height="100%" class="mceEditable" style="margin-left: auto; margin-right: auto; border: 0px solid rgba(0, 0, 0, 0);">
+
+<tbody>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2002年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul>
+
+<li><span style="color: #000000;">介護サービス事業を開始</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2003年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul>
+
+<li><span style="color: #000000;">有料老人ホーム第１号 <strong>イリーゼふなばし(千葉県)&nbsp;</strong>をオープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2004年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01">
+
+<li><span style="font-size: 16px; color: #000000;">通所介護サービス第１号&nbsp;<strong>イリーゼ光が丘デイサービスセンター(東京都)&nbsp;</strong>をオープン</span></li>
+
+<li><span style="font-size: 16px; color: #000000;">埼玉県に&nbsp;<strong>イリーゼふじみの(埼玉県)</strong> を初オープン (24時間看護職員常駐施設)</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2005年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="color: #000000;">神奈川県に <strong>イリーゼあざみ野&nbsp;</strong>を初オープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2006年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01">
+
+<li><span style="font-size: 16px; color: #000000;">長谷川興産株式会社イリーゼ事業本部から独立し、株式会社イリーゼを発足</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2009年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">千葉県市川市より民間初の指定管理を受け <strong>市川市南行徳デイサービスセンター</strong> 及び <strong>老人いこいの家</strong> をオープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2010年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">株式会社イリーゼから長谷川介護サービス株式会社に社名変更</span></li>
+
+<li><span style="font-size: 16px; color: #000000;">保育園を併設した&nbsp;<strong>イリーゼ船橋三咲&nbsp;</strong>、&nbsp;<strong>イリーゼ町田井の花デイサービスセンター&nbsp;</strong>をオープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2013年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">沖縄県にリゾート立地有料老人ホームとして、<strong>イリーゼ今帰仁&nbsp;</strong>を初オープン</span></li>
+
+<li><span style="font-size: 16px; color: #000000;">施設数50施設達成</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2015年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">社会福祉法人聖母の会より&nbsp;<strong>イリーゼ・セントベル諏訪湖&nbsp;</strong>、&nbsp;<strong>イリーゼ高島城&nbsp;</strong>、&nbsp;<strong>イリーゼ岡谷&nbsp;</strong>を事業承継</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2016年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">株式会社さんわケアサービスより <strong>イリーゼ八千代台</strong> を事業承継</span></li>
+
+<li><span style="font-size: 16px; color: #000000;">施設数100施設達成</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2017年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">兵庫県に <strong>イリーゼ神戸六甲&nbsp;</strong>、滋賀県に <strong>イリーゼ草津&nbsp;</strong>を初オープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2018年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">宮城県に&nbsp;<strong>イリーゼ仙台荒井西&nbsp;</strong>を初オープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2019年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">愛知県に&nbsp;<b style="font-size: 16px;">イリーゼ</b><b>瑞穂汐路</b><b style="font-size: 16px;">&nbsp;</b>を初オープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2020年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li><span style="font-size: 16px; color: #000000;">埼玉県に&nbsp;<b style="font-size: 16px;">イリーゼ</b><b>狭山・冨士見</b><b style="font-size: 16px;">&nbsp;</b>をオープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);" nowrap="nowrap">
+
+<p><span style="font-size: 14px; font-weight: bold; text-align: center; color: #000000;">2021年</span></p>
+
+</td>
+
+<td style="border: 0px solid rgba(0, 0, 0, 0);">
+
+<ul class="list01" style="font-size: 16px;">
+
+<li>神奈川県に<strong>イリーゼ横浜旭</strong>&nbsp;をオープン</li>
+
+<li><span style="font-size: 16px; color: #000000;">埼玉県に<strong>イリーゼふじみ野・別邸</strong>、<strong>イリーゼ新座市役所前</strong>&nbsp;をオープン</span></li>
+
+<li><span style="font-size: 16px; color: #000000;">千葉県に<strong>イリーゼ四街道</strong>、<strong>イリーゼ船橋緑台</strong>、<strong>イリーゼ西志津</strong><b>&nbsp;</b>をオープン</span></li>
+
+<li><span style="font-size: 16px; color: #000000;">東京都に<strong>イリーゼ福生</strong><b>&nbsp;</b>をオープン</span></li>
+
+<li><span style="font-size: 16px; color: #000000;">宮城県に<strong>イリーゼ仙台南光台</strong><b>&nbsp;</b>をオープン</span></li>
+
+</ul>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
