@@ -9,17 +9,7 @@ date: 2022-12-10T02:32:49.958Z
 
 <meta charset="UTF-8">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-<script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
-
-</head>
-
-
-
-<body>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head><body>
 
 <br>
 
@@ -27,13 +17,9 @@ date: 2022-12-10T02:32:49.958Z
 
 <div class="sm:grid sm:grid-cols-2 gap-4 text-xm -center">
 
-
-
 <div class="mx-10 text-center">
 
 <span class="text-black-600 text-center text-xl font-bold">売上</span>
-
-
 
 <img class="float-none p-2" src="photo4.jpg">
 
@@ -73,13 +59,9 @@ date: 2022-12-10T02:32:49.958Z
 
 <div class="sm:grid sm:grid-cols-2 gap-4 text-xm -center">
 
-
-
 <div class="mx-10 text-center">
 
 <span class="text-black-600 text-center text-xl font-bold">施設数</span>
-
-
 
 <img class="float-none p-2" src="photo4.jpg">
 
@@ -440,3 +422,5 @@ date: 2022-12-10T02:32:49.958Z
 </tbody>
 
 </table>
+
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
