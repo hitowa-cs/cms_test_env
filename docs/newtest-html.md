@@ -13,6 +13,22 @@ date: 2022-12-10T02:32:49.958Z
 
 <br>
 
+<h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/19</h1>
+
+<br>
+
+<div class="flex flex-wrap justify-center">
+
+<img src="/images/h1.png" class="max-w-full  h-auto" alt="..." ><br>
+
+</div>
+
+
+
+<br>
+
+<p class="text-3xl text-blue-600 text-center font-bold">事業規模</p>
+
 <br>
 
 <div class="sm:grid sm:grid-cols-2 gap-4 text-xm -center">
