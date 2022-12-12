@@ -1,55 +1,74 @@
-var responsiveSlider = function () {
-    var slider = document.getElementById("slider");
-    var sliderWidth = slider.offsetWidth;
-    var slideList = document.getElementById("slideWrap");
-    var count = 1;
-    var items = slideList.querySelectorAll("li").length;
-    var prev = document.getElementById("prev");
-    var next = document.getElementById("next");
+jQuery(document).ready(function($) {
 
-    window.addEventListener('resize', function () {
-        sliderWidth = slider.offsetWidth;
+    $('.simple-slider-wrapper').each(function() {
+        const this_slider = $(this);
+        
+        const slides = this_slider.find('ul li');
+        const control_prev = this_slider.find('.control_prev');
+        const control_next = this_slider.find('.control_next');
+
+        function slider_init() {
+            if (slides.length > 1) {
+                control_prev.css('display', 'block');
+                control_next.css("display", "block");
+            }
+        }
+        slider_init();
+
+        function moveRight() {
+            // move last child to beginning of list and set list position to -100%
+            this_slider.find('ul li:last-child').prependTo(this_slider.find('ul'));
+            slides.css('left', '-100%');
+            // move all list elements to right
+            slides.stop().animate({ left: 0 }, 500);
+        };
+
+        function moveLeft() {
+            // move all list elements to left
+            const arr = [ slides.stop().animate({ left: '-100%' }, 500).promise() ]
+            // after animation end move first child to end of list and set list position to 0
+            $.when.apply($, arr).then(function() {
+                this_slider.find('ul li:first-child').appendTo(this_slider.find('ul'));
+                slides.css('left', 0);
+            });
+        };
+
+        control_prev.on("click", function () {
+            if (slides.length > 1) {
+                moveRight();
+            }
+        });
+
+        control_next.on("click", function () {
+            if (slides.length > 1) {
+                moveLeft();
+            }
+        });
+
+        // autoplay
+        function setAutoplay() {
+            let is_slider_on = true;
+            let autoplay = setInterval(function () {
+                if (slides.length > 1) {
+                    moveLeft();
+                }
+            }, 3000);
+
+            this_slider.on('mouseenter', function() {
+                clearInterval(autoplay);
+                is_slider_on = false;
+            });
+
+            this_slider.on('mouseleave', function() {
+                if (!is_slider_on) {
+                    autoplay = setInterval(function () {
+                        moveLeft();
+                    }, 3000);
+									is_slider_on = true;
+                }
+            });
+        }
+        setAutoplay();
     });
 
-    var prevSlide = function () {
-        if (count > 1) {
-            count = count - 2;
-            slideList.style.left = "-" + count * sliderWidth + "px";
-            count++;
-        }
-        else if (count = 1) {
-            count = items - 1;
-            slideList.style.left = "-" + count * sliderWidth + "px";
-            count++;
-        }
-    };
-
-    var nextSlide = function () {
-        if (count < items) {
-            slideList.style.left = "-" + count * sliderWidth + "px";
-            count++;
-        }
-        else if (count = items) {
-            slideList.style.left = "0px";
-            count = 1;
-        }
-    };
-
-    next.addEventListener("click", function () {
-        nextSlide();
-    });
-
-    prev.addEventListener("click", function () {
-        prevSlide();
-    });
-
-    setInterval(function () {
-        nextSlide()
-    }, 3000);
-
-};
-
-window.onload = function () {
-    responsiveSlider();
-}
-
+});
