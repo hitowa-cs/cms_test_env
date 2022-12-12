@@ -11,35 +11,27 @@ date: 2022-12-12T04:05:56.967Z
 
 <div class="slide">
 
-<img src="img/photo1.jpg" alt="">
+<img src="/images/1574302761.png" alt="">
 
 </div>
-
-
 
 <div class="slide">
 
-<img src="img/photo2.jpg" alt="">
+<img src="/images/1574302761.png" alt="">
 
 </div>
-
-
 
 <div class="slide">
 
-<img src="img/photo3.jpg" alt="">
+<img src="/images/1574302761.png" alt="">
 
 </div>
-
-
 
 <div class="slide">
 
 <img src="img/photo4.jpg" alt="">
 
 </div>
-
-
 
 <button class="slider__btn slider__btn--left">&#10094;</button>
 
@@ -49,11 +41,7 @@ date: 2022-12-12T04:05:56.967Z
 
 </div>
 
-
-
 <hr> <!-- This to separate the slider (optional)-->
-
-
 
 <div class="slider">
 
@@ -63,15 +51,11 @@ date: 2022-12-12T04:05:56.967Z
 
 </div>
 
-
-
 <div class="slide">
 
 <img src="img/photo2.jpg" alt="">
 
 </div>
-
-
 
 <div class="slide">
 
@@ -79,15 +63,11 @@ date: 2022-12-12T04:05:56.967Z
 
 </div>
 
-
-
 <div class="slide">
 
 <img src="img/photo4.jpg" alt="">
 
 </div>
-
-
 
 <button class="slider__btn slider__btn--left">&#10094;</button>
 
@@ -97,11 +77,7 @@ date: 2022-12-12T04:05:56.967Z
 
 </div>
 
-
-
 <hr> <!-- This to separate the slider (optional)-->
-
-
 
 <div class="slider">
 
@@ -111,15 +87,11 @@ date: 2022-12-12T04:05:56.967Z
 
 </div>
 
-
-
 <div class="slide">
 
 <img src="img/photo2.jpg" alt="">
 
 </div>
-
-
 
 <div class="slide">
 
@@ -127,15 +99,11 @@ date: 2022-12-12T04:05:56.967Z
 
 </div>
 
-
-
 <div class="slide">
 
 <img src="img/photo4.jpg" alt="">
 
 </div>
-
-
 
 <button class="slider__btn slider__btn--left">&#10094;</button>
 
