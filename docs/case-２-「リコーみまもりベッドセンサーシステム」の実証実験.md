@@ -5,10 +5,7 @@ categories:
   - new
 date: 2022-11-08T07:11:32.322Z
 ---
-<html lang="en"><head><script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></script><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Document</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"><script src="/images/scripts.js"></script><style>body {margin: 10%;margin-left:20%;}#slider {position: relative;width: 1000px;height: 500px;
- overflow: hidden;box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);}#slider ul {position: relative;
-list-style: none;height: 100%;width: 10000%;padding: 0;margin: 0;transition: all 750ms ease;left: 0;}#slider ul li {position: relative;height: 100%;float: left;}#slider ul li img{width: 1000px;height: 500px;}#slider #prev, #slider #next {width: 50px;line-height: 50px;
-border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text-align: center;color: white;text-decoration: none;position: absolute;top: 50%;transform: translateY(-50%);transition: all 150ms ease;}#slider #prev:hover, #slider #next:hover {background-color: rgba(0, 0, 0, 0.5);text-shadow: 0;}#slider #prev {left: 10px;}#slider #next {right: 10px;}</style></head>
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="/images/scripts.js"><script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script><style>.carousel-indicators {margin-bottom: -100px;static;}.carousel-indicators button[data-target] {width: 50px;}</style></head>
 
 <br>
 
@@ -28,27 +25,15 @@ border-radius: 50%;font-size: 2rem;text-shadow: 0 0 20px rgba(0, 0, 0, 0.6);text
 
 <div class="border-2 border-black text-sm rounded-md  p-2 mr-2"><ul class="list-disc list-inside "> ＜実証実験概要＞<P>施設：イリーゼ東久留米</p> <p>期間：2019年5月13日－8月29日</p> <p>対象：１階フロアの全室（20室）</p></ul><br></div></input><br>
 
-<body>
+<br>
 
-<div id="slider">
+<!-- Carousel Start --><div id="carouselsliderdemo" data-interval=3000 class="carousel slide" data-ride="carousel"><div class="carousel-inner"><div class="carousel-item active"><img src="/images/case1-1.png" class="d-block w-100"></div><div class="carousel-item"><img src="/images/case1-2.png" class="d-block w-100"></div><div class="carousel-item"><img src="/images/case1-3.png" class="d-block w-100"></div><div class="carousel-item"><img src="/images/case1-4.png" class="d-block w-100"></div></div><div class="carousel-indicators"><button type="button" data-target="#carouselsliderdemo" class="active img-thumbnail"data-slide-to="0"><img src="/images/case1-1.png" alt="" class="d-block w-100"></button><button type="button" data-target="#carouselsliderdemo" class="img-thumbnail" data-slide-to="1"><img src="/images/case1-2.png" alt="" class="d-block w-100"></button><button type="button" data-target="#carouselsliderdemo" class="img-thumbnail" data-slide-to="2"><img src="/images/case1-3.png" alt="" class="d-block w-100"></button><button type="button" data-target="#carouselsliderdemo" class="img-thumbnail" data-slide-to="3"><img src="/images/case1-4.png" alt="" class="d-block w-100"></button></div></div>
 
-<ul id="slideWrap">
+<br>
 
-<li><img src="/images/case2-1-slide.png" alt=""></li>
+<br>
 
-<li><img src="/images/case2-2-slide.png" alt=""></li>
-
-<li><img src="/images/case2-3-slide.png" alt=""></li>
-
-<li><img src="/images/case2-4-slide.png" alt=""></li>
-
-</ul>
-
-<a id="prev" href="#">&#10094;</a>
-
-<a id="next" href="#">&#10095;</a>
-
-</div>
+<br>
 
 <br>
 
