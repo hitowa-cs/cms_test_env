@@ -1,5 +1,5 @@
 ---
-title: newtest.html
+title: 事業規模·沿革
 layout: full-width
 categories:
   - new
