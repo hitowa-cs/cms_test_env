@@ -13,7 +13,7 @@ date: 2022-11-09T09:37:48.500Z
 
 <hr class="border-dashed border-black "></hr><script src="https://cdn.tailwindcss.com"></script><style>/* Tab content - closed */.tab-content {max-height: 0;-webkit-transition: max-height .35s;-o-transition: max-height .35s;transition: max-height .35s;}/* :checked - resize to full height */.tab input:checked~.tab-content {max-height: 200vh;}/* Icon */.tab label::after {float: right;right: 0;top: 0;display: block;width: 1.5em;height: 1.5em;line-height: 1.5;font-size: 1.25rem;text-align: center;-webkit-transition: all .35s;-o-transition: all .35s;transition: all .35s;}/* Icon formatting - closed */.tab input[type=checkbox]+label::after {content: "+";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}.tab input[type=radio]+label::after {content: "\25BE";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}/* Icon formatting - open */.tab input[type=checkbox]:checked+label::after {transform: rotate(315deg);/*.bg-indigo*/color: #f8fafc;/*.text-grey-lightest*/}</style></head>
 
-<div class="bg-blue-500 text-center font-bold bg-opacity-100 p-2  "><span class="text-lg  text-white font-bold ">Topics & News</a></span></div><br> 
+<div class="bg-blue-500 text-center font-bold bg-opacity-100 p-2  mx-auto p-2  "><span class="text-lg  text-white font-bold ">Topics & News</a></span></div><br> 
 
 <div class="border-2 border-black text-center rounded-md outline- 4 p-2 ">TOPICS</div></input>
 
