@@ -5,7 +5,15 @@ categories:
   - new
 date: 2022-11-09T09:37:48.500Z
 ---
-<div class="bg-blue-600 text-center font-bold bg-opacity-100 mx-auto p-3 w-full h-full"><span class="text-2xl  text-center  text-white font-bold ">Topics & News</a></span></div><br> 
+
+
+<html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"><script src="https://cdn.tailwindcss.com"></script><script src="https://unpkg.com/tailwindcss-jit-cdn"></script></head>
+
+
+
+<hr class="border-dashed border-black "></hr><script src="https://cdn.tailwindcss.com"></script><style>/* Tab content - closed */.tab-content {max-height: 0;-webkit-transition: max-height .35s;-o-transition: max-height .35s;transition: max-height .35s;}/* :checked - resize to full height */.tab input:checked~.tab-content {max-height: 200vh;}/* Icon */.tab label::after {float: right;right: 0;top: 0;display: block;width: 1.5em;height: 1.5em;line-height: 1.5;font-size: 1.25rem;text-align: center;-webkit-transition: all .35s;-o-transition: all .35s;transition: all .35s;}/* Icon formatting - closed */.tab input[type=checkbox]+label::after {content: "+";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}.tab input[type=radio]+label::after {content: "\25BE";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}/* Icon formatting - open */.tab input[type=checkbox]:checked+label::after {transform: rotate(315deg);/*.bg-indigo*/color: #f8fafc;/*.text-grey-lightest*/}</style></head>
+
+<div class="bg-blue-500 text-center font-bold bg-opacity-100 p-2  "><span class="text-lg  text-white font-bold ">Topics & News</a></span></div><br> 
 
 <div class="border-2 border-black text-center rounded-md outline- 4 p-2 ">TOPICS</div></input>
 
@@ -47,23 +55,17 @@ date: 2022-11-09T09:37:48.500Z
 
 <br>
 
-    <script src="https://cdn.tailwindcss.com"></script>
-
- <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style> /* Tab content - closed */.tab-content { max-height: 0; -webkit-transition: max-height .35s; -o-transition: max-height .35s; transition: max-height .35s; } /* :checked - resize to full height */ .tab input:checked ~ .tab-content { max-height: 200vh; } /* Label formatting when open */ .tab input:checked + label{ /*@apply text-xl p-5 border-l-2 border-indigo-500 bg-gray-100 text-indigo*/ font-size: 1.25rem; /*.text-xl*/ padding: 1.25rem; /*.p-5*/ border-left-width: 2px; /*.border-l-2*/ border-color: #6574cd; /*.border-indigo*/ background-color: #f8fafc; /*.bg-gray-100 */ color: #6574cd; /*.text-indigo*/ } /* Icon */ .tab label::after { float:right; right: 0; top: 0; display: block; width: 1.5em; height: 1.5em; line-height: 1.5; font-size: 1.25rem; text-align: center; -webkit-transition: all .35s; -o-transition: all .35s; transition: all .35s; } /* Icon formatting - closed */ .tab input[type=checkbox] + label::after { content: "+"; font-weight:bold; /*.font-bold*/ border-width: 1px; /*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } .tab input[type=radio] + label::after { content: "\25BE"; font-weight:bold; /*.font-bold*/ border-width: 1px; /*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } /* Icon formatting - open */ .tab input[type=checkbox]:checked + label::after { transform: rotate(315deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } .tab input[type=radio]:checked + label::after { transform: rotateX(180deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } </style> 
-
-</head> <body class="font-sans container">
+<br>
 
 <div class="">
 
-<div class=" flex flex-col space-y-4 ">
+<div class="tab w-full overflow-hidden border-t">
 
-<div class="tab w-full  text-xl text-black overb cxflow-hidden border-t">
+<div class=" flex flex-col space-y-4">
 
-<input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-blue-300 leading-normal text-center cursor-pointer" for= "tab-multi-one"><b>MORE</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
 
-<label class="block p-4 text-lg rounded-md bg-blue-300 text-center  leading-normal cursor-pointer " for="tab-multi-one"><b>MORE</b></label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
+</div>
 
 <br>
 
@@ -105,7 +107,6 @@ date: 2022-11-09T09:37:48.500Z
 
 <span class="text-sm text-left">●　2019.03</span>
 
-
 <span class="text-sm text-left">「イリーゼ西大宮」にて記録システム「NOTICE」の試験導入を開始しました！</span></span></p>
 
 <br>
@@ -118,23 +119,17 @@ date: 2022-11-09T09:37:48.500Z
 
 <br>
 
-
 <span class="text-sm text-left">●　2019.02</span>
 
 <span class="text-sm text-left">既存施設の実証施設として「イリーゼ西大宮」に「みまもり安心サービス」が導入されました！</span></span></p>
 
 <br>
 
-
-
 <span class="text-sm text-left">●　2019.03.01</span>
 
 <span class="text-sm text-left">Care Innovation Teamが正式発足されました</span></span>
 
-
-
 <span class="text-sm text-left">●　2019.03.01</span>
-
 
 <span class="text-sm text-left">新規としては2棟目となる実証施設「イリーゼ練馬石神井台」がOPEN！全居室に「みまもり安心サービス」を導入</span></span></p>
 
@@ -150,22 +145,17 @@ date: 2022-11-09T09:37:48.500Z
 
 <br>
 
-
-
 <span class="text-sm text-left">●　2021.08</span><span class="text-lg text-left  text-red-600"><b>　New!!</b></span>
-
 
 <p style="text-align: left;"><span style="font-size: 14px; color: #000000;">見守りシステム「ライフレンズ」の共同開発の経緯について、高齢者住宅新聞に掲載され、同社ニュースサイトにアップされました</span></p>
 
 <br>
-
 
 <br>
 
 <span class="text-sm text-left">●　2020.07</span>
 
 <span class="text-sm">高齢者住宅新聞社主催の「業務改善・収益改善セミナー」にて執行役員 山本部長（事業企画室）が、ICT導入で業務改善を図るをテーマに講演されました</span></p>
-
 
 <br>
 
@@ -183,15 +173,13 @@ date: 2022-11-09T09:37:48.500Z
 
 <div class="">
 
-<div class=" lex flex-col space-y-4">
+<div class="tab w-full overflow-hidden border-t">
 
-<div class="tab w-full  text-xl text-black overb cxflow-hidden border-t">
+<div class=" flex flex-col space-y-4">
 
-<input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-blue-300 leading-normal text-center cursor-pointer" for= "tab-multi-two"><b>MORE</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
 
-<label class="block p-4 text-lg rounded-md bg-blue-300 text-center  leading-normal cursor-pointer " for="tab-multi-two"><b>MORE</b></label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
+</div>
 
 <br>
 
@@ -222,7 +210,6 @@ date: 2022-11-09T09:37:48.500Z
 <span class="text-sm text-left">●　2018.11.17</span>
 
 <span class="text-sm">シニアビジネスマーケット【3月号】で、HITOWAの「IoT/AIの活用」に関する取り組みが紹介されました！</span></u></a><br /></span></p>
-
 
 <br>
   
