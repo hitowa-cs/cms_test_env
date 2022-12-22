@@ -40,7 +40,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-one">事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content"></div>
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-one">事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
 </div>
 
@@ -110,7 +110,21 @@ date: 2022-11-20T00:07:21.036Z
 
     </div>
 
-<p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<br>
+
+<div class="border-2 text-sm border-gray-300 rounded-md outline- 4 p-2 "><br>
+
+<ul class="list-disc list-inside "> <li>業界動向や介護保険法改正動向、対外折衝方法等でお困りの場合</li> <li>IT活用方法、こんな事出来たらいいな等アイデアがある</li> <li>「こんなテクノロジーで問題を解決できないか？」「世の中にはこんなテクノロジーがあるよ！」などの提案がある</li></ul><br></div></input><br>
+
+
+
+
+
+
+
+
+
+<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
 <br>
 
