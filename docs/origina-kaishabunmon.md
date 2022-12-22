@@ -100,7 +100,7 @@ date: 2022-11-20T00:07:21.036Z
 
  <div class="p-2 rounded-md bg-blue-300 flex-initial w-100 h-20 bg-opacity-50 text-black">
 
-            <p class="text-lg"> こんなことに困ったらお問い合わせください！</p>
+            <p class="text-sm"> こんなことに困ったらお問い合わせください！</p>
 
           </div>
 
