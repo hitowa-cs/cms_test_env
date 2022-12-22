@@ -216,7 +216,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-           <figure class="text-sm p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s4.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+           <figure class="text-sm p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s4.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">渡辺部長</figcaption></figure>
 
         </div>
 
@@ -236,7 +236,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="text-lg border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>ご入居を検討している方を紹介したい</li> <li>紹介業を検討している事業者を紹介したい</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>介護の事でお悩みの方の相談に乗ってもらいたい</li></ul><br></div></input><br>
 
-<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉syoukai@irs.jp<br> 📞03-6632-4305</p></div>
 
 <br>
 
@@ -252,7 +252,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-four"><b>運営部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-four"><b>運営部</b><span class="text-red-500 text-base font-bold">　New!!</span></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
 </div>
 
@@ -282,7 +282,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s5.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s5.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">更科部長</figcaption></figure>
 
         </div>
 
@@ -312,7 +312,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-          <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s5.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+          <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s5.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">更科部長</figcaption></figure>
 
         </div>
 
@@ -330,9 +330,9 @@ date: 2022-11-20T00:07:21.036Z
 
     </div><br>
 
-<div class="text-sm border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>施設運用ルール、お客様のサービス内容について知りたい</li> </ul><br></div></input><br>
+<div class="text-lg border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>施設運用ルール、お客様のサービス内容について知りたい</li> </ul><br></div></input><br>
 
-<p class="text-center text-sm">問い合わせ先<br> ✉Test-new@Test.jp<br> 運営一部 ✉Test-1@Test.jp<br> 運営二部 ✉unei-2@irs.jp<br> 運営三部 ✉Test-3@Test.jp<br> 📞03-6095</p></div>
+<p class="text-center text-sm">問い合わせ先<br>運営一部 ✉unei-1@irs.jp<br>運営二部 ✉unei-2@irs.jp<br>運営三部 ✉unei-3@irs.jp<br> 📞03-6738-6095</p></div>
 
 <br>
 
@@ -378,7 +378,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s6.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s6.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">高田部長</figcaption></figure>
 
         </div>
 
@@ -398,7 +398,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>自部門の予算・実績に関する内容に関するご質問（主にホーム長以上の皆様）</li> <li>実地指導用の事業所別収支の作成関連のご質問</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>消耗品や備品、ユニフォーム・固定資産等に関するご質問</li><li>稟議書作成や押印関連のご質問</li><li>施設の保守管理、修繕・補修などの手配方法・植栽剪定関連のご質問</li><li>カナミック操作方法、お客様への請求内容等関連のご質問</li><li>CSC・F-revoの操作・入力方法等のご質問</li><li>新たに業務システムを導入・変更に関するご質問</li><li>システムの不具合・機能等に関するご質問</li></ul><br></div></input><br>
 
-<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉keieikanrika@irs.jp<br>📞03-6630-2868</p></div>
 
 <br>
 
@@ -442,7 +442,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s7.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s7.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">陸田次長</figcaption></figure>
 
         </div>
 
@@ -462,7 +462,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>入退社・給与・各種研修・評価制度について知りたい</li> <li>結婚・出産・引越しした場合などの手続きについて知りたい</li> <li>ご入居を検討している方を紹介したい</li> <li>自社で行っている採用活動について知りたい</li> <li>どんな研修があるのか知りたい</li></ul><br></div></input><br>
 
-<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p>
+<p class="text-center text-sm">問い合わせ先<br> ✉hcs-jinji@irs.jp<br> 📞03-6632-4128</p>
 
 </div>
 
@@ -512,7 +512,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s8.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s8.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">川尻部長</figcaption></figure>
 
         </div>
 
@@ -538,7 +538,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s8.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s8.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">川尻部長</figcaption></figure>
 
         </div>
 
