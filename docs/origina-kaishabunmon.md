@@ -50,13 +50,13 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</span></div>
+<span class=" text-left  text-lg font-bold">仕事内容</span></div>
 
 <br>
 
-<div class="bg-amber-200  text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left   ml-2 font-bold underline">■Care Innovation Team<br></span><span class="text-sm text-left ">介護現場の抱える課題（サービス品質・人員確保・情報共有など）についてテクノロジーを活用した解決策を立案し、導入から活用支援までを行っております。また企業と協働で新たな技術開発も行なっています。</span></div><br>
+<div class=" bg-amber-200  text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left   ml-2 font-bold underline">■Care Innovation Team<br></span><span class="text-lg text-left ">介護現場の抱える課題（サービス品質・人員確保・情報共有など）についてテクノロジーを活用した解決策を立案し、導入から活用支援までを行っております。また企業と協働で新たな技術開発も行なっています。</span></div><br>
 
-<div class="bg-amber-200  text-align-left   text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left  underline ml-2 font-bold underline">■Public Relations Team<br></span><span class="text-sm text-left">HITOWAケアサービスとイリーゼの（ブランド）価値を、進化するメディアに対応しながら魅力的に発信していきます。</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left   text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left  underline ml-2 font-bold underline">■Public Relations Team<br></span><span class="text-lgtext-left">HITOWAケアサービスとイリーゼの（ブランド）価値を、進化するメディアに対応しながら魅力的に発信していきます。</span></div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -76,7 +76,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="p-2 rounded-md bg-blue-300 bg-opacity-50 text-black">
 
-            <p class="text-sm"> スマート介護士という資格をご存じですか？少ない人員で効率的な業務遂行がもとめられるなか、DX化を図り介護の質の向上と効率化を実行できる介護士が「スマート介護士」です。興味があれば事業企画室までお問合わせ下さい。</p>
+            <p class="text-lg"> スマート介護士という資格をご存じですか？少ない人員で効率的な業務遂行がもとめられるなか、DX化を図り介護の質の向上と効率化を実行できる介護士が「スマート介護士」です。興味があれば事業企画室までお問合わせ下さい。</p>
 
           </div>
 
@@ -86,7 +86,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold">お問い合わせ</sapn></div><br>
+<span class="text-lg text-left font-bold">お問い合わせ</sapn></div><br>
 
 <!--StartFragment-->
 
@@ -116,7 +116,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <br>
 
-<div class="border-2 text-sm border-gray-300 rounded-md outline- 4 p-2 "><br>
+<div class="border-2 text-lg border-gray-300 rounded-md outline- 4 p-2 "><br>
 
 <ul class="list-disc list-inside "> <li>業界動向や介護保険法改正動向、対外折衝方法等でお困りの場合</li> <li>IT活用方法、こんな事出来たらいいな等アイデアがある</li> <li>「こんなテクノロジーで問題を解決できないか？」「世の中にはこんなテクノロジーがあるよ！」などの提案がある</li></ul><br></div></input><br>
 
@@ -146,11 +146,11 @@ date: 2022-11-20T00:07:21.036Z
 
 <span class=" text-left text-base text-lg font-bold">仕事内容</sapn></div><br>
 
-<div class="text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span>その名の通り、施設の開発を行うのが主な仕事です。そのためには不動産知識も必要ですが昨今は、何よりも開設後のサービスオペレーションをイメージした施設づくりが重要になります。不動産のみならず現場サービスの知識も必要になってきます。</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span>その名の通り、施設の開発を行うのが主な仕事です。そのためには不動産知識も必要ですが昨今は、何よりも開設後のサービスオペレーションをイメージした施設づくりが重要になります。不動産のみならず現場サービスの知識も必要になってきます。</span></div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-lg text-black-600 text-left text-base font-bold">お問い合わせ</sapn></div><br>
+<span class="text-lg  text-left font-bold">お問い合わせ</sapn></div><br>
 
 <div class="mx-auto overflow-hidden">
 
@@ -202,11 +202,11 @@ date: 2022-11-20T00:07:21.036Z
 
 <span class="text-black-600 text-left text-base text-lg font-bold">仕事内容</sapn></div><br>
 
-<div class="text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  ml-2 font-bold underline ">■営業促進課<br></span>ご入居を検討されているお客様の誘致ならびにご入居までのご案内を実施しています</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  ml-2 font-bold underline ">■営業促進課<br></span>ご入居を検討されているお客様の誘致ならびにご入居までのご案内を実施しています</span></div><br>
 
-<div class="text-sm text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline ml-2 font-bold underline">■営業支援課<br></span>ご入居を検討されているお客様の誘致ならびにご入居後のお客様<wbr>相談窓口として活動しています</span></div><br>
+<div class="text-lg text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline ml-2 font-bold underline">■営業支援課<br></span>ご入居を検討されているお客様の誘致ならびにご入居後のお客様<wbr>相談窓口として活動しています</span></div><br>
 
-<div class="text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline underline-offset-4 ml-2 font-bold underline ">■営業促進課<br></span>マーケティングによる営業活動と法人取引の新規開拓及び管理業務を行っています。</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline underline-offset-4 ml-2 font-bold underline ">■営業促進課<br></span>マーケティングによる営業活動と法人取引の新規開拓及び管理業務を行っています。</span></div><br>
 
 <div style="background: #c6e6f5; padding: 10px;" data-mce-style="background: #c6e6f5; padding: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>お問い合わせ</strong></span></div><br>
 
@@ -234,7 +234,7 @@ date: 2022-11-20T00:07:21.036Z
 
     </div><br>
 
-<div class="text-sm border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>ご入居を検討している方を紹介したい</li> <li>紹介業を検討している事業者を紹介したい</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>介護の事でお悩みの方の相談に乗ってもらいたい</li></ul><br></div></input><br>
+<div class="text-lg border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>ご入居を検討している方を紹介したい</li> <li>紹介業を検討している事業者を紹介したい</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>介護の事でお悩みの方の相談に乗ってもらいたい</li></ul><br></div></input><br>
 
 <p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
@@ -254,7 +254,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-four"><b>運営部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
-</div></div>
+</div>
 
 <br>
 
@@ -290,7 +290,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
 
-            <p class="text-sm">今年も早くも残り1ヶ月となりました。コロナの状況にもよりますが、年末年始は多くのご家族が来設されますので、挨拶やお辞儀等の礼節を意識しましょう。心身ともに健やかに、そしてフレッシュな気持ちで新年を迎えましょう。</p>
+            <p class="text-lg">今年も早くも残り1ヶ月となりました。コロナの状況にもよりますが、年末年始は多くのご家族が来設されますので、挨拶やお辞儀等の礼節を意識しましょう。心身ともに健やかに、そしてフレッシュな気持ちで新年を迎えましょう。</p>
 
           </div>
 
@@ -302,7 +302,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-lg font-bold" >お問い合わせ先</sapn></div>
+<span class="text-lg text-left font-bold" >お問い合わせ先</sapn></div>
 
 <br>
 
@@ -320,7 +320,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
 
-            <p class="text-sm">こんなことに困ったらお問い合わせください！</p>
+            <p class="text-lg">こんなことに困ったらお問い合わせください！</p>
 
           </div>
 
@@ -336,25 +336,21 @@ date: 2022-11-20T00:07:21.036Z
 
 <br>
 
-<div class="">
 
-<div class="tab w-full overflow-hidden border-t"> 
+
+
+
+<div class="5">
+
+<div class="tab w-full overflow-hidden border-t">
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-five" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-five"><b>経営管理部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
-<input class="absolute opacity-0 " id="tab-multi-five" type="checkbox" fname="tabs">
+</div></div>
 
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-five"><b>経営管理部</b><span class="text-red-500 text-base font-bold">　</label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
-
-<div class="cp_actab-content">
-
-<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
-
-</div>
+<br>
 
 <br>
 
@@ -362,19 +358,19 @@ date: 2022-11-20T00:07:21.036Z
 
 <span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■経営管理課<br></span> 予算策定や業績管理・分析・各種の実績配信を中心にして、全社の業績・各種経営指標の取り纏めの業務を行っています。また、システム業務も行っております。</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline underline-offset-4 ml-2 font-bold ">■経営管理課<br></span> 予算策定や業績管理・分析・各種の実績配信を中心にして、全社の業績・各種経営指標の取り纏めの業務を行っています。また、システム業務も行っております。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■総務課<br></span>各種管理（施設消耗品、ユニフォーム、押印、車両等）や各種手配（慶弔、出張、名刺等）を行っております。<br>また福祉用具レンタル、販売の管理も行っています。</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline underline-offset-4 ml-2 font-bold ">■総務課<br></span>各種管理（施設消耗品、ユニフォーム、押印、車両等）や各種手配（慶弔、出張、名刺等）を行っております。<br>また福祉用具レンタル、販売の管理も行っています。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■施設修繕課<br></span> 施設の修繕や営繕、保守の管理を行っております。</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline underline-offset-4 ml-2 font-bold ">■施設修繕課<br></span> 施設の修繕や営繕、保守の管理を行っております。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■請求課<br></span> <br> 国保連合会とご利用者様への請求・入金に関するサポートと管理に加えて、遅延金管理請求に係る入居契約書・契約解除届の確認、システム関連業務を行っております。</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline underline-offset-4 ml-2 font-bold ">■請求課<br></span> <br> 国保連合会とご利用者様への請求・入金に関するサポートと管理に加えて、遅延金管理請求に係る入居契約書・契約解除届の確認、システム関連業務を行っております。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■情報システム課<br></span> <br> 社内の業務システム・IOTなど導入支援や運用管理を中心に、ITに関する予算や課題管理を行い、各PJの遂行及び進捗管理を行っております。※PCやiPadなどIT機器及びGoogle関係のお問い合わせは、HHD情報システム部までお問い合わせください。</span></div><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline underline-offset-4 ml-2 font-bold ">■情報システム課<br></span> <br> 社内の業務システム・IOTなど導入支援や運用管理を中心に、ITに関する予算や課題管理を行い、各PJの遂行及び進捗管理を行っております。※PCやiPadなどIT機器及びGoogle関係のお問い合わせは、HHD情報システム部までお問い合わせください。</span></div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold">お問い合わせ</sapn></div><br>
+<span class=" text-left  text-lg font-bold">お問い合わせ</sapn></div><br>
 
 <div class="mx-auto overflow-hidden">
 
