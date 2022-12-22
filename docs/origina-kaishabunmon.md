@@ -32,11 +32,15 @@ date: 2022-11-20T00:07:21.036Z
 
 <hr class="border-dashed border-black "></hr><br><script src="https://cdn.tailwindcss.com"></script><style>/* Tab content - closed */.tab-content {max-height: 0;-webkit-transition: max-height .35s;-o-transition: max-height .35s;transition: max-height .35s;}/* :checked - resize to full height */.tab input:checked~.tab-content {max-height: 1000vh;}/* Icon */.tab label::after {float: right;right: 0;top: 0;display: block;width: 1.5em;height: 1.5em;line-height: 1.5;font-size: 1.25rem;text-align: center;-webkit-transition: all .35s;-o-transition: all .35s;transition: all .35s;}/* Icon formatting - closed */.tab input[type=checkbox]+label::after {content: "+";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}.tab input[type=radio]+label::after {content: "\25BE";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}/* Icon formatting - open */.tab input[type=checkbox]:checked+label::after {transform: rotate(315deg);/*.bg-indigo*/color: #f8fafc;/*.text-grey-lightest*/}</style></head>
 
-<div class="">
+<div class="1">
 
 <div class="tab w-full overflow-hidden border-t">
 
 <div class=" flex flex-col space-y-4">
+
+
+
+
 
 <div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-one"><b>事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
@@ -98,9 +102,9 @@ date: 2022-11-20T00:07:21.036Z
 
         </div>
 
-<div class="text-lg p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
+ <div class="p-2 rounded-md bg-blue-300 flex-initial w-100 h-20 bg-opacity-50 text-black">
 
-            <p class="text-sm">こんなことに困ったらお問い合わせください！</p>       
+            <p class="text-lg"> こんなことに困ったらお問い合わせください！</p>
 
           </div>
 
@@ -116,15 +120,17 @@ date: 2022-11-20T00:07:21.036Z
 
 <ul class="list-disc list-inside "> <li>業界動向や介護保険法改正動向、対外折衝方法等でお困りの場合</li> <li>IT活用方法、こんな事出来たらいいな等アイデアがある</li> <li>「こんなテクノロジーで問題を解決できないか？」「世の中にはこんなテクノロジーがあるよ！」などの提案がある</li></ul><br></div></input><br>
 
-
-
-
-
 <p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
 <br>
 
-<div class="">
+
+
+
+
+
+
+<div class="2">
 
 <div class="tab w-full overflow-hidden border-t">
 
@@ -132,7 +138,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-two"><b>開発部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
-</div></div>
+</div>
 
 <br>
 
@@ -174,23 +180,19 @@ date: 2022-11-20T00:07:21.036Z
 
 <br>
 
-<div class="">
 
-<div class="tab w-full overflow-hidden border-t"> 
+
+
+
+
+
+<div class="3">
+
+<div class="tab w-full overflow-hidden border-t">
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overflow-hidden border-t">
-
-<input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs">
-
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-three"><b>営業部</b><span class="text-red-500 text-base font-bold">　</label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
-
-<div class="cp_actab-content">
-
-<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-three"><b>営業部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
 </div>
 
@@ -198,13 +200,13 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
+<span class="text-black-600 text-left text-base text-lg font-bold">仕事内容</sapn></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■営業促進課<br></span>ご入居を検討されているお客様の誘致ならびにご入居までのご案内を実施しています</span></div><br>
+<div class="text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  ml-2 font-bold underline ">■営業促進課<br></span>ご入居を検討されているお客様の誘致ならびにご入居までのご案内を実施しています</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■営業促進課<br></span>ご入居を検討されているお客様の誘致ならびにご入居後のお客様<wbr>相談窓口として活動しています</span></div><br>
+<div class="text-sm text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline ml-2 font-bold underline">■営業支援課<br></span>ご入居を検討されているお客様の誘致ならびにご入居後のお客様<wbr>相談窓口として活動しています</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■営業促進課<br></span>マーケティングによる営業活動と法人取引の新規開拓及び管理業務を行っています。</span></div><br>
+<div class="text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black  underline underline-offset-4 ml-2 font-bold underline ">■営業促進課<br></span>マーケティングによる営業活動と法人取引の新規開拓及び管理業務を行っています。</span></div><br>
 
 <div style="background: #c6e6f5; padding: 10px;" data-mce-style="background: #c6e6f5; padding: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong>お問い合わせ</strong></span></div><br>
 
@@ -214,7 +216,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><div class="balloon5"><div class="faceicon"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s96da70f606bae585/image/ibfb0f2e1aa2af280/version/1556067908/image.jpg"  class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><div class="balloon5"><div class="faceicon"><img src="/images/s4.png" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
 
         </div>
 
@@ -232,31 +234,27 @@ date: 2022-11-20T00:07:21.036Z
 
     </div><br>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>ご入居を検討している方を紹介したい</li> <li>紹介業を検討している事業者を紹介したい</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>介護の事でお悩みの方の相談に乗ってもらいたい</li></ul><br></div></input><br>
+<div class="text-sm border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>ご入居を検討している方を紹介したい</li> <li>紹介業を検討している事業者を紹介したい</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>介護の事でお悩みの方の相談に乗ってもらいたい</li></ul><br></div></input><br>
 
-<p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
 <br>
 
-<div class="">
 
-<div class="tab w-full overflow-hidden border-t"> 
+
+
+
+
+
+<div class="4">
+
+<div class="tab w-full overflow-hidden border-t">
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-four"><b>運営部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
-<input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs">
-
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-four"><b>運営部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
-
-<div class="cp_actab-content">
-
-<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
-
-</div>
+</div></div>
 
 <br>
 
@@ -264,9 +262,9 @@ date: 2022-11-20T00:07:21.036Z
 
 <span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span><ul class="list-disc list-inside "> <li>イリーゼの有料老人ホームと通所サービスの運営全般を行っています</li> <li>各部毎の担当エリアは以下の通りです</li> </ul><br></div></input><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span><ul class="list-disc list-inside "> <li>イリーゼの有料老人ホームと通所サービスの運営全般を行っています</li> <li>各部毎の担当エリアは以下の通りです</li> </ul><br></div></input><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営1課</span>：千葉第1、千葉第2エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営2課</span>： 埼玉第1、埼玉第2エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline">■運営3課</span>： 東京第1・中部、東京第2エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営4課</span>：神奈川第1・関西、神奈川第2・沖縄エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営5課</span>：北海道第１、北海道第2・仙台エリア</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営支援課</span>：運営基準管理チーム、実務研修担当、リスク担当</span><br><span class="<text-xl text-left text-black  ml-2 font-bolddecoration-solid underline ">■運営企画課</span>：新規開設チーム、企画チーム</span></div>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class=" underline ">■運営1課</span>：千葉第1、千葉第2エリア</span><br><span class=" underline ">■運営2課</span>： 埼玉第1、埼玉第2エリア</span><br><span class=" underline ">■運営3課</span>： 東京第1・中部、東京第2エリア</span><br><span class=" underline ">■運営4課</span>：神奈川第1・関西、神奈川第2・沖縄エリア</span><br><span class=" underline ">■運営5課</span>：北海道第１、北海道第2・仙台エリア</span><br><span class=" underline ">■運営支援課</span>：運営基準管理チーム、実務研修担当、リスク担当</span><br><span class=" underline ">■運営企画課</span>：新規開設チーム、企画チーム</span></div>
 
 <a href="/app/s96da70f606bae585/p99f1ec492869294f/" title="エリア表／エリア長紹介" data-mce-href="/app/s96da70f606bae585/p99f1ec492869294f/"><span class="text-sm text-left text-red-500 underline">※エリア表はこちら</span></a>
 
