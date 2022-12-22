@@ -32,33 +32,27 @@ date: 2022-11-20T00:07:21.036Z
 
 <hr class="border-dashed border-black "></hr>
 
-<head> <title>Tailwind CSS Accordion</title><script src="https://cdn.tailwindcss.com"></script><link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style> /* Tab content - closed */.tab-content { max-height: 0; -webkit-transition: max-height .35s; -o-transition: max-height .35s; transition: max-height .35s; } /* :checked - resize to full height */ .tab input:checked ~ .tab-content { max-height: 500vh; } /* Label formatting when open */ { /*@apply text-xl p-5 border-l-2 border-indigo-500 bg-gray-100 text-indigo*/ font-size: 1.25rem; /*.text-xl*/ padding: 1.25rem; /*.p-5*/ border-left-width: 2px; /*.border-l-2*/ border-color: #6574cd; /*.border-indigo*/ background-color: #f8fafc; /*.bg-gray-100 */ color: #6574cd; /*.text-indigo*/ } /* Icon */ .tab label::after { float:right; right: 0; top: 0; display: block; width: 1.5em; height: 1.5em; line-height: 1.5; font-size: 1.25rem; text-align: center; -webkit-transition: all .35s; -o-transition: all .35s; transition: all .35s; } /* Icon formatting - closed */ .tab input[type=checkbox] + label::after { content: "+"; font-weight:bold; /*.font-bold*/  /*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } .tab input[type=radio] + label::after { content: "\25BE"; font-weight:bold; /*.font-bold*//*.border*/ border-radius: 9999px; /*.rounded-full */ border-color: #b8c2cc; /*.border-grey*/ } /* Icon formatting - open */ .tab input[type=checkbox]:checked + label::after { transform: rotate(315deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } .tab input[type=radio]:checked + label::after { transform: rotateX(180deg); background-color: #6574cd; /*.bg-indigo*/ color: #f8fafc; /*.text-grey-lightest*/ } </style> </head> 
-
-</div>
-
-<br>
+<hr class="border-dashed border-black "></hr><script src="https://cdn.tailwindcss.com"></script><style>/* Tab content - closed */.tab-content {max-height: 0;-webkit-transition: max-height .35s;-o-transition: max-height .35s;transition: max-height .35s;}/* :checked - resize to full height */.tab input:checked~.tab-content {max-height: 1000vh;}/* Icon */.tab label::after {float: right;right: 0;top: 0;display: block;width: 1.5em;height: 1.5em;line-height: 1.5;font-size: 1.25rem;text-align: center;-webkit-transition: all .35s;-o-transition: all .35s;transition: all .35s;}/* Icon formatting - closed */.tab input[type=checkbox]+label::after {content: "+";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}.tab input[type=radio]+label::after {content: "\25BE";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}/* Icon formatting - open */.tab input[type=checkbox]:checked+label::after {transform: rotate(315deg);/*.bg-indigo*/color: #f8fafc;/*.text-grey-lightest*/}</style></head>
 
 <div class="">
 
-<div class="tab w-full overflow-hidden border-t"> 
+<div class="tab w-full overflow-hidden border-t">
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overflow-hidden border-t">
-
-<input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs">
-
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-one"><b>事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
-
-<div class="cp_actab-content">
-
-<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-one">事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content"></div>
 
 </div>
 
 <br>
+
+<div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
+
+<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</span></div>
+
+<div class="bg-amber-200  text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left   ml-2 font-bold underline">■Care Innovation Team<br></span><span class="text-sm text-left ">介護現場の抱える課題（サービス品質・人員確保・情報共有など）についてテクノロジーを活用した解決策を立案し、導入から活用支援までを行っております。また企業と協働で新たな技術開発も行なっています。</span></div><br>
+
+<div class="bg-amber-200  text-align-left   text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left  underline ml-2 font-bold underline">■Public Relations Team<br></span><span class="text-sm text-left">HITOWAケアサービスとイリーゼの（ブランド）価値を、進化するメディアに対応しながら魅力的に発信していきます。</span></div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -340,8 +334,6 @@ date: 2022-11-20T00:07:21.036Z
 
     </div><br>
 
-
-
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>施設運用ルール、お客様のサービス内容について知りたい</li> </ul><br></div></input><br>
 
 <p class="text-center ...">問い合わせ先<br> ✉Test-new@Test.jp<br> 運営一部 ✉Test-1@Test.jp<br> 運営二部 ✉unei-2@irs.jp<br> 運営三部 ✉Test-3@Test.jp<br> 📞03-6095</p></div>
@@ -467,8 +459,6 @@ date: 2022-11-20T00:07:21.036Z
           <div class="md:shrink-0">
 
             <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s7.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
-
-
 
         </div>
 
