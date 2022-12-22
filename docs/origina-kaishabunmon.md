@@ -68,7 +68,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-5 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">山本部長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">山本部長</figcaption></figure>
 
         </div>
 
@@ -176,7 +176,7 @@ date: 2022-11-20T00:07:21.036Z
 
     </div>
 
-<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br>✉kaihatsu@irs.jp<br> 📞03-6632-4155</p></div>
 
 <br>
 
