@@ -68,7 +68,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-5 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長金子</figcaption></figure>
+            <figure class="p-5 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">山本部長</figcaption></figure>
 
         </div>
 
@@ -96,7 +96,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><img src="/images/s2.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><img src="/images/s2.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">丸山次長</figcaption></figure>
 
 </figure>
 
@@ -120,7 +120,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <ul class="list-disc list-inside "> <li>業界動向や介護保険法改正動向、対外折衝方法等でお困りの場合</li> <li>IT活用方法、こんな事出来たらいいな等アイデアがある</li> <li>「こんなテクノロジーで問題を解決できないか？」「世の中にはこんなテクノロジーがあるよ！」などの提案がある</li></ul><br></div></input><br>
 
-<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉home-support@irs.jp<br> 📞03-6633-6582</p></div>
 
 <br>
 
@@ -496,11 +496,11 @@ date: 2022-11-20T00:07:21.036Z
 
 <span class=" text-left  text-lg font-bold">仕事内容</sapn></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black    ml-2 font-bold underline">■品質管理課<br></span> <br> 新規開所施設や法人にかかる変更の行政相談、各種届出業務と契約関係帳票管理を行っています。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black    ml-2 font-bold underline">■品質管理課<br></span><span class="text-lg">新規開所施設や法人にかかる変更の行政相談、各種届出業務と契約関係帳票管理を行っています。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black   ml-2 font-bold underline">■医療連携チーム<br></span> <br> 訪問診療・訪問歯科診療・訪問調剤薬局等、外部機関との連携・調整などを行っています</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black   ml-2 font-bold underline">■医療連携チーム<br></span> <span class="text-lg"> 訪問診療・訪問歯科診療・訪問調剤薬局等、外部機関との連携・調整などを行っています</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black ml-2 font-bold underline">■事業開発課<br></span> <span class="text-lg">z<br> 有料サービス・訪問理美容・旅行事業などのメニュー開発・運用、ならびに新規プラットフォームを用いたご入居者様のQOL向上を実現する企画・事業開発を行っています。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black ml-2 font-bold underline">■事業開発課<br></span> <span class="text-lg">有料サービス・訪問理美容・旅行事業などのメニュー開発・運用、ならびに新規プラットフォームを用いたご入居者様のQOL向上を実現する企画・事業開発を行っています。</span></div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
