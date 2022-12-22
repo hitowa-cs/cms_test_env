@@ -64,7 +64,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-5 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-5 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">金子年長金子</figcaption></figure>
 
         </div>
 
@@ -98,9 +98,9 @@ date: 2022-11-20T00:07:21.036Z
 
         </div>
 
- <div class="p-2 rounded-md bg-blue-300 flex-initial w-100 h-20 bg-opacity-50 text-black">
+<div class="text-lg p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
 
-            <p class="text-sm"> こんなことに困ったらお問い合わせください！</p>
+            <p class="text-sm">こんなことに困ったらお問い合わせください！</p>       
 
           </div>
 
@@ -126,35 +126,25 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="">
 
-<div class="tab w-full overflow-hidden border-t"> 
+<div class="tab w-full overflow-hidden border-t">
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-two"><b>開発部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
-<input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs">
-
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-two"><b>開発部</b><span class="text-red-500 text-base font-bold"></label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
-
-<div class="cp_actab-content">
-
-<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
-
-</div>
+</div></div>
 
 <br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
+<span class=" text-left text-base text-lg font-bold">仕事内容</sapn></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span>その名の通り、施設の開発を行うのが主な仕事です。そのためには不動産知識も必要ですが昨今は、何よりも開設後のサービスオペレーションをイメージした施設づくりが重要になります。不動産のみならず現場サービスの知識も必要になってきます。</span></div><br>
+<div class="text-sm bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span>その名の通り、施設の開発を行うのが主な仕事です。そのためには不動産知識も必要ですが昨今は、何よりも開設後のサービスオペレーションをイメージした施設づくりが重要になります。不動産のみならず現場サービスの知識も必要になってきます。</span></div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold">お問い合わせ</sapn></div><br>
+<span class="text-lg text-black-600 text-left text-base font-bold">お問い合わせ</sapn></div><br>
 
 <div class="mx-auto overflow-hidden">
 
@@ -162,13 +152,13 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-     <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s3.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+     <figure class="text-sm p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s3.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
 
         </div>
 
         <div class="">
 
-          <div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
+          <div class="text-lg p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
 
             <p class="text-lg"> 困ったらお問い合わせください！</p>
 
@@ -180,7 +170,7 @@ date: 2022-11-20T00:07:21.036Z
 
     </div>
 
-<p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
 <br>
 
