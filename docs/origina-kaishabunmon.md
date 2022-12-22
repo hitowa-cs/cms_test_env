@@ -158,7 +158,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-     <figure class="text-sm p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s3.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+     <figure class=" p-7 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s3.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center text-sm">小久保部長</figcaption></figure>
 
         </div>
 
