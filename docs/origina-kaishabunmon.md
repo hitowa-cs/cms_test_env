@@ -24,7 +24,6 @@ date: 2022-11-20T00:07:21.036Z
 <h1 class="black-600 text-right text-xs"> 🔄 Update：2022/10/19</h1>
 
 <h1 class="text-blue-600 text-center font-bold text-2xl">本社部門紹介</h1>
-           <hr>
 
   </div>
 
