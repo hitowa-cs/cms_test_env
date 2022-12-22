@@ -50,6 +50,8 @@ date: 2022-11-20T00:07:21.036Z
 
 <span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</span></div>
 
+<br>
+
 <div class="bg-amber-200  text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left   ml-2 font-bold underline">■Care Innovation Team<br></span><span class="text-sm text-left ">介護現場の抱える課題（サービス品質・人員確保・情報共有など）についてテクノロジーを活用した解決策を立案し、導入から活用支援までを行っております。また企業と協働で新たな技術開発も行なっています。</span></div><br>
 
 <div class="bg-amber-200  text-align-left   text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left  underline ml-2 font-bold underline">■Public Relations Team<br></span><span class="text-sm text-left">HITOWAケアサービスとイリーゼの（ブランド）価値を、進化するメディアに対応しながら魅力的に発信していきます。</span></div><br>
