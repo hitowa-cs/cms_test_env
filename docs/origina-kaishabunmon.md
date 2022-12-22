@@ -42,7 +42,7 @@ date: 2022-11-20T00:07:21.036Z
 
 
 
-<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-one"><b>事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-one"><b>事業企画室</b><span class="text-red-500 text-base font-bold">　New!!</span></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
 </div>
 
@@ -136,7 +136,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-two"><b>開発部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-two" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-two"><b>開発部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
 </div>
 
@@ -192,7 +192,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-three"><b>営業部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-three" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-three"><b>営業部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
 </div>
 
@@ -252,7 +252,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-four"><b>運営部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-four" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-four"><b>運営部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
 </div>
 
@@ -346,9 +346,9 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-five" type="checkbox" name="tabs"><label class="block p-2 text-sm text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-five"><b>経営管理部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-five" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-five"><b>経営管理部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
-</div></div>
+</div>
 
 <br>
 
@@ -396,29 +396,21 @@ date: 2022-11-20T00:07:21.036Z
 
     </div><br>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>自部門の予算・実績に関する内容に関するご質問（主にホーム長以上の皆様）</li> <li>実地指導用の事業所別収支の作成関連のご質問</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>消耗品や備品、ユニフォーム・固定資産等に関するご質問</li><li>稟議書作成や押印関連のご質問</li><li>施設の保守管理、修繕・補修などの手配方法・植栽剪定関連のご質問</li><li>カナミック操作方法、お客様への請求内容等関連のご質問</li><li>CSC・F-revoの操作・入力方法等のご質問</li><li>新たに業務システムを導入・変更に関するご質問</li><li>システムの不具合・機能等に関するご質問</li></ul><br></div></input><br>
+<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>自部門の予算・実績に関する内容に関するご質問（主にホーム長以上の皆様）</li> <li>実地指導用の事業所別収支の作成関連のご質問</li> <li>ご入居を検討している方を紹介したい</li> <li>有料サービスの運用ルール、お客様へのサービス内容について知りたい</li> <li>消耗品や備品、ユニフォーム・固定資産等に関するご質問</li><li>稟議書作成や押印関連のご質問</li><li>施設の保守管理、修繕・補修などの手配方法・植栽剪定関連のご質問</li><li>カナミック操作方法、お客様への請求内容等関連のご質問</li><li>CSC・F-revoの操作・入力方法等のご質問</li><li>新たに業務システムを導入・変更に関するご質問</li><li>システムの不具合・機能等に関するご質問</li></ul><br></div></input><br>
 
-<p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
 <br>
 
-<div class="">
 
-<div class="tab w-full overflow-hidden border-t"> 
+
+<div class="6">
+
+<div class="tab w-full overflow-hidden border-t">
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overflow-hidden border-t">
-
-<input class="absolute opacity-0 " id="tab-multi-six" type="checkbox" fname="tabs">
-
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-six"><b>人事部</b><span class="text-red-500 text-base font-bold"></label>
-
-<div class="tab-content overflow-hidden border-l-5  leading-normal">
-
-<div class="cp_actab-content">
-
-<p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p>
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-six" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-six"><b>人事部</b></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
 </div>
 
@@ -426,15 +418,15 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
+<span class=" text-left text-base text-lg font-bold">仕事内容</sapn></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■給与厚生課<br></span> <br> 従業員の方の労務関連手続き（雇用契約、給与、社会保険、各種保険など）と従業員の方からのご質問対応を行っております。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left  ml-2 font-bold underline">■給与厚生課<br></span> <br> 従業員の方の労務関連手続き（雇用契約、給与、社会保険、各種保険など）と従業員の方からのご質問対応を行っております。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■人事戦略課<br></span> <br> 中途・新卒職員の募集広告の企画や各種採用イベントへの出展／告知、応募者の面接設定、各施設への派遣スタッフの手配などを行っております。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-lg text-left   ml-2 font-bold underline">■人事戦略課<br></span> <br> 中途・新卒職員の募集広告の企画や各種採用イベントへの出展／告知、応募者の面接設定、各施設への派遣スタッフの手配などを行っております。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■給与厚生課<br></span> <br> 従業員の方の労務関連手続き（雇用契約、給与、社会保険、各種保険など）と従業員の方からのご質問対応を行っております。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left ml-2 font-bold underline">■給与厚生課<br></span> <br> 従業員の方の労務関連手続き（雇用契約、給与、社会保険、各種保険など）と従業員の方からのご質問対応を行っております。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■人財育成課<br></span> <br> 新任者研修や専門職研修など、各種研修の実施の他、HITOWAアカデミーとして資格取得講座や資格取得支援を行なっております。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left   ml-2 font-bold underline">■人財育成課<br></span> <br> 新任者研修や専門職研修など、各種研修の実施の他、HITOWAアカデミーとして資格取得講座や資格取得支援を行なっております。</span></div><br>
 
 <div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■人事企画課<br></span> <br> 技能実習制度や大学と提携しての留学を通して海外へ技能、知識を移転をするために橋渡しを行います。</span></div><br>
 
@@ -466,9 +458,9 @@ date: 2022-11-20T00:07:21.036Z
 
       </div>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>入退社・給与・各種研修・評価制度について知りたい</li> <li>結婚・出産・引越しした場合などの手続きについて知りたい</li> <li>ご入居を検討している方を紹介したい</li> <li>自社で行っている採用活動について知りたい</li> <li>どんな研修があるのか知りたい</li></ul><br></div></input><br>
+<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>入退社・給与・各種研修・評価制度について知りたい</li> <li>結婚・出産・引越しした場合などの手続きについて知りたい</li> <li>ご入居を検討している方を紹介したい</li> <li>自社で行っている採用活動について知りたい</li> <li>どんな研修があるのか知りたい</li></ul><br></div></input><br>
 
-<p class="text-center ...">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
 
 </div>
 
