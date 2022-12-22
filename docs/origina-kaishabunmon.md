@@ -216,7 +216,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><div class="balloon5"><div class="faceicon"><img src="/images/s4.png"class="rounded-full border-2 border-sky-500" />><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+           <figure class="text-sm p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><img src="/images/s4.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
 
         </div>
 
@@ -320,7 +320,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
 
-            <p class="text-lg">こんなことに困ったらお問い合わせください！</p>
+            <p class="text-sm">こんなことに困ったらお問い合わせください！</p>
 
           </div>
 
@@ -330,9 +330,9 @@ date: 2022-11-20T00:07:21.036Z
 
     </div><br>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>施設運用ルール、お客様のサービス内容について知りたい</li> </ul><br></div></input><br>
+<div class="text-sm border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>施設運用ルール、お客様のサービス内容について知りたい</li> </ul><br></div></input><br>
 
-<p class="text-center ...">問い合わせ先<br> ✉Test-new@Test.jp<br> 運営一部 ✉Test-1@Test.jp<br> 運営二部 ✉unei-2@irs.jp<br> 運営三部 ✉Test-3@Test.jp<br> 📞03-6095</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉Test-new@Test.jp<br> 運営一部 ✉Test-1@Test.jp<br> 運営二部 ✉unei-2@irs.jp<br> 運営三部 ✉Test-3@Test.jp<br> 📞03-6095</p></div>
 
 <br>
 
