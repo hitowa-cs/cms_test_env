@@ -262,17 +262,17 @@ date: 2022-11-20T00:07:21.036Z
 
 <span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
 
-<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span><ul class="list-disc list-inside "> <li>イリーゼの有料老人ホームと通所サービスの運営全般を行っています</li> <li>各部毎の担当エリアは以下の通りです</li> </ul><br></div></input><br>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="<text-xl text-left text-black  ml-2 font-bold "></span><ul class="list-disc list-inside "> <li>イリーゼの有料老人ホームと通所サービスの運営全般を行っています</li> <li>各部毎の担当エリアは以下の通りです</li> </ul></div></input><br>
 
-<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class=" underline ">■運営1課</span>：千葉第1、千葉第2エリア</span><br><span class=" underline ">■運営2課</span>： 埼玉第1、埼玉第2エリア</span><br><span class=" underline ">■運営3課</span>： 東京第1・中部、東京第2エリア</span><br><span class=" underline ">■運営4課</span>：神奈川第1・関西、神奈川第2・沖縄エリア</span><br><span class=" underline ">■運営5課</span>：北海道第１、北海道第2・仙台エリア</span><br><span class=" underline ">■運営支援課</span>：運営基準管理チーム、実務研修担当、リスク担当</span><br><span class=" underline ">■運営企画課</span>：新規開設チーム、企画チーム</span></div>
+<div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class=" underline ">■運営1課</span>：千葉第1、千葉第2エリア</span><br><span class=" underline ">■運営2課</span>： 埼玉第1、埼玉第2エリア</span><br><span class=" underline ">■運営3課</span>： 東京第1・中部、東京第2エリア</span><br><span class=" underline ">■運営4課</span>：神奈川第1・関西、神奈川第2・沖縄エリア</span><br><span class=" underline ">■運営5課</span>：北海道第１、北海道第2・仙台エリア</span><br><span class=" underline ">■運営支援課</span>：運営基準管理チーム、実務研修担当、リスク担当</span><br><span class=" underline ">■運営企画課</span>：新規開設チーム、企画チーム</span><br><span class=" underline ">■品質管理課</span>：品質管理</span></div>
 
-<a href="/app/s96da70f606bae585/p99f1ec492869294f/" title="エリア表／エリア長紹介" data-mce-href="/app/s96da70f606bae585/p99f1ec492869294f/"><span class="text-sm text-left text-red-500 underline">※エリア表はこちら</span></a>
+<a href="https://www.irs-arch.com/%E3%82%A8%E3%83%AA%E3%82%A2%E8%A1%A8-%E3%82%A8%E3%83%AA%E3%82%A2%E9%95%B7%E7%B4%B9%E4%BB%8B/" title="エリア表／エリア長紹介" data-mce-href="/app/s96da70f606bae585/p99f1ec492869294f/"><span class="text-sm text-left text-red-500 underline">※エリア表はこちら</span></a>
 
 <br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold" >今月のニュース</span></div>
+<span class="text-lg text-left font-bold" >今月のニュース</span></div>
 
 <br>
 
