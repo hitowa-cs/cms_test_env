@@ -56,7 +56,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold" >今月のニュース</sapn></div>
+<span class="text-black-600 text-left text-base text-xl font-bold" >今月のニュース</span></div><br>
 
     <div class="mx-auto overflow-hidden">
 
@@ -64,7 +64,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="p-5 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
 
         </div>
 
