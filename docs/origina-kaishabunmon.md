@@ -30,11 +30,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <br>
 
-<hr class="border-dashed border-black "></hr>
-
-<br>
-
-<script src="https://cdn.tailwindcss.com"></script><style>/* Tab content - closed */.tab-content {max-height: 0;-webkit-transition: max-height .35s;-o-transition: max-height .35s;transition: max-height .35s;}/* :checked - resize to full height */.tab input:checked~.tab-content {max-height: 1000vh;}/* Icon */.tab label::after {float: right;right: 0;top: 0;display: block;width: 1.5em;height: 1.5em;line-height: 1.5;font-size: 1.25rem;text-align: center;-webkit-transition: all .35s;-o-transition: all .35s;transition: all .35s;}/* Icon formatting - closed */.tab input[type=checkbox]+label::after {content: "+";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}.tab input[type=radio]+label::after {content: "\25BE";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}/* Icon formatting - open */.tab input[type=checkbox]:checked+label::after {transform: rotate(315deg);/*.bg-indigo*/color: #f8fafc;/*.text-grey-lightest*/}</style></head>
+<hr class="border-dashed border-black "></hr><br><script src="https://cdn.tailwindcss.com"></script><style>/* Tab content - closed */.tab-content {max-height: 0;-webkit-transition: max-height .35s;-o-transition: max-height .35s;transition: max-height .35s;}/* :checked - resize to full height */.tab input:checked~.tab-content {max-height: 1000vh;}/* Icon */.tab label::after {float: right;right: 0;top: 0;display: block;width: 1.5em;height: 1.5em;line-height: 1.5;font-size: 1.25rem;text-align: center;-webkit-transition: all .35s;-o-transition: all .35s;transition: all .35s;}/* Icon formatting - closed */.tab input[type=checkbox]+label::after {content: "+";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}.tab input[type=radio]+label::after {content: "\25BE";font-weight: bold;/*.font-bold*//*.border*/border-radius: 9999px;/*.rounded-full */border-color: #b8c2cc;/*.border-grey*/}/* Icon formatting - open */.tab input[type=checkbox]:checked+label::after {transform: rotate(315deg);/*.bg-indigo*/color: #f8fafc;/*.text-grey-lightest*/}</style></head>
 
 <div class="">
 
