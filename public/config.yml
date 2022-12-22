@@ -13,6 +13,8 @@ collections:
     defaultOperations: '/resize/800x600/'
     editor:
       preview: true
+      file: content/pages/letterbox.md
+      preview_path: docs/{{slug}}
 
     fields:
       - {name: title, widget: string}
