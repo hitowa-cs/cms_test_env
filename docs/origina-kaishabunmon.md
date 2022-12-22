@@ -56,9 +56,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold" >今月のニュース</sapn></div><br>
-
-<!--StartFragment-->
+<span class="text-black-600 text-left text-base text-xl font-bold" >今月のニュース</sapn></div>
 
     <div class="mx-auto overflow-hidden">
 
@@ -66,15 +64,15 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
+            <figure class="h-32 w-32"><img src="/images/s1.png" class="rounded-full border-2 border-sky-500" /><figcaption class="text-center">金子年長</figcaption></figure>
 
         </div>
 
         <div class="">
 
-          <div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
+          <div class="p-2 rounded-md bg-blue-300 bg-opacity-50 text-black">
 
-            <p class="text-xs"> スマート介護士という資格をご存じですか？少ない人員で効率的な業務遂行がもとめられるなか、DX化を図り介護の質の向上と効率化を実行できる介護士が「スマート介護士」です。興味があれば事業企画室までお問合わせ下さい。</p>
+            <p class="text-sm"> スマート介護士という資格をご存じですか？少ない人員で効率的な業務遂行がもとめられるなか、DX化を図り介護の質の向上と効率化を実行できる介護士が「スマート介護士」です。興味があれば事業企画室までお問合わせ下さい。</p>
 
           </div>
 
