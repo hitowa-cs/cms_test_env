@@ -12,6 +12,7 @@ collections:
     preview_path: "{{slug}}"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
+    show_preview_links: true
     editor:
       preview: true
 
