@@ -480,6 +480,8 @@ date: 2022-11-20T00:07:21.036Z
 
 </div>
 
+</div> 
+
 <br>
 
 <div class="tab-content overflow-hidden border-l-5  leading-normal">
@@ -551,8 +553,6 @@ date: 2022-11-20T00:07:21.036Z
         </div>
 
       </div>
-
-</div>
 
 <br>
 
