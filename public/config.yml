@@ -9,10 +9,10 @@ collections:
     folder: "docs"
     create: true
     slug: "{{slug}}"
-    preview_path: "docs"
+    preview_path: "docs{{slug}}"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
-    show_preview_links: false
+    show_preview_links: true
     editor:
       preview: true
 
