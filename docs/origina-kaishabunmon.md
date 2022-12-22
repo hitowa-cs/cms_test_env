@@ -216,7 +216,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="md:shrink-0">
 
-            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><div class="balloon5"><div class="faceicon"><img src="/images/s4.png" /><figcaption class="text-center text-sm">金子年長</figcaption></figure>
+            <figure class="p-8 h-32 w-32"><div class="balloon5"><div class="faceicon"><div class="balloon5"><div class="faceicon"><img src="/images/s4.png"class="rounded-full border-2 border-sky-500" />><figcaption class="text-center text-sm">金子年長</figcaption></figure>
 
         </div>
 
@@ -266,7 +266,7 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="text-lg bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class=" underline ">■運営1課</span>：千葉第1、千葉第2エリア</span><br><span class=" underline ">■運営2課</span>： 埼玉第1、埼玉第2エリア</span><br><span class=" underline ">■運営3課</span>： 東京第1・中部、東京第2エリア</span><br><span class=" underline ">■運営4課</span>：神奈川第1・関西、神奈川第2・沖縄エリア</span><br><span class=" underline ">■運営5課</span>：北海道第１、北海道第2・仙台エリア</span><br><span class=" underline ">■運営支援課</span>：運営基準管理チーム、実務研修担当、リスク担当</span><br><span class=" underline ">■運営企画課</span>：新規開設チーム、企画チーム</span><br><span class=" underline ">■品質管理課</span>：品質管理</span></div>
 
-<a href="https://www.irs-arch.com/%E3%82%A8%E3%83%AA%E3%82%A2%E8%A1%A8-%E3%82%A8%E3%83%AA%E3%82%A2%E9%95%B7%E7%B4%B9%E4%BB%8B/" title="エリア表／エリア長紹介" data-mce-href="/app/s96da70f606bae585/p99f1ec492869294f/"><span class="text-sm text-left text-red-500 underline">※エリア表はこちら</span></a>
+<a href="https://www.irs-arch.com/%E3%82%A8%E3%83%AA%E3%82%A2%E8%A1%A8-%E3%82%A8%E3%83%AA%E3%82%A2%E9%95%B7%E7%B4%B9%E4%BB%8B/" title="エリア表／エリア長紹介" data-mce-href="/app/s96da70f606bae585/p99f1ec492869294f/"><span class="text-lg text-left text-red-500 underline">※エリア表はこちら</span></a>
 
 <br>
 
@@ -290,7 +290,7 @@ date: 2022-11-20T00:07:21.036Z
 
           <div class="p-5 rounded-md bg-blue-300 bg-opacity-50 text-black">
 
-            <p class="text-lg">今年も早くも残り1ヶ月となりました。コロナの状況にもよりますが、年末年始は多くのご家族が来設されますので、挨拶やお辞儀等の礼節を意識しましょう。心身ともに健やかに、そしてフレッシュな気持ちで新年を迎えましょう。</p>
+            <p class="text-sm">今年も早くも残り1ヶ月となりました。コロナの状況にもよりますが、年末年始は多くのご家族が来設されますので、挨拶やお辞儀等の礼節を意識しましょう。心身ともに健やかに、そしてフレッシュな気持ちで新年を迎えましょう。</p>
 
           </div>
 
