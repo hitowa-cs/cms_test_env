@@ -458,25 +458,27 @@ date: 2022-11-20T00:07:21.036Z
 
       </div>
 
+ </div>
+
 <div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>入退社・給与・各種研修・評価制度について知りたい</li> <li>結婚・出産・引越しした場合などの手続きについて知りたい</li> <li>ご入居を検討している方を紹介したい</li> <li>自社で行っている採用活動について知りたい</li> <li>どんな研修があるのか知りたい</li></ul><br></div></input><br>
 
-<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p></div>
+<p class="text-center text-sm">問い合わせ先<br> ✉home-Test@Test.jp<br> 📞03-633-</p>
 
 </div>
 
 <br>
 
-<div class="">
 
-<div class="tab w-full overflow-hidden border-t"> 
+
+<div class="7">
+
+<div class="tab w-full overflow-hidden border-t">
 
 <div class=" flex flex-col space-y-4">
 
-<div class="tab w-full  text-xl text-black overflow-hidden border-t">
+<div class="tab w-full text-xl text-black overflow-hidden border-t"><input class="absolute opacity-0 " id="tab-multi-seven" type="checkbox" name="tabs"><label class="block p-2 text-lg text-left rounded-md bg-green-500 leading-normal cursor-pointer" for= "tab-multi-seven"><b>事業推進部</b><span class="text-red-500 text-base font-bold">　New!!</span></label><div class="tab-content overflow-hidden border-l-5 leading-normal"><div class="cp_actab-content"><p><a name="unei1" id="uneikanri" class="mce-item-anchor"></a></p></div></div><div class="tab-content overflow-hidden border-l-5  leading-normal"><div class="cp_actab-content">
 
-<input class="absolute opacity-0 " id="tab-multi-seven" type="checkbox" sfname="tabs">
-
-<label class="block p-2 text-sm text-left rounded-md bg-green-500   leading-normal cursor-pointer " for="tab-multi-seven"><b>事業推進部</b><span class="text-red-500 text-base font-bold">　New!!</span></label>
+</div>
 
 <br>
 
@@ -490,13 +492,13 @@ date: 2022-11-20T00:07:21.036Z
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
-<span class="text-black-600 text-left text-base text-xl font-bold">仕事内容</sapn></div><br>
+<span class=" text-left  text-lg font-bold">仕事内容</sapn></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■品質管理課<br></span> <br> 新規開所施設や法人にかかる変更の行政相談、各種届出業務と契約関係帳票管理を行っています。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black    ml-2 font-bold underline">■品質管理課<br></span> <br> 新規開所施設や法人にかかる変更の行政相談、各種届出業務と契約関係帳票管理を行っています。</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■医療連携チーム<br></span> <br> 訪問診療・訪問歯科診療・訪問調剤薬局等、外部機関との連携・調整などを行っています</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black   ml-2 font-bold underline">■医療連携チーム<br></span> <br> 訪問診療・訪問歯科診療・訪問調剤薬局等、外部機関との連携・調整などを行っています</span></div><br>
 
-<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-xl text-left text-black  underline underline-offset-4 ml-2 font-bold ">■事業開発課<br></span> <br> 有料サービス・訪問理美容・旅行事業などのメニュー開発・運用、ならびに新規プラットフォームを用いたご入居者様のQOL向上を実現する企画・事業開発を行っています。</span></div><br>
+<div class="bg-amber-200  text-align-left text-left bg-opacity-100 p-2 ml-8"><span class="text-lg text-left text-black ml-2 font-bold underline">■事業開発課<br></span> <span class="text-lg">z<br> 有料サービス・訪問理美容・旅行事業などのメニュー開発・運用、ならびに新規プラットフォームを用いたご入居者様のQOL向上を実現する企画・事業開発を行っています。</span></div><br>
 
 <div class="bg-blue-300 bg-opacity-50 p-2 w-full h-full ml-2">
 
@@ -550,16 +552,26 @@ date: 2022-11-20T00:07:21.036Z
 
       </div>
 
+</div>
+
 <br>
 
-<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><ul class="list-disc list-inside "> <li>介護保険の帳票やサービス内容について知りたい</li> <li>各業界団体より書類や問い合わせがあり分からない</li> <li>ご入居を検討している方を紹介したい</li> <li>新規開設で分からない事がある</li> <li>行政への変更手続きにかかる作成書類の内容について知りたい</li><li>介護事業指定更新時、作成した帳票の内容があっているのか見てほしい</li> <li>医療連携や薬局連携等に関わる事や協力医療機関について相談・改善点などがある</li><li>施設で新たに取り入れたい外出レク・サービスなどがあり、相談したい</li> <li>訪問理美容について要望がある</li> <li>ネットスーパーなどでの購入方法・品目について相談したい</li> </ul><br></div></input><br>
+<div class="border-2 border-gray-300 rounded-md outline- 4 p-2 "><br><ul class="list-disc list-inside "> <li>介護保険の帳票やサービス内容について知りたい</li> <li>各業界団体より書類や問い合わせがあり分からない</li> <li>ご入居を検討している方を紹介したい</li> <li>新規開設で分からない事がある</li> <li>行政への変更手続きにかかる作成書類の内容について知りたい</li><li>介護事業指定更新時、作成した帳票の内容があっているのか見てほしい</li> <li>医療連携や薬局連携等に関わる事や協力医療機関について相談・改善点などがある</li><li>施設で新たに取り入れたい外出レク・サービスなどがあり、相談したい</li> <li>訪問理美容について要望がある</li> <li>ネットスーパーなどでの購入方法・品目について相談したい</li> </ul><br></div></input><br>
 
-<div><br>
+</div>
+
+</div>
+
+</div>
+
+<br>
 
 <div class=" text-center">
 
-<span class="text-xl  text-center text-sky-300 font-bold"><a href="https://www.google.com">お問い合わせ一覧</a></span>
+<span class="text-xl  text-center text-blue-600 underline"><a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E5%85%88%E4%B8%80%E8%A6%A7/20220610_%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E4%B8%80%E8%A6%A7.pdf">お問い合わせ一覧</a></span>
 
 <br>
+
+</div>
 
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"> <style>
