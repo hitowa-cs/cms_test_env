@@ -16,11 +16,6 @@ collections:
         summary: '{{meta}}' # optional summary for a tree node, defaults to the inferred title field
       editor:
         preview: false
-      fields:
-        - << : *TITLE
-          label: Page title for within cms
-        - *SEO
-        - *PAGE-COMPONENTS
     fields:
       - {name: title, widget: string}
       - {name: layout, widget: select, options: ['grid', 'full-width', 'about', 'contact']}
