@@ -17,6 +17,5 @@ date: 2022-11-21T09:51:53.076Z
 <p><span style="text-decoration: underline;">■申し込み方法</span><br /> ①下記URLよりクーポンコードをご入力ください<br /> <span style="color: #0000ff;"><a href="https://line.osoujihonpo.com/estimate/coupon/referral" target="_blank" title="https://line.osoujihonpo.com/estimate/coupon/referral" style="color: #0000ff;">https://line.osoujihonpo.com/estimate/coupon/referral</a></span><br /> ▼クーポンコード<br /> ※従業員・家族 の場合：HITOWA1<br /> ※親戚・知人 の場合： HITOWA2&nbsp;<br /> ②お申し込み後、担当店舗よりご連絡をさせて頂きますので、直接日程相談をお願い致します。</p>
 <p><span style="text-decoration: underline;">■問い合わせ</span><br /> 担当者：&nbsp;カスタマーサクセス部 ( customer-success-hlp@hitowa.com )&nbsp;<br /> 応募マニュアルは<a href="https://s3-ap-northeast-1.amazonaws.com/irs-arch/福利厚生/おそうじ本舗グループ従業員向け福利厚生割引サービス_ご案内_202204.pdf" target="_blank" title="https://s3-ap-northeast-1.amazonaws.com/irs-arch/福利厚生/おそうじ本舗グループ従業員向け福利厚生割引サービス_ご案内_202204.pdf"><span style="color: #0000ff;"><u>こちら</u></span></a></p>
 
-text
 </div>
 </div>
