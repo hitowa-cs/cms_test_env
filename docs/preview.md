@@ -9,7 +9,7 @@ date: 2022-12-24T12:39:10.624Z
 
 <br>
 
-<hr class="border-dashed border-black "></hr>
+<hr class="border-dashed border-black ">
 
 <br>
 
