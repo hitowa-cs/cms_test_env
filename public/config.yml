@@ -3,7 +3,7 @@ backend:
   branch: master
 media_folder: "/images/"
 display_url: https://hitowa-test-cms.netlify.app
-# collections:
+collections:
 #   - name: pages
 #     label: Pages
 #     folder: "docs"
