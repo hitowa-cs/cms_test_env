@@ -4,17 +4,23 @@ backend:
 media_folder: "/images/"
 display_url: https://hitowa-test-cms.netlify.app
 collections:
-  - name: pages
-    label: Pages
-    folder: "docs"
-    create: true
-    preview_path: "docs{{slug}}"
-    autoFilename: true
-    defaultOperations: '/resize/800x600/'
-    show_preview_links: true
-    editor:
-      preview: true
-
+    - label: 'Pages'
+      name: 'pages'
+      label_singular: 'Page'
+      folder: 'docs'
+      create: true
+      format: 'json'
+      show_preview_links: true
+      nested:
+        depth: 100 # max depth to show in the collection tree
+        summary: '{{meta}}' # optional summary for a tree node, defaults to the inferred title field
+      editor:
+        preview: false
+      fields:
+        - << : *TITLE
+          label: Page title for within cms
+        - *SEO
+        - *PAGE-COMPONENTS
     fields:
       - {name: title, widget: string}
       - {name: layout, widget: select, options: ['grid', 'full-width', 'about', 'contact']}
