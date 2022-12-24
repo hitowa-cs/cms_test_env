@@ -14,9 +14,9 @@ collections:
 #     show_preview_links: true
 #     editor:
 #       preview: true
-- name: 'pages'
-    label: 'pages'
-    label_singular: 'pages'
+- name: pages
+    label: pages
+    label_singular: pages
     folder: 'docs'
     preview_path: 'docs{{slug}}' 
 
