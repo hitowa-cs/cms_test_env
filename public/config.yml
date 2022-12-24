@@ -4,11 +4,11 @@ backend:
 media_folder: "/images/"
 display_url: https://hitowa-test-cms.netlify.app
 collections:
-  - name: 'work'
-    label: 'Works'
-    label_singular: 'Work'
+  - name: 'pages'
+    label: 'pages'
+    label_singular: 'pages'
     folder: '_docs'
-    preview_path: '/docs/{{slug}}'  // this works
+    preview_path: '/docs/{{slug}}'  
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     show_preview_links: true
