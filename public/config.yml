@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 media_folder: "/images/"
-show_preview_links: https://hitowa-test-cms.netlify.app
+show_preview_links: true
 search: true
 display_url: https://hitowa-test-cms.netlify.app
 
