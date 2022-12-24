@@ -11,7 +11,6 @@ collections:
       create: true
       show_preview_links: true
       nested:
-        depth: 100 # max depth to show in the collection tree
         summary: '{{slug}}' # optional summary for a tree node, defaults to the inferred title field
       editor:
         preview: false
