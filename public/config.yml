@@ -9,11 +9,10 @@ collections:
       label_singular: 'Page'
       folder: 'docs'
       create: true
-      format: 'json'
       show_preview_links: true
       nested:
         depth: 100 # max depth to show in the collection tree
-        summary: '{{meta}}' # optional summary for a tree node, defaults to the inferred title field
+        summary: '{{slug}}' # optional summary for a tree node, defaults to the inferred title field
       editor:
         preview: false
     fields:
