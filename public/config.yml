@@ -3,7 +3,6 @@ backend:
   branch: master
 media_folder: "/images/"
 show_preview_links: true
-preview_path: "docs"
 publish_mode: editorial_workflow
 search: true
 display_url: https://hitowa-test-cms.netlify.app
@@ -14,6 +13,7 @@ collections:
     folder: "docs"
     create: true
     slug: "{{slug}}"
+    preview_path: "docs"
     preview_path: "docs"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
