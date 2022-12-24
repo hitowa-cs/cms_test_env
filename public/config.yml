@@ -10,7 +10,7 @@ collections:
     label: Pages
     folder: "docs"
     create: true
-    \ preview_path: "/docs{{slug}}"
+    preview_path: "docs{{slug}}"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
