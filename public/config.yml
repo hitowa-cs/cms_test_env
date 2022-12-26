@@ -12,7 +12,7 @@ collections:
     folder: "docs"
     create: true
     slug: "{{slug}}"
-    preview_path: "blog"
+    preview_path: "docs"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
