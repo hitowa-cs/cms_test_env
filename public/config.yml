@@ -2,7 +2,6 @@ backend:
   name: git-gateway
   branch: master
 media_folder: "/images/"
-show_preview_links: true
 publish_mode: editorial_workflow
 display_url: https://hitowa-test-cms.netlify.app
 
@@ -15,6 +14,7 @@ collections:
     preview_path: "blog{{year}}/{{month}}/{{slug}}"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
+    show_preview_links: true
     editor:
       preview: true
 
