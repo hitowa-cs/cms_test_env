@@ -1,8 +1,10 @@
 backend:
   name: git-gateway
   branch: master
+  preview_context: deploy-preview
+publish_mode: editorial_workflow 
 media_folder: "/images/"
-publish_mode: editorial_workflow
+show_preview_links: true 
 display_url: https://hitowa-test-cms.netlify.app
 
 collections:
@@ -10,13 +12,13 @@ collections:
     label: Pages
     folder: "docs"
     create: true
-    slug: "{{slug}}"
+    slug: "{{permalink}}"
+    #slug: "{{slug}}"
     #preview_path: "blog{{year}}/{{month}}/{{slug}}"
-    preview_path: "{{slug}}"
+    preview_path: "blog{{slug}}"
     identifier_field: postTitle
     autoFilename: true
     defaultOperations: '/resize/800x600/'
-    #show_preview_links: true
     editor:
       preview: fase
 
