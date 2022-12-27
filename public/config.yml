@@ -16,7 +16,7 @@ collections:
     slug: "{{permalink}}"
     #slug: "{{slug}}"
     #preview_path: "blog{{year}}/{{month}}/{{slug}}"
-    preview_path: "blog/{{year}}/{{month}}/{{slug}}"
+    preview_path: "dist/{{year}}/{{month}}/{{slug}}"
     identifier_field: postTitle
     autoFilename: true
     defaultOperations: '/resize/800x600/'
