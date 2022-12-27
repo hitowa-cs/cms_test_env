@@ -16,7 +16,7 @@ collections:
     defaultOperations: '/resize/800x600/'
     show_preview_links: true
     editor:
-      preview: true
+      preview: fase
 
     fields:
       - {name: title, widget: string}
