@@ -13,6 +13,7 @@ collections:
     slug: "{{slug}}"
     #preview_path: "blog{{year}}/{{month}}/{{slug}}"
     preview_path: "{{slug}}"
+    identifier_field: postTitle
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     #show_preview_links: true
