@@ -13,7 +13,7 @@ collections:
     label: Pages
     folder: "docs"
     create: true
-    slug: "{{permalink}}"
+    slug: "{{slug}}"
     #slug: "{{slug}}"
     #preview_path: "blog{{year}}/{{month}}/{{slug}}"
     preview_path: "/dist{{year}}/{{month}}/{{slug}}"
