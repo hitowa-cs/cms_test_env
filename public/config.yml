@@ -13,9 +13,8 @@ collections:
     label: Pages
     folder: "docs"
     create: true
-    slug: "{{slug}}"
-    preview_path: "blog/{{year}}/{{month}}/{{filename}}.{{extension}}"
-    identifier_field: postTitle
+    slug: "{{fields.slug}}"
+    identifier_field: title
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
