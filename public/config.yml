@@ -21,7 +21,7 @@ collections:
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
-      preview: fase
+      preview: true
 
     fields:
       - {name: title, widget: string}
