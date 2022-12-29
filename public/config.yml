@@ -15,7 +15,7 @@ collections:
     create: true
     slug: "{{slug}}"
     identifier_field: title
-    preview_path: "/post{{year}}/{{month}}/{{slug}}"
+    preview_path: "dist/{{year}}/{{month}}/{{slug}}"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
