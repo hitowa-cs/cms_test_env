@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
   branch: master
-  preview_context: deploy-preview
 publish_mode: editorial_workflow 
 media_folder: "/images/"
 locale: ja
@@ -15,6 +14,7 @@ collections:
     create: true
     slug: "{{slug}}"
     identifier_field: title
+    preview_context: deploy-preview
     preview_path: "dist/{{year}}/{{month}}/{{slug}}"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
