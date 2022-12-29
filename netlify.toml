@@ -3,7 +3,7 @@
   base = "project/"
 
   # 公開ディレクトリ
-  publish = "public"
+  publish = "dist"
 
   # ビルドコマンド
   command = "yarn build"
