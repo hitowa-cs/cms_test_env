@@ -3,5 +3,10 @@
   [headers.values]
     Content-Security-Policy = "child-src 'self' app.netlify.com; script-src 'self' app.netlify.com netlify-cdp-loader.netlify.app;"
 
+[context.production]
+  publish = "dist/"
+  command = "make publish"
+  environment = { NODE_VERSION = "v18.12.1" }
+
 [context.deploy-preview]
-    publish = "dist/"
+  publish = "dist/"
