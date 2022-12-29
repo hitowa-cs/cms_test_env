@@ -1,6 +1,6 @@
 [build]
   # ビルドを開始する場所を変更
-  base = "dist/"
+  base = "cms_test_env/"
 
   # 公開ディレクトリ
   publish = "dist"
