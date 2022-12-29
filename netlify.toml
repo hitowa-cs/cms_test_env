@@ -1,4 +1,2 @@
-base = "project/"
-
 [context.deploy-preview]
     publish = "/dist"
