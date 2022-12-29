@@ -1,2 +1,12 @@
-[context.deploy-preview]
-    publish = "dist/"
+[[redirects]]
+  from = "/old-path"
+  to = "/new-path"
+  status = 301
+  force = false
+  query = {path = ":path"} #  apply this rule for /old-path?path=example
+  conditions = {Language = ["en","es"], Country = ["US"]}
+
+[[redirects]]
+  from = "/docs"
+  to = "/blog"
+
