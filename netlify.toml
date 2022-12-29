@@ -1,50 +1,38 @@
 [build]
-  # Directory to change to before starting a build.
-  # This is where we will look for package.json/.nvmrc/etc.
-  # If not set, defaults to the root directory.
+  # ビルドを開始する場所を変更
+  base = "project/"
+
+  # 公開ディレクトリ
+  publish = "public"
+
+  # ビルドコマンド
   command = "yarn build"
-  publish = "/dist"
+
+  # Netlify Functions のエンドポイント対象ファイルを格納するディレクトリ
+  functions = "project/api/"
 
 
-# Production context: all deploys from the Production branch
-# set in your site’s Branches settings in the UI will inherit
-# these settings. You can define environment variables
-# here but we recommend using the Netlify UI for sensitive
-# values to keep them out of your source repository.
-[context.production]
-  publish = "dist/"
-  command = "make publish"
-  environment = { NODE_VERSION = "v18.12.1" }
+# 環境変数
+[build.environment]
+  VARIABLE = "value"
 
-# Here is an example of how to define context-specific
-# environment variables. Be mindful when using this
-# option and avoid committing sensitive values to public
-# source repositories.
-[context.deploy-preview.environment]
-  publish = "dist/"
+# リダイレクト
+[[redirects]]
+  from = "/old-path"
+  to = "/new-path"
+  status = 302
+  force = true
+  query = {id = ":id"}
+  [redirects.headers]
+    X-From = "Netlify"
+    X-Api-Key = "some-api-key-string"
 
-# Branch Deploy context: all deploys that are not from
-# a pull/merge request or from the Production branch
-# will inherit these settings.
-[context.branch-deploy]
-  command = "master branch"
-[context.branch-deploy.environment]
-  NODE_ENV = "development"
-
-# Dev context: environment variables set here 
-# are available for local development environments 
-# run using Netlify Dev. These values can be 
-# overwritten on branches that have a more specific 
-# branch context configured.
-[context.dev.environment]
-  NODE_ENV = "development"
-
-# Specific branch context: all deploys from
-# this specific branch will inherit these settings.
-[context.staging.environment] # “staging” is a branch name
-  NODE_ENV = "development"
-
-
-
-
-
+# カスタムヘッダー
+[[headers]]
+  for = "/*"
+  [headers.values]
+  cache-control = '''
+  max-age=0,
+  no-cache,
+  no-store,
+  must-revalidate'''
