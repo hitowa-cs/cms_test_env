@@ -13,8 +13,9 @@ collections:
     label: Pages
     folder: "docs"
     create: true
-    slug: "{{fields.slug}}"
+    slug: "{{slug}}"
     identifier_field: title
+    preview_path: "/news{{year}}/{{month}}/{{slug}}"
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
