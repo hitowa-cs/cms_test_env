@@ -1,15 +1,15 @@
 [build]
   # ビルドを開始する場所を変更
-  base = "/docs"
+  base = "/dist"
 
   # 公開ディレクトリ
-  publish = "docs"
+  publish = "/dist"
 
   # ビルドコマンド
   command = "yarn build"
 
   # Netlify Functions のエンドポイント対象ファイルを格納するディレクトリ
-  functions = "docs/api/"
+  functions = "dist/api/"
 
 
 # 環境変数
