@@ -14,7 +14,7 @@ collections:
     folder: "docs"
     create: true
     identifier_field: title
-    preview_path: docs/{{year}}/{{month}}/{{title}}
+    preview_path: dist/{{year}}/{{month}}/{{title}}
     preview_path_date_field: published_at
     autoFilename: true
     defaultOperations: '/resize/800x600/'
