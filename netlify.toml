@@ -3,7 +3,8 @@
   base = "/dist"
 
   # 公開ディレクトリ
-  publish = "/dist"
+  [context.deploy-preview]
+    publish = "/dist"
 
   # ビルドコマンド
   command = "yarn build"
