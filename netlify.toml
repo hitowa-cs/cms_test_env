@@ -1,5 +1,4 @@
-[build]
-  [context.deploy-preview]
+[context.deploy-preview]
     publish = "/dist"
 
   # ビルドコマンド
