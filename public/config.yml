@@ -15,7 +15,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     identifier_field: title
-    preview_path: /bog{{slug}}
+    preview_path: docs/{{slug}}
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
