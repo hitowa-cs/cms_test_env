@@ -14,11 +14,19 @@ collections:
     folder: "docs"
     create: true
     identifier_field: title
-    preview_path: /{{year}}/{{month}}/{{title}}
+    preview_path: content/pages{{year}}/{{month}}/{{title}}
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
       preview: true
+
+
+
+      collections:
+  - name: blog
+    folder: content/blog
+    slug: {{year}}-{{month}}-{{slug}}
+    preview_path: blog/{{slug}}
 
     fields:
       - {name: title, widget: string}
