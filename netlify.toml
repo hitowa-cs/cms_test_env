@@ -1,4 +1,4 @@
 [context.deploy-preview]
-    publish = "/docs"
+    publish = "dist/docs"
 
 
