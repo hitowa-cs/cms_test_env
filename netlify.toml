@@ -1,5 +1,5 @@
 [context.deploy-preview]
-    command = "yarn docs:build"
-    publish = "/docs"
+    command = "yarn build"
+    publish = "/dist"
 
 
