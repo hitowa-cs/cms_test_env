@@ -1,5 +1,5 @@
 [context.deploy-preview]
-    publish = "pages/"
+    publish = "dist/"
 
 
 
