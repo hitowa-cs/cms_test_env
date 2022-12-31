@@ -10,24 +10,12 @@ display_url: https://hitowa-test-cms.netlify.app
 
 collections:
   - name: pages
-    label: Pages
-    folder: "docs"
-    create: true
-    identifier_field: title
-    preview_path: content/pages{{year}}/{{month}}/{{title}}
+    preview_path: docs/{{slug}}
+    slug: {{year}}-{{month}}-{{slug}}
     autoFilename: true
     defaultOperations: '/resize/800x600/'
     editor:
       preview: true
-
-
-
-      collections:
-  - name: blog
-    folder: content/blog
-    slug: {{year}}-{{month}}-{{slug}}
-    preview_path: blog/{{slug}}
-
     fields:
       - {name: title, widget: string}
       - {name: layout, widget: select, options: ['grid', 'full-width', 'about', 'contact']}
