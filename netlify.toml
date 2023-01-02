@@ -1,2 +1,4 @@
-[build]
-  publish = "deploy-preview"
+[[workflow]]
+  name = "preview-link"
+  on = "draft"
+  publish = "dist/docs"
