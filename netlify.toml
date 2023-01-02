@@ -1,7 +1,6 @@
 # netlify.toml
 
 [build]
-  base = "src"
   command = "yarn build"
   publish = "/dist"
   preview_path = "/dist/{{build_id}}"
