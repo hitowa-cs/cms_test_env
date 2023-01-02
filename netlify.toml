@@ -3,7 +3,7 @@
 [build]
   command = "yarn build"
   publish = "/dist"
-  preview_path = "/dist/{{build_id}}"
+ 
 
 [context.deploy-preview]
   publish = "/dist"
