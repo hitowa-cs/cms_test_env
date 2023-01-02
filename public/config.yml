@@ -3,7 +3,7 @@ backend:
   branch: master
 publish_mode: editorial_workflow 
 media_folder: "/images/"
-
+preview_context: deploy-preview
 preview_mode: true
 locale: ja
 show_preview_links: true 
@@ -24,10 +24,4 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", required: false}
-    preview:
-      select:
-        - title
-      prepare:
-        - path: "/blog/:slug"
-          data:
-            title: ":title"
+      
