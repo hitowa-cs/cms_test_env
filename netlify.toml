@@ -1,7 +1,7 @@
 [preview]
 enabled = true
 [context.deploy-preview]
-  publish = "build/"
+  publish = "preview-build"
     command = "yarn build"
 
     
