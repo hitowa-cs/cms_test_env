@@ -1,7 +1,16 @@
-[context.deploy-preview]
+# netlify.toml
+
+[build]
   base = "src"
-  publish = "/dist"
-  preview_path = "/docs/{{build_id}}"
+  publish = "dist"
+  preview_path = "/preview/{{build_id}}"
+
+[context.deploy-preview]
+  command = "npm run build:preview"
+
+[[context.deploy-preview.environment]]
+  REACT_APP_API_URL = "https://preview-api.example.com"
+
 
 
     
