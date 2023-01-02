@@ -13,10 +13,10 @@ collections:
     label: Pages
     folder: "docs"
     create: true
-    preview_path: docs/{{slug}}
-    slug: {{year}}-{{month}}-{{slug}}
+    identifier_field: title
+    preview_path: content/pages{{year}}/{{month}}/{{title}}
     autoFilename: true
-    defaultoperations: '/resize/800x600/'
+    defaultOperations: '/resize/800x600/'
     editor:
       preview: true
     fields:
