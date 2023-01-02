@@ -1,6 +1,6 @@
 [build]
   base = "src"
-  publish = "dist"
+  publish = "/dist"
   preview_path = "/preview/{{build_id}}"
 
 
