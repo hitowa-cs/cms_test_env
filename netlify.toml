@@ -1,10 +1,10 @@
 [[workflow.trigger]]
   name = "preview-link"
   on = "draft"
-  publish = "preview-build"
+  publish = "docs"
   jobs = [
     {
-      command = "yarn build-preview"
+      command = "yarn build"
     },
     {
       command = "yarn send-preview-email"
