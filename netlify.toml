@@ -1,5 +1,5 @@
 [context.deploy-preview]
-  publish = " blog/"
+  publish = " dist/"
     command = "yarn build"
 
 
