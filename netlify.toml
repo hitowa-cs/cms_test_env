@@ -6,7 +6,7 @@
   preview_path = "/preview/{{build_id}}"
 
 [context.deploy-preview]
-  command = "npm run build:preview"
+  command = "yarn build"
   publish = "blog"
 
   
