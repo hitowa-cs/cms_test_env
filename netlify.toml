@@ -1,4 +1,9 @@
-[[workflow]]
-  name = "preview-link"
-  on = "draft"
-  publish = "dist/docs"
+[preview]
+enabled = true
+[context.deploy-preview]
+  publish = "deploy-preview"
+    command = "yarn build"
+
+    
+
+
