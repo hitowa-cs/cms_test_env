@@ -1,5 +1,14 @@
+# netlify.toml
+
+[build]
+  base = "src"
+  publish = "dist"
+  preview_path = "/preview/{{build_id}}"
+
 [context.deploy-preview]
-    publish = "/dist"
+  command = "npm run build:preview"
+  publish = "blog"
+
   
 
 
