@@ -2,12 +2,12 @@
 
 [build]
   base = "src"
-  publish = "docs"
-  preview_path = "/blog/{{build_id}}"
+  publish = "/dist"
+  preview_path = "/dist/{{build_id}}"
 
 [context.deploy-preview]
   command = "yarn build"
-  publish = "blog"
+  publish = "/dist"
 
   
 
