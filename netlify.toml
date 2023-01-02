@@ -1,6 +1,7 @@
 [context.deploy-preview]
-    publish = "/dist"
-  
+  base = "src"
+  publish = "/dist"
+  preview_path = "/docs/{{build_id}}"
 
 
     
