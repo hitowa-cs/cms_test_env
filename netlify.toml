@@ -6,7 +6,7 @@
   preview_path = "/dist/{{build_id}}"
 
 [context.deploy-preview]
-  command = "npm run build:dist"
+  command = "yarn run build"
 
 [[context.deploy-preview.environment]]
   REACT_APP_API_URL = "https://preview-api.example.com"
