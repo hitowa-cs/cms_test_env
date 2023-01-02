@@ -3,7 +3,6 @@ backend:
   branch: master
 publish_mode: editorial_workflow 
 media_folder: "/images/"
-preview_context: deploy-preview
 preview_template: /preview-article/{path}
 preview_mode: true
 locale: ja
