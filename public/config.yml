@@ -11,9 +11,9 @@ display_url: https://hitowa-test-cms.netlify.app
 collections:
   - name: pages
     label: Pages
-    folder: "dist"
+    folder: "docs"
     create: true
-    preview_path: /docs{{slug}}
+    preview_path: /dist{{slug}}
     slug: {{year}}-{{month}}-{{slug}}
     autoFilename: true
     defaultoperations: '/resize/800x600/'
