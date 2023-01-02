@@ -1,4 +1,11 @@
-[preview]
-enabled = true
-
-
+[[workflow.trigger]]
+  name = "preview-link"
+  on = "draft"
+  jobs = [
+    {
+      command = "yarn build-preview"
+    },
+    {
+      command = "yarn send-preview-email"
+    }
+  ]
