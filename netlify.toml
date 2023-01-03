@@ -1,12 +1,15 @@
 # netlify.toml
 
+[context.deploy-preview]
+  publish = "/dist"
+
 [build]
   base = ""
   publish = ""
   preview_path = ""
 
-[context.deploy-preview]
-  publish = "/dist"
+
+
 
   
 
