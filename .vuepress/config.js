@@ -1,7 +1,7 @@
 module.exports = {
   title: 'HITOWA',
   description:'HITOWA GROUP MESSAGE',
-  dest: 'docs',
+  dest: 'src',
   public: 'public',
   themeConfig: {
     navbar: false
