@@ -1,12 +1,13 @@
 module.exports = {
   title: 'HITOWA',
   description:'HITOWA GROUP MESSAGE',
+  dest: 'dist',
   public: 'public',
   themeConfig: {
     navbar: false
   },
   output: {
-    path: path.resolve(__docs, 'build')
+    path: path.resolve(__dirname, 'docs')
   },
   patterns: [
     'docs/*.md',
