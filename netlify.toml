@@ -1,5 +1,7 @@
 
 [build]
+  command = "yarn build"
+  base = "src"
   publish = "/docs"
 
 
