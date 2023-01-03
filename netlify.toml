@@ -1,8 +1,8 @@
 # netlify.toml
 
 [build]
-  base = "dist"
-  publish = "/dist"
+  base = "src"
+  publish = "docs"
   preview_path = "/dist/{{build_id}}"
 
 [context.deploy-preview]
