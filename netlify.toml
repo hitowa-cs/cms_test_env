@@ -6,7 +6,7 @@
 
 [context.deploy-preview]
   command = "yarn build"
-  publish = "/dist"
+  publish = "/opt/build/repo/src"
   
 
 
