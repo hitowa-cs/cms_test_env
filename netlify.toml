@@ -6,7 +6,6 @@
   preview_path = ""
 
 [context.deploy-preview]
-  command = ""
   publish = "/dist"
 
   
