@@ -1,4 +1,12 @@
+# netlify.toml
+
+[build]
+  base = "dist"
+  publish = "/dist"
+  preview_path = "/dist/{{build_id}}"
+
 [context.deploy-preview]
+  command = "yarn build"
   publish = "/dist"
 
   
