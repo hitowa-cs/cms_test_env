@@ -3,18 +3,18 @@
 
 [build]
   publish = "/docs"
-  preview_path = "/dist/docs/{{build_id}}"
+  preview_path = "/opt/build/repo/dist/docs{{build_id}}"
 
 [context.deploy-preview]
   command = "yarn build"
-  publish = "/dist/docs"
+  publish = "/opt/build/repo/dist/docs"
 
 [[context.deploy-preview.environment]]
   REACT_APP_API_URL = "https://preview-api.example.com"
 
 [context.preview]
   command = "npm run build:preview"
-  preview_path = "/dist/docs{{build_id}}"
+  preview_path = "/opt/build/repo/dist/docs{{build_id}}"
 
 [[context.preview.environment]]
   REACT_APP_API_URL = "https://preview-api.example.com"
