@@ -6,7 +6,7 @@
   preview_path = ""
 
 [context.deploy-preview]
-  command = "yarn build"
+  command = ""
   publish = "/dist"
 
   
