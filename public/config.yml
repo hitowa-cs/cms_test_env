@@ -9,7 +9,7 @@ package: netlify-cms-backend-fs
 show_preview_links: true 
 preview_template: preview-templates/preview-template.html
 publish_mode:
-  url: https://api.netlify.com/build_hooks/<your-build-hook-id>
+  url: https://api.netlify.com/build_hooks/63b4d94ef750b0744283822a
 display_url: https://hitowa-test-cms.netlify.app
 
 collections:
