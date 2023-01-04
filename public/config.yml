@@ -9,14 +9,12 @@ show_preview_links: true
 display_url: https://hitowa-test-cms.netlify.app
 
 collections:
-  - name: pages
-    label: Pages
-    folder: dist
-    create: true
+  - name: post
+    folder: content/blog
     slug: {{year}}-{{month}}-{{slug}}
-    autoFilename: true
-    preview_path: dist/{{year}}/{{month}}/{{title}}
+    preview_path: blog/{{slug}}
     defaultOperations: '/resize/800x600/'
+    autoFilename: true
     editor:
       preview: true
     fields:
