@@ -12,7 +12,8 @@ collections:
   - name: pages
     folder: content/docs
     slug: {{year}}-{{month}}-{{slug}}
-    preview_path: docs/{{slug}}
+    preview_path: '/docs/{date}/{title}',
+    create: true,
     editor:
       preview: true
     fields:
@@ -23,4 +24,3 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", required: false}
       
-
