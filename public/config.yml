@@ -15,7 +15,7 @@ collections:
     create: true
     slug: {{year}}-{{month}}-{{slug}}
     autoFilename: true
-    preview_path: dist/{{year}}/{{month}}/{{title}}
+    preview_path: docs/{{year}}/{{month}}/{{title}}
     defaultOperations: '/resize/800x600/'
     editor:
       preview: true
