@@ -1,5 +1,12 @@
 [build]
-  command = "yarn docs:build"
-  publish = "/public"
+  command = "yarn build"
+  publish = "/docs"
+
+
+[context.deploy-preview]
+  command = "yarn build"
+  publish = "dist/docs"
+ 
+
 
 
