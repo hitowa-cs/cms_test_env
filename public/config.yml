@@ -12,7 +12,7 @@ collections:
   - name: pages
     folder: content/docs
     slug: {{year}}-{{month}}-{{slug}}
-    preview_path: '/dist/{date}/{title}',
+    preview_path: 'dist/{date}/{title}',
     create: true,
     editor:
       preview: true
