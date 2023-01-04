@@ -11,11 +11,11 @@ display_url: https://hitowa-test-cms.netlify.app
 collections:
   - name: pages
     label: Pages
-    folder: docs
+    folder: dist
     create: true
     slug: {{year}}-{{month}}-{{slug}}
     autoFilename: true
-    preview_path: docs/{{year}}/{{month}}/{{title}}
+    preview_path: dist/{{year}}/{{month}}/{{title}}
     defaultOperations: '/resize/800x600/'
     editor:
       preview: true

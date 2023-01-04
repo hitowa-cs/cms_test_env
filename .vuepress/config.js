@@ -3,7 +3,7 @@ module.exports = {
   description:'HITOWA GROUP MESSAGE',
   // branch: 'origin',
   // src:'src',
-  dest: 'docs',
+  dest: 'dist',
   // env: {
   //   MY_VARIABLE: 'value',
   // },
