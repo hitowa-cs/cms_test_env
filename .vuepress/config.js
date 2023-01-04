@@ -3,7 +3,7 @@ module.exports = {
   description:'HITOWA GROUP MESSAGE',
   branch: 'origin',
   src:'src',
-  dest: 'dist/docs',
+  dest: 'docs',
   public: 'public',
   themeConfig: {
     navbar: false
