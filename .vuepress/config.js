@@ -1,12 +1,12 @@
 module.exports = {
   title: 'HITOWA',
   description:'HITOWA GROUP MESSAGE',
-  branch: 'origin',
-  src:'src',
+  // branch: 'origin',
+  // src:'src',
   dest: 'dist/docs',
-  env: {
-    MY_VARIABLE: 'value',
-  },
+  // env: {
+  //   MY_VARIABLE: 'value',
+  // },
   public: 'public',
   themeConfig: {
     navbar: false
