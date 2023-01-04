@@ -10,9 +10,9 @@ display_url: https://hitowa-test-cms.netlify.app
 
 collections:
   - name: post
-    folder: content/blog
+    folder: docs
     slug: {{year}}-{{month}}-{{slug}}
-    preview_path: blog/{{slug}}
+    preview_path: docs/{{year}}/{{month}}/{{title}}
     defaultOperations: '/resize/800x600/'
     autoFilename: true
     editor:
