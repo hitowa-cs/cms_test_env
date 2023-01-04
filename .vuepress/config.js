@@ -1,7 +1,7 @@
 module.exports = {
   title: 'HITOWA',
   description:'HITOWA GROUP MESSAGE',
-  dest: 'dist/docs',
+  dest: 'dist',
   public: 'public',
   themeConfig: {
     navbar: false
@@ -18,8 +18,5 @@ module.exports = {
       require("autoprefixer"),
       require("tailwindcss")("./tailwind.config.js")
     ],
-    output: {
-      path: path.resolve(__dirname, 'build')
-    }
   }
 }
