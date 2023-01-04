@@ -1,6 +1,8 @@
 module.exports = {
   title: 'HITOWA',
   description:'HITOWA GROUP MESSAGE',
+  branch: 'preview',
+  src:'src',
   dest: 'dist/docs',
   public: 'public',
   themeConfig: {
