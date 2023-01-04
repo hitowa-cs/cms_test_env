@@ -5,11 +5,7 @@ publish_mode: editorial_workflow
 media_folder: "/images/"
 preview_context: deploy-preview
 locale: ja
-package: netlify-cms-backend-fs
 show_preview_links: true 
-preview_template: preview-templates/preview-template.html
-publish_mode:
-  url: https://api.netlify.com/build_hooks/63b4d94ef750b0744283822a
 display_url: https://hitowa-test-cms.netlify.app
 
 collections:
@@ -19,6 +15,7 @@ collections:
     create: true
     slug: {{year}}-{{month}}-{{slug}}
     autoFilename: true
+    preview_path: dist/docs{{slug}}
     defaultoperations: '/resize/800x600/'
     editor:
       preview: true
