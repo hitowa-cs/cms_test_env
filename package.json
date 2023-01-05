@@ -7,6 +7,7 @@
     "dev": "vuepress dev",
     "build": "vuepress build",
     "docs:build": "vuepress build docs",
+    "publish": "docs",
     "build:secret": "tsc tools/genpem.ts; node tools/genpem.js"
   },
   "keywords": [],
