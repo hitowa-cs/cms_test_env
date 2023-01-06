@@ -4,7 +4,7 @@
 
 
 [context.deploy-preview]
-  command = "npm run build"
+  command = "yarn docs:build"
   publish = "docs/.vuepress/dist"
 
 
