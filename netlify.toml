@@ -4,8 +4,8 @@
 
 
 [context.deploy-preview]
-  command = "npm run build"
-  publish = "uploads"
+  command = "yarn docs:build"
+  publish = "/dist"
   environment = { NODE_ENV = "production" }
   base = "/"
   preview_path = "https://hitowa-test-cms.netlify.app/preview"
