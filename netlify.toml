@@ -4,7 +4,7 @@
 
 
 [context.deploy-preview]
-  command = "yarn run docs:build"
+  command = "yarn docs:build"
   publish = "docs/.vuepress/dist"
   environment = { NODE_ENV = "mster" }
   base = "/"
