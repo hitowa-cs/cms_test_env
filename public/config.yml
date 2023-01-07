@@ -14,7 +14,7 @@ collections:
     folder: docs
     create: true
      slug: "{{slug}}"
-    preview_path: docs/{{year}}/{{month}}/{{title}}
+    preview_path: blog/{{year}}/{{month}}/{{title}}
     editor:
       preview: true
     fields:
