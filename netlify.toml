@@ -5,7 +5,7 @@
 
 [context.deploy-preview]
   command = "yarn docs:build"
-  publish = "blog/.vuepress/dist"
+  publish = "docs/.vuepress/dist"
   environment = { NODE_ENV = "master" }
   base = "/"
   preview_path = "https://hitowa-test-cms.netlify.app/preview"
