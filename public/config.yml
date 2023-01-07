@@ -6,6 +6,7 @@ media_folder: "/images/"
 preview_context: deploy-preview
 locale: ja
 show_preview_links: true 
+site_url: https://hitowa-test-cms.netlify.app
 display_url: https://hitowa-test-cms.netlify.app
 
 collections:
@@ -14,6 +15,7 @@ collections:
     folder: docs
     create: true
      slug: "{{slug}}"
+    preview_path: docs/{{year}}/{{month}}/{{title}}
     editor:
       preview: true
     fields:
@@ -24,4 +26,3 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", required: false}
       
-preview_path: docs/{{year}}/{{month}}/{{title}}  
