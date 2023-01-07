@@ -15,7 +15,7 @@ collections:
     create: true
     slug: {{year}}-{{month}}-{{slug}}
     autoFilename: true
-    preview_path: docs/.vuepress/dist{{year}}/{{month}}/{{title}}.html
+    preview_path: {{year}}/{{month}}/{{title}}.html
     defaultperations: '/resize/800x600/'
     editor:
       preview: true
