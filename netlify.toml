@@ -1,6 +1,6 @@
 [build]
   command = "yarn run build"
-  publish = "/public"
+  publish = "docs/.vuepress/dist"
 
 
 [context.deploy-preview]
