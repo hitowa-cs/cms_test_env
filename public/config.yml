@@ -14,7 +14,6 @@ collections:
     folder: docs
     create: true
      slug: "{{slug}}"
-    preview_path: docs/{{year}}/{{month}}/{{title}}
     editor:
       preview: true
     fields:
@@ -25,3 +24,4 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", required: false}
       
+preview_path: docs/{{year}}/{{month}}/{{title}}  

@@ -7,7 +7,6 @@
     "dev": "vuepress dev",
     "build": "vuepress build",
     "docs:build": "vuepress build docs",
-    "deploy": "netlify deploy preview --dir=docs/.vuepress/dist",
     "build:secret": "tsc tools/genpem.ts; node tools/genpem.js"
   },
   "keywords": [],
