@@ -14,7 +14,6 @@ collections:
     folder: docs
     create: true
      slug: "{{slug}}"
-    identifier_field: title
     preview_path: docs/{{title}}.html
     identifier_field: title
     editor:
