@@ -19,7 +19,7 @@ crossorigin="anonymous"></script><link rel="stylesheet" href="https://cdn.jsdeli
 
 <div class="p-3 carousel-item active">
 
-<img src="img/care 1.jpg" class="d-block w-100">
+<img src="care 1.jpg" class="d-block w-100">
 
 <div class="carousel-caption hidden md:block absolute text-center">
 
@@ -33,7 +33,7 @@ crossorigin="anonymous"></script><link rel="stylesheet" href="https://cdn.jsdeli
 
 <div class="p-3 carousel-item">
 
-<img src="img/care 2.jpg" class="d-block w-100">
+<img src="care 2.jpg" class="d-block w-100">
 
 <div class="carousel-caption hidden md:block absolute text-center">
 
@@ -47,7 +47,7 @@ crossorigin="anonymous"></script><link rel="stylesheet" href="https://cdn.jsdeli
 
 <div class="p-3 carousel-item">
 
-<img src="img/care 3.jpg" class="d-block w-100">
+<img src="care 3.jpg" class="d-block w-100">
 
 <div class="carousel-caption hidden md:block absolute text-center">
 
@@ -61,7 +61,7 @@ crossorigin="anonymous"></script><link rel="stylesheet" href="https://cdn.jsdeli
 
 <div class="p-3 carousel-item">
 
-<img src="img/care 4.jpg" class="d-block w-100">
+<img src="care 4.jpg" class="d-block w-100">
 
 <div class="carousel-caption hidden md:block absolute text-center">
 
@@ -97,25 +97,25 @@ crossorigin="anonymous"></script><link rel="stylesheet" href="https://cdn.jsdeli
 
 <button type="button" data-target="#carouselExampleIndicators" class="active img-thumbnail" data-slide-to="0">
 
-<img src="img/care 1.jpg" alt="" class="d-block w-100">
+<img src="care 1.jpg" alt="" class="d-block w-100">
 
 </button>
 
 <button type="button" data-target="#carouselExampleIndicators" class="img-thumbnail" data-slide-to="1">
 
-<img src="img/care 2.jpg" alt="" class="d-block w-100">
+<img src="care 2.jpg" alt="" class="d-block w-100">
 
 </button>
 
 <button type="button" data-target="#carouselExampleIndicators" class="img-thumbnail" data-slide-to="2">
 
-<img src="img/care 3.jpg" alt="" class="d-block w-100">
+<img src="care 3.jpg" alt="" class="d-block w-100">
 
 </button>
 
 <button type="button" data-target="#carouselExampleIndicators" class="img-thumbnail" data-slide-to="3">
 
-<img src="img/care 4.jpg" alt="" class="d-block w-100">
+<img src="care 4.jpg" alt="" class="d-block w-100">
 
 </button>
 
