@@ -1,5 +1,5 @@
 ---
-title: slidetest
+title: slidetestnew
 layout: full-width
 categories:
   - new
@@ -12,10 +12,6 @@ integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCm
 crossorigin="anonymous"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"><title>Image Slider Carousel With Thumbas</title><style>body {/* background: #ccc; */padding-top: 20px;}.carousel-control-prev,.carousel-control-next {width: 150px;/*slide icon close and */color: rgb(255, 0, 0);}.carousel-indicators {margin-bottom: -70px;static;}.carousel-indicators button[data-target] {width: 50px;}.carousel-inner img {width: 100vw; /* Set the width to 100% of the viewport */height: 50vh; /* Set the height to 50% of the viewport */object-fit: fill; /* Scale the images to cover the container */}.carousel-control-prev {background-color: rgb(162, 151, 151);}/* Change the background color of the next button */.carousel-control-next {background-color: rgb(162, 164, 153);}.carousel-control-prev {height: 50px;width: 50px;}/* Change the size of the next button */.carousel-control-next {height: 50px;width: 50px;}/* Change the position of the preview button */.carousel-control-prev {position: absolute;top: 50%;left: 0;}/* Change the position of the next button */.carousel-control-next {position: absolute;top: 50%;right: 0;}.carousel-caption h5 {color: red; /* Change the color of the headings */}.carousel-caption p {font-size:12px; /* Change the font size of the paragraphs */}.carousel-caption {position: absolute;top: 70%;left: 50%;transform: translate(-50%, -50%); /* Center the text within the carousel */}.carousel-item p {background-color: #333; /* This is the background color you want */} /* Change the position of the preview button */</style></head>
 
 <body>
-
-<!-- Carousel Start -->
-
-<!-- Carousel Start -->
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 
