@@ -1,11 +1,11 @@
 module.exports = {
   title: 'HITOWA',
   description:'HITOWA GROUP MESSAGE',
-  dest: 'dist',
-  public: 'public',
   themeConfig: {
-    navbar: false
-  },
+    nav:[
+      {text:'Home', link:'/'},
+      {text:'categories', link:'/categories/'}
+  ],
   patterns: [
     'docs/*.md',
     'docs/**/*.md',
