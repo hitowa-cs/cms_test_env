@@ -6,6 +6,7 @@ media_folder: "/images/"
 preview_context: deploy-preview
 locale: ja
 show_preview_links: true 
+public_folder: "../../"
 display_url: https://hitowa-test-cms.netlify.app
 
 collections:

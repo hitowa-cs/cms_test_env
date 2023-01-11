@@ -1,3 +1,4 @@
+
 # Sample workflow for building and deploying a Next.js site to GitHub Pages
 #
 # To get started with Next.js see: https://nextjs.org/docs/getting-started
@@ -34,13 +35,29 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16"
+          cache: npm
       - name: Install dependencies
         run: npm ci
-      - run: yarn build
-      - name: Release to S3
-        env:  
-          AWS_ACCESS_KEY_ID: ${{secrets.AWS_ACCESS_KEY}} 
-          AWS_SECRET_ACCESS_KEY: ${{secrets.AWS_ACCESS_SECRET}} 
+      - name: Build with VuePress
+      - run: npm run build
+      - name: fix path
         run: |
-          cp -rf images/ dist/
-          aws s3 cp --recursive --region ap-northeast-1 dist s3://hitowa-cms-test
+          ls -l
+          find ~.vuepress/dist/hitowa -name '*.html'
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./.vuepress/dist
+      
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
