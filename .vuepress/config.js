@@ -2,7 +2,7 @@ module.exports = {
   title: 'HITOWA',
   description:'HITOWA GROUP MESSAGE',
   dest: 'docs/.vuepress/dist',
-  // public: 'public',
+  public: 'public',
   themeConfig: {
     navbar: false
   },
