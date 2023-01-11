@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build view",
+    "build": "vuepress build",
     "docs:build": "exit 0",
     "build:secret": "tsc tools/genpem.ts; node tools/genpem.js"
   },
