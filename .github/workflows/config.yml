@@ -43,7 +43,7 @@ jobs:
       - name: fix path
         run: |
           ls -l
-          find ~.vuepress/dist/hitowa -name '*.html'
+          find ~.vuepress/dist/docs -name '*.html'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
