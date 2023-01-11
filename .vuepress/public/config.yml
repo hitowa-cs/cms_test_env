@@ -6,7 +6,6 @@ media_folder: "/images/"
 preview_context: deploy-preview
 locale: ja
 show_preview_links: true 
-public_folder: "../../"
 display_url: https://hitowa-test-cms.netlify.app
 
 collections:
@@ -14,7 +13,7 @@ collections:
     label: Pages
     folder: docs
     create: true
-     slug: "{{slug}}"
+    slug: "{{slug}}"
     preview_path: docs/{{title}}.html
     identifier_field: title
     editor:
